@@ -1,0 +1,2100 @@
+,car_name,price,kms_driven,fuel_type,city,year_of_manufacture
+0,Hyundai Grand i10 Magna 1.2,445000,22402,Petrol,Mumbai,2016
+1,Maruti Suzuki Alto 800 Lxi,293000,10344,Petrol,Kolkata,2019
+2,Tata Safari XZ Plus New,2249000,12999,Diesel,Bangalore,2021
+3,Maruti Suzuki Ciaz ZXI+,695000,45000,Petrol,Thane,2016
+4,Jeep Compass Sport Plus 1.4,1200000,11193,Petrol,Kolkata,2019
+5,Maruti Suzuki Eeco 5 STR,372000,42906,Petrol,Chennai,2017
+6,Hyundai Creta SX Plus 1.6,1150000,66602,Diesel,Mumbai,2017
+7,Maruti Suzuki Ertiga VXi AT,1039000,13189,Petrol,Bangalore,2019
+8,Toyota Etios Liva G,375000,67815,Petrol,Mumbai,2013
+9,Renault Kwid 1.0 RXT AMT,425000,19509,Petrol,Mumbai,2018
+10,Maruti Suzuki Ciaz VDi+ SHVS,675000,60000,Diesel,Ahmedabad,2017
+11,Maruti Suzuki Alto 800 LXi,449000,3583,Petrol,Bangalore,2019
+12,Chevrolet Optra Magnum LS 2.0,300000,148000,Diesel ,Pallikarnai,2007
+13,Maruti Suzuki Vitara Brezza VDi,950000,48748,Diesel,Hyderabad,2019
+14,Jeep Compass Longitude 2.0 Diesel,1325000,38000,Diesel,Thane,2018
+15,Toyota Corolla Altis VL AT,925000,36000,Petrol,Kolkata,2016
+16,Hyundai Elite i20 Magna Executive,675000,13747,Petrol,Ahmedabad,2017
+17,Mercedes-Benz EQC 400 4MATIC,9500000,3200,Electric,Pune,2022
+18,Ford EcoSport Titanium 1.5L Ti-VCT,871000,12795,Petrol,Chennai,2018
+19,Hyundai i10 Magna 1.2 Kappa2,335000,41273,Petrol,Mumbai,2014
+20,Hyundai Creta 1.6 SX Plus,988000,20142,Petrol,Pune,2016
+21,Porsche 718 Boxster,11500000,6500,Petrol,Pune,2020
+22,Kia Seltos HTE 1.5 Diesel,1100000,47103,Diesel,Thane,2019
+23,Maruti Suzuki Ciaz Alpha Hybrid,990000,7755,Petrol,Mumbai,2020
+24,Renault Kwid 1.0 RXL [2017-2019],345000,33513,Petrol,Gurgaon,2019
+25,BMW 3 Series 320d Luxury,3749000,24848,Diesel,Kolkata,2019
+26,Maruti Suzuki Baleno Alpha 1.2,639000,34559,Petrol,Delhi,2017
+27,Hyundai i20 Sportz 1.2 IVT,890000,4000,Petrol,Ahmedabad,2022
+28,Ford EcoSport Titanium 1.5L Ti-VCT,659000,54544,Petrol,Kolkata,2018
+29,Maruti Suzuki Wagon R 1.0,392000,42247,Petrol,Kolkata,2018
+30,Honda Jazz VX Diesel,800000,100000,Diesel,Hyderabad,2018
+31,Maruti Suzuki Swift VDi,775000,69000,Diesel,Hyderabad,2019
+32,Tata Nexon XZ Plus,1152000,10422,Petrol,Delhi,2021
+33,Audi Q3 35 TDI Premium,1675000,52000,Diesel,Mumbai,2014
+34,Maruti Suzuki Ciaz Alpha Hybrid,850000,56255,Petrol,Ahmedabad,2019
+35,Hyundai Santro Sportz CNG [2018-2020],593000,78260,CNG,Delhi,2021
+36,Maruti Suzuki Alto 800 LXi,415000,19970,CNG,Bangalore,2021
+37,MG Hector Plus Sharp 1.5,1850000,9070,Petrol,Ahmedabad,2020
+38,Ford Figo Duratec Petrol ZXI,240000,73000,Petrol,Thane,2013
+39,Audi Q3 2.0 TDI Base,1199000,46336,Diesel,Kolkata,2015
+40,Hyundai Creta SX Plus 1.6,895000,57220,Petrol,Thane,2016
+41,Honda Jazz ZX,968000,7096,Petrol,Pune,2021
+42,Mercedes-Benz EQC 400 4MATIC,8100000,21500,Electric,Bangalore,2020
+43,Hyundai Grand i10 Asta 1.2,493000,44045,Petrol,Pune,2015
+44,BMW X1 sDrive20d,1050000,70000,Diesel,Kolkata,2013
+45,Maruti Suzuki Swift ZDi Plus,785000,32853,Diesel,Thane,2018
+46,BMW 5 Series 520d Luxury,3899000,26781,Diesel,Kolkata,2017
+47,Skoda Superb L&K TSI AT,3100000,45700,Petrol,Ahmedabad,2021
+48,Maruti Suzuki Swift DZire VXI,485000,62000,Petrol,Thane,2014
+49,Maruti Suzuki Wagon R 1.0,435000,73500,CNG,Thane,2017
+50,Maruti Suzuki Wagon R 1.0,451000,74076,CNG,Pune,2017
+51,Tata Tiago Revotron XZA,545000,56355,Petrol,Mumbai,2018
+52,Tata Tiago Revotron XT [2016-2019],450000,37000,Petrol,Thane,2017
+53,Maruti Suzuki Wagon R LXi,681000,22158,CNG,Pune,2021
+54,Hyundai Xcent S 1.2,395000,62568,Petrol,Noida,2014
+55,Kia Seltos HTK 1.5 [2020-2021],1143000,19970,Petrol,Pune,2019
+56,BMW 5 Series 520d Luxury,2300000,73900,Diesel,Ahmedabad,2015
+57,Kia Seltos HTE 1.5,1050000,37991,Petrol,Thane,2020
+58,Hyundai Creta 1.6 SX Plus,1275000,58676,Petrol,Mumbai,2018
+59,Hyundai Grand i10 Sportz (O),599000,35104,Petrol,Bangalore,2017
+60,Kia Seltos GTX 1.4 Dual,1620000,51605,Petrol,Pune,2019
+61,Maruti Suzuki S-Presso VXi,420000,17472,Petrol,Delhi,2020
+62,Hyundai Elite i20 Sportz 1.4,475000,80000,Diesel,Delhi,2015
+63,Mercedes-Benz GLC 200 Progressive,6600000,16785,Petrol,Bangalore,2021
+64,Mercedes-Benz E-Class E 200,6899000,3999,Petrol,Bangalore,2020
+65,Maruti Suzuki Wagon R 1.0,441000,66882,CNG,Pune,2017
+66,Audi A4 35 TDI Technology,2950000,71235,Diesel,Ahmedabad,2018
+67,Chevrolet Cruze LTZ AT,590000,56000,Diesel,Ahmedabad,2013
+68,Hyundai Grand i10 Magna 1.2,414000,74938,Petrol,Delhi,2016
+69,Honda City 1.5 S MT,285000,82000,Petrol,Noida,2009
+70,Maruti Suzuki Wagon R LXi,675000,57685,CNG,Pune,2021
+71,Hyundai Elite i20 Sportz 1.2,710000,48000,Petrol,Hyderabad,2018
+72,Mercedes-Benz C-Class 220 BlueEfficiency,1395000,120000,Diesel,Hyderabad,2013
+73,Hyundai Eon Magna [2011-2012],320000,33146,Petrol,Ahmedabad,2015
+74,Maruti Suzuki Baleno Delta 1.2,629000,26603,Petrol,Delhi,2019
+75,Volkswagen Vento Comfortline 1.2 (P),651000,53094,Petrol,Mumbai,2016
+76,Hyundai Grand i10 Magna 1.2,475000,4098,Petrol,Mumbai,2017
+77,Maruti Suzuki Wagon R 1.0,289000,75379,Petrol,Pune,2011
+78,Hyundai Venue S 1.0 Petrol,897000,15763,Petrol,Kolkata,2019
+79,Mercedes-Benz C-Class 200 K AT,850000,119500,Petrol,Ahmedabad,2010
+80,Maruti Suzuki Wagon R 1.0,276000,42697,Petrol,Kolkata,2013
+81,Hyundai Elite i20 Magna Executive,690000,45000,Petrol,Ahmedabad,2018
+82,Maruti Suzuki Vitara Brezza ZDi,1044000,55174,Diesel,Pune,2019
+83,Honda City VX CVT,735000,82953,Petrol,Chennai,2016
+84,Maruti Suzuki Wagon R 1.0,390000,85138,Petrol,Pune,2016
+85,Audi Q5 3.0 TDI quattro,2500000,57000,Diesel,Hyderabad,2015
+86,Audi A6 2.0 TDI Premium,1125000,52000,Diesel,Kolkata,2013
+87,Hyundai Creta SX Plus 1.6,979000,27623,Petrol,Bangalore,2016
+88,Hyundai Xcent SX 1.2 (O),499000,73333,Petrol,Bangalore,2015
+89,MG Hector Sharp 2.0 Diesel,1659000,45999,Diesel,Bangalore,2019
+90,Maruti Suzuki Baleno Sigma 1.2,545000,61518,Petrol,Noida,2017
+91,Maruti Suzuki S-Presso VXi Plus,476000,65,Petrol,Delhi,2021
+92,Maruti Suzuki Baleno Zeta 1.3,739000,42400,Diesel,Bangalore,2017
+93,Jeep Compass Limited 1.4 Petrol,1395000,45221,Petrol,Mumbai,2017
+94,Maruti Suzuki Ignis Zeta 1.2,628000,11290,Petrol,Pune,2020
+95,Hyundai Grand i10 Sports Edition,409000,68446,Petrol,Delhi,2016
+96,Honda City V,590000,51850,Petrol,Mumbai,2015
+97,Toyota Glanza G CVT,795000,10000,Petrol,Mumbai,2020
+98,Audi Q3 2.0 TDI quattro,1190000,69500,Diesel,Ahmedabad,2012
+99,Maruti Suzuki Swift DZire ZXI,445000,44681,Petrol,Hyderabad,2012
+100,Renault Kwid RXT [2015-2019],299000,65428,Petrol,Pune,2016
+101,Hyundai Verna Fluidic 1.6 VTVT,391000,84344,Petrol,Delhi,2013
+102,Maruti Suzuki Vitara Brezza ZDi,890000,113600,Diesel,Thane,2018
+103,Maruti Suzuki Wagon R LXi,599000,17778,CNG,Delhi,2020
+104,Maruti Suzuki Baleno Delta 1.2,580000,33269,Petrol,Kolkata,2018
+105,MG Hector Sharp 1.5 DCT,1925000,15222,Petrol,Bangalore,2021
+106,Honda City V Diesel,925000,87139,Diesel,Hyderabad,2017
+107,Maruti Suzuki Swift VXi ABS,340000,69551,Petrol,Delhi,2013
+108,Hyundai Verna Fluidic 1.6 CRDi,485000,72500,Diesel,Thane,2013
+109,Maruti Suzuki Swift ZXi,633000,28899,Petrol,Delhi,2018
+110,Maruti Suzuki Wagon R 1.0,396000,13595,Petrol,Kolkata,2017
+111,Ford Endeavour Titanium 3.2 4x4,2475000,83000,Diesel,Mumbai,2016
+112,Hyundai Elite i20 Magna Executive,775000,19418,Petrol,Bangalore,2019
+113,Volvo V40 D3 Kinetic,1200000,50965,Diesel,Kolkata,2015
+114,Ford EcoSport Ambiente 1.5L TDCi,491000,74000,Diesel,Thane,2014
+115,Hyundai Xcent SX CRDi,425000,21707,Diesel,Kolkata,2017
+116,Mahindra XUV500 W8,740000,83555,Diesel,Hyderabad,2013
+117,Hyundai Verna 1.6 VTVT SX,585000,37000,Petrol,Mumbai,2015
+118,Hyundai Grand i10 Magna 1.2,385000,43000,Petrol,Noida,2014
+119,Maruti Suzuki Baleno Zeta 1.2,690000,21769,Petrol,Mumbai,2017
+120,BMW 5 Series 530i Sport,4250000,32000,Petrol,Mumbai,2018
+121,Maruti Suzuki Ciaz Zeta Hybrid,799000,14886,Petrol,Mumbai,2018
+122,MG Hector Plus Sharp 1.5,1890000,6602,Petrol,Ahmedabad,2020
+123,Maruti Suzuki Wagon R 1.0,385000,58000,CNG,Thane,2014
+124,Maruti Suzuki Wagon R 1.0,407000,63339,CNG,Pune,2014
+125,Maruti Suzuki Ciaz Delta 1.5,830000,4500,Petrol,Faridabad,2020
+126,Renault Triber RXZ EASY-R AMT,760000,23600,Petrol,Chennai,2020
+127,Hyundai Venue S 1.0 Petrol,955000,17844,Petrol,Kolkata,2019
+128,Honda City SV,875000,21000,Petrol,Ahmedabad,2019
+129,Tata Indica LS,250000,60000,Diesel,Thiruvallur,2017
+130,Maruti Suzuki Celerio VXi AMT,450000,34530,Petrol,Thane,2016
+131,Honda CR-V 2.4 AT,1400000,117192,Petrol,Hyderabad,2014
+132,Honda Jazz VX Diesel,595000,54000,Diesel,Thane,2016
+133,Nissan Terrano XL (P),679000,38999,Petrol,Bangalore,2016
+134,Volkswagen Ameo Highline Plus 1.5L,660000,58549,Diesel,Chennai,2017
+135,Hyundai Elite i20 Sportz 1.2,687000,41055,Petrol,Delhi,2019
+136,Renault Kwid 1.0 RXT [2016-2019],304000,53728,Petrol,Delhi,2018
+137,Hyundai Grand i10 Sportz (O),529000,42141,Petrol,Bangalore,2017
+138,Tata Tiago JTP 1.2 [2018-2019],416000,63130,Petrol,Delhi,2018
+139,Maruti Suzuki Alto K10 VXi,301000,53912,Petrol,Chennai,2016
+140,Tata Nexon XMA Diesel,941000,20678,Diesel,Thane,2019
+141,Tata Safari XTA Plus,2375000,4259,Diesel,Bangalore,2022
+142,Honda Jazz E MT [2015-2016],490000,48866,Petrol,Ahmedabad,2016
+143,Renault Kwid RXT [2015-2019],331000,32954,Petrol,Delhi,2018
+144,Maruti Suzuki Wagon R 1.0,235000,37000,Petrol,Mumbai,2012
+145,Mahindra XUV500 W11 AT,1390000,85000,Diesel,Ahmedabad,2018
+146,Audi A3 35 TDI Premium,2475000,36627,Diesel,Bangalore,2016
+147,Volkswagen Polo GT TSI,925000,62690,Petrol,Bangalore,2018
+148,Toyota Innova Crysta GX 2.4,2150000,12039,Diesel,Ahmedabad,2020
+149,Honda City VX CVT Petrol,1204000,26230,Petrol,Delhi,2020
+150,Hyundai Santro Sportz AMT,557000,19156,Petrol,Pune,2020
+151,Hyundai Grand i10 Nios Sportz,579000,18350,Petrol,Kolkata,2020
+152,Hyundai Elite i20 Magna Executive,554000,44053,Petrol,Pune,2018
+153,Hyundai i10 1.1L iRDE Magna,340000,69000,Petrol,Ahmedabad,2014
+154,Kia Seltos GTX 1.4 Dual,1620000,51605,Petrol,Pune,2019
+155,BMW 5 Series 520d Sedan,4300000,40000,Diesel,Ahmedabad,2017
+156,Tata Harrier XZ Plus Dual,1895000,35438,Diesel,Thane,2020
+157,BMW 7 Series 750Li Sedan,1000000,65000,Petrol,Ahmedabad,2008
+158,Maruti Suzuki Ciaz Alpha 1.4,885000,38500,Petrol,Ahmedabad,2020
+159,Maruti Suzuki Wagon R 1.0,484000,20583,CNG,Pune,2018
+160,Skoda Rapid Style 1.5 TDI,715000,81325,Diesel,Kolkata,2016
+161,Maruti Suzuki Baleno Zeta 1.2,590000,35000,Petrol,Ahmedabad,2017
+162,Maruti Suzuki Celerio VXi AMT,485000,25000,Petrol,Hyderabad,2015
+163,Honda Jazz V Petrol,462000,37993,Petrol,Delhi,2015
+164,Land Rover Discovery Sport HSE,3499000,21693,Diesel,Kolkata,2018
+165,Hyundai Creta SX 1.6 (O),1025000,63194,Petrol,Thane,2018
+166,Hyundai i10 1.2 L Kappa,180000,60000,Petrol,Thane,2009
+167,Honda City VX CVT Petrol,1200000,70000,Petrol,Ambattur,2018
+168,Tata Hexa XTA 4x2 6,1600000,51000,Diesel,Ambattur,2018
+169,Hyundai Elite i20 Asta 1.2,830000,22024,Petrol,Thane,2019
+170,Skoda Octavia 2.0 TDI L&K,2095000,35793,Diesel,Hyderabad,2017
+171,Hyundai Tucson GLS 4WD AT,1925000,75400,Diesel,Pune,2017
+172,Maruti Suzuki Swift Dzire LDI,475000,84996,Diesel,Hyderabad,2016
+173,Maruti Suzuki Swift VXi,460000,74767,Petrol,Mumbai,2015
+174,Honda Amaze 1.2 EX i-VTEC,342000,63956,Petrol,Gurgaon,2013
+175,Maruti Suzuki Wagon R 1.0,450000,48000,CNG,Thane,2017
+176,Renault Duster 85 PS RxL,685000,48330,Diesel,Bangalore,2014
+177,Maruti Suzuki Alto 800 Vxi,210000,93150,Petrol,Kolkata,2014
+178,BMW X3 xDrive 30d M,4100000,69499,Diesel,Hyderabad,2016
+179,Mahindra TUV300 T8 AMT mHAWK100,545000,75000,Diesel,Noida,2016
+180,Kia Carnival Prestige 7 STR,3499000,13748,Diesel,Bangalore,2021
+181,Maruti Suzuki Ciaz Alpha Hybrid,1075000,30672,Petrol,Bangalore,2019
+182,Jeep Compass Limited Plus Diesel,1799000,64683,Diesel,Bangalore,2019
+183,Maruti Suzuki Baleno Alpha 1.2,711000,69886,Petrol,Mumbai,2019
+184,Audi Q5 2.0 TDI quattro,2150000,34000,Diesel,Kolkata,2014
+185,Hyundai Creta SX 1.6 Petrol,1149000,62137,Petrol,Bangalore,2019
+186,Maruti Suzuki Baleno Alpha 1.2,524000,56800,Petrol,Delhi,2016
+187,Hyundai Xcent S 1.2,475000,42382,Petrol,Thane,2015
+188,Maruti Suzuki Wagon R 1.0,390000,66794,Petrol,Kolkata,2018
+189,Honda City V CVT Petrol,1150000,19600,Petrol,Ahmedabad,2020
+190,Mercedes-Benz S-Class 350 CDI L,1900000,85489,Diesel,Hyderabad,2011
+191,Renault Triber RXZ EASY-R AMT,750000,19784,Petrol,Mumbai,2020
+192,Honda City ZX CVT Petrol,1285000,19238,Petrol,Mumbai,2020
+193,Maruti Suzuki Swift VXi,420000,78518,Petrol,Hyderabad,2013
+194,Hyundai Creta E Plus 1.6,855000,54104,Petrol,Mumbai,2017
+195,Renault Duster 85 PS RXS,899000,55300,Diesel,Bangalore,2018
+196,Renault Kwid 1.0 RXT Opt,348000,40397,Petrol,Chennai,2018
+197,Mahindra XUV500 W8,811000,87527,Diesel,Mumbai,2015
+198,Toyota Glanza V,675000,63000,Petrol,Ahmedabad,2019
+199,Maruti Suzuki Swift VDi ABS,567000,83647,Diesel,Pune,2016
+200,Isuzu MU-X 4x2,2100000,75592,Diesel,Hyderabad,2018
+201,Renault Duster 85 PS RxL,475000,57660,Diesel,Mumbai,2012
+202,Honda Amaze 1.2 VX MT,685000,42277,Petrol,Noida,2018
+203,Maruti Suzuki S-Presso VXi Plus,525000,2600,Petrol,Ahmedabad,2022
+204,Volvo XC90 D5 AWD,2257000,51000,Diesel,Ahmedabad,2014
+205,Hyundai Grand i10 Asta 1.2,575000,19630,Petrol,Mumbai,2017
+206,Honda City VX,745000,42218,Petrol,Mumbai,2016
+207,Toyota Glanza G,708000,69553,Petrol,Chennai,2019
+208,Maruti Suzuki Alto K10 VXi,338000,48448,Petrol,Delhi,2017
+209,Tata Tiago Revotron XT [2016-2019],484000,60167,Petrol,Delhi,2019
+210,Honda City 1.5 V MT,395000,61000,Petrol,Noida,2012
+211,Hyundai Grand i10 Sports Edition,434000,26282,Petrol,Pune,2015
+212,Mercedes-Benz E-Class E 220 d,6175000,19070,Diesel,Bangalore,2019
+213,Audi A4 3.0 TDI quattro,3200000,67262,Diesel,Chennai,2018
+214,Maruti Suzuki Ciaz Alpha Hybrid,872000,5814,Petrol,Kolkata,2020
+215,Skoda Rapid Ultima Elegance 1.6,650000,76810,Diesel,Kolkata,2017
+216,Honda Amaze 1.5 VX i-DTEC,495000,63587,Diesel,Mumbai,2015
+217,Kia Seltos GTX Plus AT,1525000,28000,Petrol,Kolkata,2019
+218,Honda Amaze 1.5 S i-DTEC,499000,42637,Diesel,Bangalore,2014
+219,Maruti Suzuki Wagon R 1.0,432000,52775,Petrol,Pune,2017
+220,Maruti Suzuki Ciaz Zeta Hybrid,850000,21809,Petrol,Thane,2019
+221,Volkswagen Vento Highline Plus 1.2,725000,45689,Petrol,Mumbai,2016
+222,Maruti Suzuki Celerio ZXi [2017-2019],433000,34251,Petrol,Pune,2017
+223,Maruti Suzuki Ertiga VXI CNG,720000,55000,CNG,Thane,2016
+224,Skoda Rapid Ambition 1.6 TDI,925000,95004,Diesel,Hyderabad,2018
+225,Tata Harrier XZ [2019-2020],1695000,20856,Diesel,Bangalore,2019
+226,Maruti Suzuki Dzire ZXi Plus,875000,11800,Petrol,Chennai,2020
+227,Maruti Suzuki Baleno Delta 1.2,510000,32897,Petrol,Pune,2016
+228,Mahindra TUV300 T8,565000,47107,Diesel,Delhi,2016
+229,Maruti Suzuki Alto K10 VXi,225000,76614,Petrol,Pune,2011
+230,Audi Q3 35 TDI quattro,1999000,32345,Diesel,Kolkata,2018
+231,Jaguar XE Portfolio Diesel,3775000,35491,Diesel,Bangalore,2018
+232,Toyota Innova Crysta ZX 2.4,3250000,22562,Diesel,Hyderabad,2021
+233,Maruti Suzuki Ciaz Delta 1.3,745000,49908,Diesel,Mumbai,2018
+234,MINI Cooper JCW Hatchback,4400000,2482,Petrol,Mumbai,2021
+235,Jeep Compass Limited Plus 2.0,2300000,9000,Diesel,Ambattur,2020
+236,Volkswagen Polo Comfortline 1.2L (P),465000,27700,Petrol,Thane,2015
+237,Maruti Suzuki Wagon R LXi,180000,49000,Petrol,Thane,2009
+238,Maruti Suzuki Ignis Delta 1.2,453000,12104,Petrol,Kolkata,2018
+239,Hyundai Xcent SX 1.2,534000,28646,Petrol,Pune,2016
+240,Maruti Suzuki Alto 800 Lxi,205000,35965,Petrol,Kolkata,2014
+241,Mercedes-Benz E-Class E350 CDI BlueEfficiency,1550000,64000,Diesel,Hyderabad,2010
+242,Maruti Suzuki Baleno Zeta 1.2,735000,5288,Petrol,Thane,2020
+243,Volvo S60 Kinetic D4,1790000,90604,Diesel,Hyderabad,2017
+244,Maruti Suzuki Estilo VXi ABS,225000,68000,Petrol,Thiruvallur,2011
+245,Hyundai i20 Asta (O) 1.2,850000,32243,Petrol,Hyderabad,2020
+246,Maruti Suzuki Ciaz Delta 1.4,687000,33823,Petrol,Delhi,2017
+247,Maruti Suzuki Swift VXi AMT,538000,25412,Petrol,Kolkata,2018
+248,BMW 3 Series Gran Limousine,5750000,22600,Diesel,Chennai,2021
+249,Honda City V CVT Petrol,830000,56468,Petrol,Ahmedabad,2017
+250,Ford Figo Duratec Petrol EXI,240000,73000,Petrol,Poonamallee,2011
+251,Honda City SV,630000,24751,Petrol,Kolkata,2018
+252,Audi TT 45 TFSI,4600000,9865,Petrol,Ahmedabad,2016
+253,Maruti Suzuki Celerio ZXi AMT,475000,29646,Petrol,Thane,2016
+254,BMW X1 sDrive20d Expedition,2175000,55000,Diesel,Mumbai,2017
+255,Volvo S90 D4 Inscription,5900000,15446,Diesel,Hyderabad,2020
+256,Maruti Suzuki Celerio VXi AMT,445000,24595,Petrol,Mumbai,2016
+257,Hyundai Creta 1.6 S Plus,998000,97761,Diesel,Pune,2016
+258,Maruti Suzuki Celerio VXi,565000,47000,Petrol,Hyderabad,2020
+259,Hyundai Grand i10 Sportz 1.2,485000,66471,Petrol,Delhi,2017
+260,Datsun redi-GO S [2016-2019],325000,37000,Petrol,Ahmedabad,2019
+261,Kia Seltos GTX Plus 1.4,1690000,28100,Petrol,Ahmedabad,2020
+262,Skoda Octavia Elegance 2.0 TDI,799000,63000,Diesel,Delhi,2014
+263,Maruti Suzuki Wagon R 1.0,430000,26600,CNG,Pune,2016
+264,Mahindra XUV500 W8,575000,55105,Diesel,Kolkata,2013
+265,Hyundai Eon Era +,330000,42748,Petrol,Chennai,2017
+266,Audi Q7 45 TDI Technology,5950000,51000,Diesel,Ahmedabad,2018
+267,Audi A6 35 TDI Matrix,2500000,76000,Diesel,Ahmedabad,2018
+268,Hyundai Elite i20 Sportz 1.2,613000,35247,Petrol,Pune,2017
+269,Hyundai Elite i20 Sportz 1.2,559000,30183,Petrol,Kolkata,2019
+270,Mercedes-Benz GLS 350 d,6800000,88000,Diesel,Hyderabad,2018
+271,MG Hector Sharp 1.5 DCT,1699000,7870,Petrol,Kolkata,2021
+272,Mahindra XUV500 W10,1490000,50000,Diesel,Chennai,2018
+273,BMW 3 Series 320d Luxury,1710000,46000,Diesel,Delhi,2015
+274,Maruti Suzuki Celerio VXi AMT,490000,28726,Petrol,Thane,2018
+275,Maruti Suzuki Wagon R 1.0,313000,32907,Petrol,Delhi,2014
+276,Maruti Suzuki Alto 800 Vxi,332000,29092,Petrol,Kolkata,2019
+277,Hyundai Creta 1.6 S Petrol,745000,62461,Petrol,Mumbai,2016
+278,Skoda Rapid Ambition 1.6 MPI,385000,60000,Petrol,Noida,2012
+279,Jaguar XF 3.0 V6 Premium,2650000,62645,Diesel,Hyderabad,2015
+280,Toyota Innova 2.5 G BS,975000,83000,Diesel,Ahmedabad,2015
+281,Hyundai i10 1.1L iRDE Magna,350000,55000,Petrol,Ahmedabad,2015
+282,Toyota Fortuner 2.8 4x4 AT,3500000,181213,Diesel,Hyderabad,2019
+283,Maruti Suzuki Dzire VXi AMT,690000,25000,Petrol,Delhi,2020
+284,Datsun GO T [2018-2019],235000,52000,Petrol,Ahmedabad,2018
+285,Ford EcoSport Titanium 1.0 Ecoboost,451000,38203,Petrol,Kolkata,2013
+286,Maruti Suzuki Wagon R 1.0,406000,64942,CNG,Delhi,2017
+287,Maruti Suzuki Baleno Delta 1.2,540000,47837,Petrol,Delhi,2018
+288,Maruti Suzuki Ertiga Vxi,500000,85000,Petrol,Thiruvallur,2013
+289,Mercedes-Benz CLA 200 CDI Sport,1649000,51500,Diesel,Kolkata,2015
+290,Skoda Octavia 1.8 TSI L&K,2100000,23160,Petrol,Hyderabad,2018
+291,Toyota Corolla Altis G Petrol,695000,75000,Petrol,Thane,2015
+292,Toyota Corolla Altis 1.8 G,883000,63000,Petrol,Delhi,2014
+293,BMW 3 Series 320d Luxury,1550000,104264,Diesel,Hyderabad,2013
+294,Hyundai Elite i20 Asta 1.2,659000,15972,Petrol,Delhi,2017
+295,Hyundai Eon Magna [2011-2012],320000,33146,Petrol,Ahmedabad,2015
+296,Maruti Suzuki Swift VXi [2014-2017],674000,30956,Petrol,Chennai,2020
+297,Renault Kiger RXT Turbo CVT,998000,4371,Petrol,Kolkata,2022
+298,Hyundai Elite i20 Asta 1.4,1075000,63653,Diesel,Hyderabad,2020
+299,Honda City 1.5 V MT,405000,55297,Petrol,Thane,2013
+300,Porsche Cayenne Turbo,7857000,12000,Petrol,Ahmedabad,2015
+301,Maruti Suzuki Swift DZire VXI,417000,21391,Petrol,Kolkata,2014
+302,Renault Kwid CLIMBER 1.0 (O),483000,11546,Petrol,Delhi,2021
+303,Hyundai Santro Sportz,589000,16270,Petrol,Pune,2020
+304,Nissan Micra XV Diesel,290000,73000,Diesel,Ahmedabad,2012
+305,Hyundai Grand i10 Magna AT,549000,53000,Petrol,Hyderabad,2018
+306,Mercedes-Benz CLA 200 Petrol Sport,1925000,34000,Petrol,Mumbai,2016
+307,Hyundai Venue S 1.0 Petrol,1064000,16328,Petrol,Pune,2019
+308,Land Rover Range Rover Evoque,7700000,5600,Petrol,Thane,2021
+309,Maruti Suzuki S-Cross Alpha 1.3,760000,73994,Diesel,Hyderabad,2016
+310,Hyundai Verna SX (O) AT,1059000,43920,Petrol,Bangalore,2019
+311,Maruti Suzuki Wagon R 1.0,317000,17715,Petrol,Kolkata,2014
+312,Toyota Corolla Altis G Petrol,1040000,82902,Petrol,Delhi,2018
+313,Maruti Suzuki Wagon R 1.0,471000,23344,Petrol,Hyderabad,2018
+314,Hyundai Verna 1.6 VTVT SX,749000,93494,Petrol,Kolkata,2019
+315,Honda Jazz V AT Petrol,725000,27222,Petrol,Mumbai,2018
+316,Hyundai Creta S 1.5 Diesel,1600000,14468,Diesel,Hyderabad,2021
+317,Honda Jazz V Diesel,747000,40000,Diesel,Pallikarnai,2017
+318,Maruti Suzuki Ciaz ZXI+,575000,65000,Petrol,Thane,2015
+319,Maruti Suzuki Alto K10 LXi,190000,60028,Petrol,Delhi,2012
+320,Mercedes-Benz CLA 200 CDI Sport,2950000,37300,Diesel,Bangalore,2018
+321,Hyundai Creta 1.6 SX Plus,1125000,32143,Petrol,Mumbai,2018
+322,Hyundai Elite i20 Asta 1.2,645000,55669,Petrol,Chennai,2016
+323,Hyundai Grand i10 Magna 1.2,405000,72757,Petrol,Delhi,2016
+324,Honda City SV CVT,875000,56000,Petrol,Ahmedabad,2017
+325,Maruti Suzuki Swift VXi ABS,326000,70244,Petrol,Kolkata,2013
+326,BMW X1 sDrive20d xLine,2145000,46595,Diesel,Delhi,2018
+327,Maruti Suzuki XL6 Zeta MT,951000,20703,Petrol,Ahmedabad,2020
+328,Tata Harrier XZ [2019-2020],1465000,47579,Diesel,Mumbai,2019
+329,BMW X1 sDrive20d xLine,2800000,31000,Diesel,Kolkata,2019
+330,Mercedes-Benz GLE 350 d,5800000,31300,Diesel,Ahmedabad,2019
+331,Ford EcoSport Titanium+ 1.5L TDCi,750000,52157,Diesel,Hyderabad,2016
+332,Mahindra XUV500 W6 AT,950000,91000,Diesel,Ahmedabad,2016
+333,Audi A6 2.0 TDI Premium,2100000,69631,Diesel,Hyderabad,2013
+334,Hyundai i20 Active 1.2 S,611000,32036,Petrol,Mumbai,2018
+335,Mercedes-Benz AMG GLA35 4MATIC,6450000,2000,Petrol,Chennai,2022
+336,Hyundai Elite i20 Asta 1.2,600000,22621,Petrol,Kolkata,2018
+337,Honda City VX,625000,45000,Petrol,Thane,2015
+338,Hyundai Verna Fluidic 1.6 VTVT,1126000,33423,Petrol,Pune,2019
+339,Hyundai i10 1.1L iRDE Magna,350000,31500,Petrol,Ahmedabad,2015
+340,Hyundai Creta SX Plus 1.6,925000,51000,Petrol,Thane,2017
+341,Renault Duster 85 PS RXS,979000,39030,Diesel,Bangalore,2018
+342,Mercedes-Benz C-Class C 200 Avantgarde,3056000,27236,Petrol,Bangalore,2018
+343,Maruti Suzuki Celerio VXi,357000,24063,Petrol,Kolkata,2015
+344,Volkswagen Polo Highline1.2L (P),521000,59819,Petrol,Mumbai,2015
+345,Renault Kwid 1.0 RXT Opt,439000,8297,Petrol,Delhi,2019
+346,Maruti Suzuki Dzire ZXi AMT,735000,32740,Petrol,Pune,2017
+347,BMW 5 Series 520d Luxury,4599000,34500,Diesel,Ahmedabad,2020
+348,Kia Sonet GTX Plus 1.5,1419000,25007,Diesel,Pune,2020
+349,Maruti Suzuki Ignis Sigma 1.2,489000,38944,Petrol,Chennai,2019
+350,Hyundai Grand i10 Magna 1.2,405000,72757,Petrol,Delhi,2016
+351,Volkswagen Vento Trendline Petrol,350000,101740,Petrol,Hyderabad,2010
+352,Maruti Suzuki Celerio ZXi AMT,599000,9130,Petrol,Pune,2019
+353,Honda Jazz V AT Petrol,675000,48650,Petrol,Mumbai,2017
+354,Hyundai Creta 1.6 SX Plus,1029000,40314,Petrol,Pune,2016
+355,Volvo XC90 D5 AWD,2287000,30800,Diesel,Ahmedabad,2015
+356,Maruti Suzuki Alto 800 Lxi,345000,33000,CNG,Noida,2019
+357,Hyundai Elite i20 Sportz 1.2,790000,54000,Petrol,Hyderabad,2019
+358,Honda City V,845000,22500,Petrol,Thane,2018
+359,Toyota Glanza G CVT,849000,29866,Petrol,Bangalore,2020
+360,Ford Aspire Titanium 1.2 Ti-VCT,535000,65000,Petrol,Noida,2017
+361,Ford EcoSport Titanium 1.0 Ecoboost,475000,78822,Petrol,Faridabad,2014
+362,Volkswagen Taigun GT Plus 1.5,1649000,9792,Petrol,Ahmedabad,2021
+363,Hyundai Grand i10 Asta 1.2,569000,64774,Petrol,Bangalore,2016
+364,Toyota Fortuner 2.8 4x2 MT,3375000,31283,Diesel,Bangalore,2018
+365,Skoda Rapid Ambition 1.6 MPI,1082000,10713,Petrol,Delhi,2020
+366,Maruti Suzuki Baleno Zeta 1.2,699000,13127,Petrol,Kolkata,2021
+367,Maruti Suzuki Wagon R 1.0,425000,50000,Petrol,Thane,2016
+368,Maruti Suzuki Alto 800 Lxi,325000,35340,Petrol,Pune,2018
+369,Honda Jazz V AT Petrol,651000,27654,Petrol,Mumbai,2017
+370,Hyundai Santro Sportz CNG [2018-2020],523000,40067,CNG,Pune,2018
+371,Maruti Suzuki Baleno Delta 1.2,548000,50899,Petrol,Delhi,2018
+372,Hyundai Grand i10 Magna 1.2,460000,52000,Petrol,Thane,2017
+373,Honda City S Petrol,695000,51292,Petrol,Thane,2017
+374,Hyundai Elite i20 Magna Executive,519000,19905,Petrol,Kolkata,2017
+375,Tata Nano Twist XT,110000,18000,Petrol,Ahmedabad,2015
+376,Maruti Suzuki Ertiga VXI CNG,1140000,28715,CNG,Thane,2021
+377,Maruti Suzuki Ertiga Vxi CNG,721000,69161,CNG,Mumbai,2015
+378,Maruti Suzuki S-Cross Zeta 1.3,887000,54571,Diesel,Pune,2017
+379,Honda City VX CVT,775000,25000,Petrol,Thane,2016
+380,Honda City VX,875000,24259,Petrol,Kolkata,2019
+381,Maruti Suzuki Alto 800 Lxi,295000,30233,Petrol,Pune,2015
+382,Mahindra Thar LX Hard Top,1750000,21000,Diesel,Delhi,2021
+383,Maruti Suzuki Ertiga VXI CNG,825000,51000,CNG,Thane,2017
+384,Hyundai Grand i10 Magna 1.2,450000,23137,Petrol,Thane,2016
+385,Land Rover Discovery Sport HSE,2600000,159070,Diesel,Hyderabad,2015
+386,Maruti Suzuki Dzire VDi AMT,645000,52328,Diesel,Noida,2018
+387,Maruti Suzuki Baleno RS 1.0,666000,35849,Petrol,Pune,2017
+388,Hyundai Venue SX 1.0 Petrol,1066000,24783,Petrol,Bangalore,2020
+389,Maruti Suzuki Ciaz VXi,500000,27346,Petrol,Kolkata,2016
+390,Hyundai i10 Magna 1.2 Kappa2,349000,75619,Petrol,Chennai,2014
+391,Hyundai i10 Magna 1.2 Kappa2,245000,54000,Petrol,Kolkata,2013
+392,Nissan Sunny XE,295000,58000,Petrol,Noida,2012
+393,Jeep Wrangler Rubicon,6500000,27340,Petrol,Hyderabad,2021
+394,Maruti Suzuki Swift VXi AMT,630000,17000,Petrol,Pallikarnai,2020
+395,Volkswagen Vento Highline 1.5 (D),790000,111139,Diesel,Mumbai,2018
+396,Hyundai Elantra 1.6 SX (O),1875000,40916,Diesel,Pune,2018
+397,Honda WR-V VX MT Diesel,950000,120463,Diesel,Thiruvallur,2018
+398,Honda BR-V VX Diesel,799000,94197,Diesel,Thane,2017
+399,Maruti Suzuki Swift DZire VXI,424000,76859,Petrol,Pune,2014
+400,Honda City S Petrol,725000,33000,Petrol,Ahmedabad,2017
+401,Maruti Suzuki Baleno Delta 1.2,596000,17286,Petrol,Kolkata,2018
+402,Mercedes-Benz GLA 220 d 4MATIC,2850000,40484,Diesel,Bangalore,2017
+403,Tata Tiago Revotorq XZ Plus,540000,70450,Diesel,Ahmedabad,2020
+404,Honda City V,840000,45074,Petrol,Kolkata,2019
+405,Hyundai Elite i20 Asta 1.4,695000,101000,Diesel,Thane,2015
+406,BMW 7 Series 760Li,5900000,22000,Petrol,Ahmedabad,2016
+407,Hyundai i20 Sportz 1.2 BS-IV,345000,69000,Petrol,Mumbai,2012
+408,Maruti Suzuki Dzire VXi AMT,696000,14895,Petrol,Pune,2018
+409,Tata Tiago XZ Plus CNG,810000,11444,CNG,Delhi,2022
+410,Tata Tiago Revotron XE [2016-2019],414000,32120,Petrol,Delhi,2018
+411,Toyota Fortuner 2.8 4x4 AT,3300000,64300,Diesel,Ahmedabad,2019
+412,Tata Harrier XZA Plus,2200000,30503,Diesel,Thane,2021
+413,Honda City SV Petrol [2019-2020],825000,62042,Petrol,Ahmedabad,2019
+414,Mahindra TUV300 T8,745000,122924,Diesel,Hyderabad,2017
+415,Ford EcoSport Titanium 1.5L Ti-VCT,690000,37000,Petrol,Ahmedabad,2016
+416,Skoda Kushaq Style 1.5L TSI,1925000,23402,Petrol,Bangalore,2021
+417,Audi A4 35 TFSI Premium,1725000,35000,Petrol,Mumbai,2015
+418,Hyundai Elite i20 Asta 1.2,639000,38657,Petrol,Pune,2017
+419,Maruti Suzuki Wagon R 1.0,445000,64000,Petrol,Hyderabad,2016
+420,Hyundai Grand i10 Magna 1.2,510000,35094,Petrol,Pune,2018
+421,Toyota Glanza G,730000,18000,Petrol,Thiruvallur,2021
+422,Nissan Magnite XE,670000,18503,Petrol,Pune,2021
+423,Ford EcoSport Titanium 1.5 Ti-VCT,825000,30000,Petrol,Delhi,2018
+424,Honda Jazz ZX CVT,842000,33197,Petrol,Chennai,2020
+425,Land Rover Range Rover Velar,7700000,39800,Petrol,Thane,2019
+426,Ford EcoSport Titanium + 1.5L,690000,83000,Diesel,Ahmedabad,2016
+427,BMW 3 Series GT 320d,3600000,3600000,Diesel,Pune,2019
+428,Maruti Suzuki Swift ZXi Plus,715000,24783,Petrol,Kolkata,2021
+429,Maruti Suzuki Vitara Brezza VDi,815000,55000,Diesel,Thane,2017
+430,Hyundai Santro Sportz [2018-2020],554000,11844,Petrol,Pune,2019
+431,Jeep Compass Limited (O) 2.0,1695000,37430,Diesel,Hyderabad,2017
+432,Mahindra XUV500 W8,879000,81682,Diesel,Bangalore,2013
+433,Hyundai Xcent S 1.2,490000,32700,Petrol,Ahmedabad,2014
+434,Honda WR-V VX MT Petrol,1019000,23795,Petrol,Chennai,2021
+435,Maruti Suzuki Swift DZire ZXI,518000,37188,Petrol,Pune,2015
+436,Maruti Suzuki Alto K10 VXi,379000,27044,Petrol,Bangalore,2017
+437,Hyundai Elite i20 Sportz 1.4,660000,52451,Diesel,Hyderabad,2016
+438,MG Hector Sharp 1.5 Petrol,1649000,35200,Petrol,Bangalore,2020
+439,Hyundai Elite i20 Sportz 1.2,849000,30490,Petrol,Bangalore,2019
+440,Maruti Suzuki Celerio ZXi AMT,500000,65000,Petrol,Thane,2019
+441,Maruti Suzuki Alto 800 LXi,349000,36427,CNG,Mumbai,2017
+442,Hyundai Santro Sportz,589000,47873,Petrol,Pune,2020
+443,Mahindra XUV500 W10,865000,116000,Diesel,Noida,2015
+444,Volkswagen Taigun Topline 1.0 TSI,1790000,11321,Petrol,Thane,2022
+445,Hyundai Creta E Plus 1.6,930000,12000,Petrol,Thane,2018
+446,Hyundai Grand i10 Sportz (O),695000,23671,Petrol,Bangalore,2018
+447,Maruti Suzuki SX4 ZXi,160000,58000,Petrol,Kolkata,2009
+448,Honda Amaze 1.2 V CVT,665000,38868,Petrol,Delhi,2018
+449,Honda City VX CVT,795000,33613,Petrol,Mumbai,2016
+450,Audi Q3 35 TDI Premium,2050000,90246,Diesel,Ahmedabad,2016
+451,Hyundai Grand i10 Sports Edition,500000,58005,Petrol,Thane,2018
+452,Toyota Yaris V MT,980000,44000,Petrol,Hyderabad,2018
+453,Maruti Suzuki Swift VXi AMT,704000,28151,Petrol,Delhi,2019
+454,Hyundai Creta 1.6 E Petrol,745000,59233,Petrol,Noida,2015
+455,Hyundai Grand i10 Era 1.1,500000,34000,Diesel,Thiruvallur,2017
+456,Maruti Suzuki Baleno Alpha 1.2,610000,47500,Petrol,Thane,2017
+457,Honda City 1.5 V MT,325000,82000,Petrol,Thane,2010
+458,Toyota Fortuner Legender 4X2 AT,4850000,28000,Diesel,Pune,2021
+459,Toyota Etios Cross 1.2 G,435000,32545,Petrol,Kolkata,2015
+460,Honda City V,653000,82852,Petrol,Delhi,2014
+461,Ford EcoSport Titanium 1.5 TDCi,599000,56615,Diesel,Thane,2015
+462,Kia Seltos GTX Plus AT,1490000,57600,Petrol,Chennai,2019
+463,Hyundai Grand i10 Magna 1.1,620000,30704,Diesel,Hyderabad,2018
+464,BMW X5 xDrive 30d,4790000,60000,Diesel,Pune,2017
+465,Maruti Suzuki Baleno Delta 1.2,527000,14813,Petrol,Delhi,2016
+466,Fiat Punto Active 1.3,350000,85451,Diesel,Hyderabad,2014
+467,Renault Kwid CLIMBER 1.0 AMT,425000,39736,Petrol,Mumbai,2017
+468,Mercedes-Benz C-Class C 220 CDI,2878000,31283,Diesel,Bangalore,2016
+469,Honda City SV CVT,615000,69000,Petrol,Thane,2015
+470,Maruti Suzuki XL6 Zeta AT,1290000,14222,Petrol,Ahmedabad,2022
+471,Honda City 1.5 S MT,345000,63000,Petrol,Mumbai,2011
+472,Volkswagen Polo Comfortline 1.2L (D),290000,57261,Diesel,Kolkata,2013
+473,Skoda Rapid Ambition 1.6 MPI,1013000,14049,Petrol,Kolkata,2020
+474,Hyundai Eon Era +,295000,75000,Petrol,Ahmedabad,2016
+475,Maruti Suzuki S-Presso VXi Plus,476000,66,Petrol,Delhi,2021
+476,Maruti Suzuki Dzire VDi,785000,91000,Diesel,Hyderabad,2018
+477,Maruti Suzuki Ritz VXI BS-IV,235000,39900,Petrol,Thane,2011
+478,Hyundai Creta SX (O) 1.5,1925000,9355,Petrol,Thane,2022
+479,Maruti Suzuki Baleno Zeta 1.2,700000,55000,Petrol,Thiruvallur,2018
+480,Volkswagen Taigun Highline 1.0 TSI,1749000,16777,Petrol,Bangalore,2021
+481,Toyota Innova Crysta 2.8 GX,2449000,55627,Diesel,Bangalore,2018
+482,Maruti Suzuki Ertiga ZXi,595000,67590,Petrol,Mumbai,2014
+483,Nissan Micra Active XV,325000,16937,Petrol,Kolkata,2017
+484,Honda City V,875000,36000,Petrol,Mumbai,2018
+485,Honda Amaze 1.2 VX MT,857000,7702,Petrol,Pune,2022
+486,Maruti Suzuki S-Presso VXi Plus,454000,50729,Petrol,Pune,2020
+487,BMW 3 Series 330i Sport,2250000,63000,Petrol,Ahmedabad,2018
+488,MINI Cooper Countryman Cooper D,1475000,46251,Diesel,Ahmedabad,2014
+489,Hyundai Verna 1.4 VTVT,590000,67000,Petrol,Ahmedabad,2016
+490,Mercedes-Benz CLA 200 CDI Sport,2500000,52295,Diesel,Hyderabad,2016
+491,Maruti Suzuki Alto 800 Lxi,292000,52460,Petrol,Pune,2015
+492,Hyundai i20 Asta 1.2,430000,41429,Petrol,Pune,2012
+493,Jeep Compass Limited (O) 1.4,1825000,28449,Petrol,Mumbai,2019
+494,Hyundai Santro Sportz [2018-2020],526000,57588,Petrol,Pune,2019
+495,Mercedes-Benz CLA 200 CDI Sport,1649000,51500,Diesel,Kolkata,2015
+496,Maruti Suzuki Wagon R 1.0,490000,53830,Petrol,Ahmedabad,2018
+497,Toyota Innova 2.5 G4 8,425000,120000,Diesel,Thane,2009
+498,Maruti Suzuki Alto 800 Lxi,310000,68000,Petrol,Hyderabad,2015
+499,Maruti Suzuki Baleno Zeta,655000,22772,Petrol,Kolkata,2018
+500,Hyundai Grand i10 Magna 1.2,465000,22407,Petrol,Mumbai,2017
+501,Hyundai Elite i20 Sportz 1.2,630000,61546,Petrol,Pune,2018
+502,Hyundai i20 Magna 1.2,310000,68000,Petrol,Noida,2012
+503,Honda City SV CVT,690000,45000,Petrol,Ahmedabad,2015
+504,MG Astor Sharp 1.5 CVT,1685000,4946,Petrol,Thane,2021
+505,Maruti Suzuki Wagon R 1.0,464000,13889,Petrol,Pune,2017
+506,Jeep Compass Limited 1.4 Petrol,1692000,23409,Petrol,Pune,2019
+507,Toyota Fortuner 2.8 4x2 AT,3250000,82000,Diesel,Hyderabad,2017
+508,Maruti Suzuki Celerio VXi,415000,40900,Petrol,Bangalore,2014
+509,Mercedes-Benz A-Class A 200d,2295000,8368,Diesel,Bangalore,2017
+510,Toyota Fortuner 3.0 4x2 AT,1649000,107281,Diesel,Bangalore,2012
+511,Maruti Suzuki Swift VXi ABS,340000,51595,Petrol,Delhi,2013
+512,Renault Kwid 1.0 RXT [2016-2019],460000,22541,Petrol,Bangalore,2018
+513,Mercedes-Benz GLC 220 d Sport,4400000,46000,Diesel,Pune,2018
+514,Maruti Suzuki Wagon R 1.0,359000,20728,Petrol,Kolkata,2016
+515,Hyundai Grand i10 Magna 1.2,595000,44868,Petrol,Bangalore,2019
+516,Hyundai Grand i10 Nios Sportz,733000,18631,Petrol,Pune,2019
+517,Toyota Innova Crysta 2.8 GX,1890000,48969,Diesel,Thane,2018
+518,Toyota Innova Crysta ZX 2.4,3350000,42000,Diesel,Hyderabad,2022
+519,Maruti Suzuki Wagon R ZXi,649000,9011,Petrol,Bangalore,2021
+520,Honda City VX CVT,950000,77116,Petrol,Hyderabad,2015
+521,Honda City Anniversary Edition Diesel,820000,26500,Diesel,Ambattur,2018
+522,Hyundai Creta SX Plus 1.6,1137000,22872,Petrol,Bangalore,2017
+523,Volvo V40 D3 Kinetic,1600000,30000,Diesel,Ahmedabad,2016
+524,Hyundai Elite i20  Asta,750000,33647,Petrol,Thane,2018
+525,Maruti Suzuki Alto 800 Vxi,223000,27233,Petrol,Kolkata,2014
+526,Hyundai Creta SX (O) 1.5,1725000,28374,Petrol,Thane,2021
+527,Mahindra Scorpio S6 Plus 1.99,895000,80500,Diesel,Delhi,2017
+528,Volkswagen Polo GT TSI,945000,41417,Petrol,Bangalore,2017
+529,Maruti Suzuki Alto 800 Vxi,267000,23377,Petrol,Delhi,2015
+530,Hyundai Elite i20 Asta 1.4,850000,75126,Diesel,Hyderabad,2018
+531,Maruti Suzuki Ciaz Alpha Hybrid,949000,16700,Petrol,Ahmedabad,2020
+532,Honda WR-V VX MT Petrol,699000,27429,Petrol,Kolkata,2019
+533,Renault Kwid RXL [2015-2019],295000,40000,Petrol,Noida,2018
+534,Ford Figo Duratorq Diesel Titanium,475000,50945,Diesel,Hyderabad,2015
+535,Maruti Suzuki Swift VXi [2014-2017],650000,9500,Petrol,Thane,2019
+536,Honda Civic 1.8V MT,235000,107551,Petrol,Mumbai,2009
+537,Mahindra XUV700 AX 7 Diesel,2800000,2100,Diesel,Ahmedabad,2022
+538,Maruti Suzuki Swift VXi,327000,40110,Petrol,Kolkata,2012
+539,Honda Brio E MT,370000,60000,Petrol,Pallikarnai,2013
+540,Honda CR-V 2.4 AT,1251000,74009,Petrol,Mumbai,2015
+541,BMW 3 Series 330i M,4750000,13900,Petrol,Ahmedabad,2020
+542,BMW X5 xDrive 30d,4800000,28000,Diesel,Ahmedabad,2017
+543,Maruti Suzuki S-Presso VXi,450000,11537,Petrol,Ahmedabad,2020
+544,Toyota Glanza V CVT,985000,15928,Petrol,Bangalore,2021
+545,Mahindra Alturas G4 4WD AT,2145000,40180,Diesel,Kolkata,2019
+546,Renault Duster 85 PS RxL,850000,22601,Diesel,Hyderabad,2018
+547,BMW 3 Series GT 320d,2750000,99000,Diesel,Hyderabad,2016
+548,Maruti Suzuki Ignis Alpha 1.2,712000,10658,Petrol,Pune,2020
+549,Maruti Suzuki Celerio VXi (O),556000,75044,CNG,Pune,2020
+550,Ford EcoSport Signature Edition Diesel,1020000,52000,Diesel,Thane,2019
+551,Maruti Suzuki Ciaz Zeta 1.4,875000,43999,Petrol,Bangalore,2018
+552,Honda Jazz VX Petrol,570000,92270,Petrol,Mumbai,2017
+553,Maruti Suzuki Swift DZire VXI,370000,77000,Petrol,Thane,2012
+554,Audi Q3 35 TDI Premium,1500000,148108,Diesel,Ahmedabad,2015
+555,Maruti Suzuki Wagon R 1.0,407000,39876,Petrol,Pune,2016
+556,Jaguar XF 2.2 Diesel Luxury,1950000,67534,Diesel,Ahmedabad,2014
+557,Maruti Suzuki Alto 800 Lxi,330000,75430,CNG,Pune,2015
+558,Maruti Suzuki Alto K10 VXi,420000,20000,Petrol,Thiruvallur,2022
+559,Maruti Suzuki Vitara Brezza ZDi,1150000,32000,Diesel,Bangalore,2019
+560,Hyundai Grand i10 Sportz 1.2,535000,29000,Petrol,Hyderabad,2016
+561,Hyundai i20 Active 1.2 S,645000,60273,Petrol,Hyderabad,2016
+562,Honda Amaze 1.2 S i-VTEC,450000,57000,Petrol,Thane,2015
+563,Tata Nexon XZ Plus (O),1065000,3280,Petrol,Thane,2022
+564,Audi Q7 Technology 55 TFSI,9300000,6500,Petrol,Pune,2022
+565,Toyota Fortuner 2.8 4x2 AT,3250000,51000,Diesel,Mumbai,2018
+566,Toyota Corolla Altis JS Petrol,645000,90293,Petrol,Mumbai,2015
+567,Maruti Suzuki Swift DZire ZXI,395000,36000,Petrol,Thane,2013
+568,Mercedes-Benz E-Class E250 CDI Avantgarde,2200000,39000,Diesel,Ahmedabad,2014
+569,BMW 5 Series 520d Luxury,5195000,25234,Diesel,Hyderabad,2019
+570,Hyundai i10 Magna 1.2 Kappa2,349000,75619,Petrol,Chennai,2014
+571,Skoda Kodiaq L&K 2.0 TDI,3260000,61213,Diesel,Hyderabad,2019
+572,Renault Kwid RXT [2015-2019],446000,36904,Petrol,Pune,2021
+573,Maruti Suzuki Swift VXi [2014-2017],542000,16304,Petrol,Kolkata,2018
+574,Skoda Octavia Elegance 1.8 TSI,945000,43000,Petrol,Mumbai,2015
+575,Tata Nexon XZA Plus (S),1225000,20763,Petrol,Faridabad,2021
+576,Maruti Suzuki Eeco 5 STR,475000,38500,CNG,Thane,2016
+577,Mahindra Thar CRDe 4x4 Non,730000,41535,Diesel,Hyderabad,2017
+578,Maruti Suzuki Baleno Alpha 1.2,731000,24645,Petrol,Thane,2019
+579,BMW X5 xDrive 30d M,5300000,48213,Diesel,Mumbai,2018
+580,BMW X5 xDrive30d xLine,4250000,80000,Diesel,Thane,2017
+581,Audi Q3 2.0 TDI quattro,1513000,79000,Diesel,Ahmedabad,2015
+582,Maruti Suzuki Ciaz Alpha Hybrid,1155000,32031,Petrol,Mumbai,2021
+583,Hyundai i10 Sportz 1.2 AT,295000,65002,Petrol,Thane,2013
+584,Mahindra XUV300 W8 1.5 Diesel,1574000,39300,Diesel,Pune,2021
+585,Renault Kwid 1.0 RXT AMT,495000,25332,Petrol,Bangalore,2016
+586,Maruti Suzuki Alto 800 Lxi,298000,24456,Petrol,Pune,2016
+587,Hyundai Grand i10 Asta 1.2,521000,32491,Petrol,Chennai,2017
+588,Hyundai Elite i20 Sportz 1.2,645000,12593,Petrol,Mumbai,2018
+589,Hyundai Santro Sportz [2018-2020],550000,34267,Petrol,Pune,2019
+590,Maruti Suzuki Celerio ZXi AMT,482000,29855,Petrol,Delhi,2016
+591,Hyundai i20 Active 1.2 S,550000,15367,Petrol,Thane,2015
+592,Hyundai Venue S 1.0 Petrol,895000,14667,Petrol,Kolkata,2019
+593,Hyundai Verna 1.6 VTVT S,549000,41990,Petrol,Kolkata,2016
+594,Hyundai Creta 1.6 SX,1425000,59000,Diesel,Hyderabad,2018
+595,Hyundai Xcent S 1.1 CRDi,350000,48000,Diesel,Kolkata,2015
+596,Maruti Suzuki Celerio ZXi AMT,560000,17542,Petrol,Bangalore,2018
+597,Skoda Rapid Ambition 1.6 MPI,899000,57702,Petrol,Bangalore,2018
+598,Honda City 1.5 S AT,620000,42408,Petrol,Hyderabad,2013
+599,Renault Triber RXZ EASY-R AMT,750000,19784,Petrol,Mumbai,2020
+600,Honda City VX CVT,599000,51000,Petrol,Kolkata,2016
+601,Renault Duster 85 PS Base,862000,75795,Diesel,Bangalore,2018
+602,Toyota Innova Crysta ZX 2.4,3250000,22562,Diesel,Hyderabad,2021
+603,Maruti Suzuki Baleno Alpha Automatic,895000,21367,Petrol,Bangalore,2018
+604,Mercedes-Benz C-Class 200 K AT,463000,76000,Petrol,Ahmedabad,2006
+605,Mercedes-Benz C-Class C 220 CDI,2650000,30000,Diesel,Bangalore,2015
+606,Hyundai Grand i10 Asta AT,535000,41017,Petrol,Mumbai,2015
+607,Hyundai Grand i10 Asta AT,524000,58184,Petrol,Pune,2016
+608,Maruti Suzuki Ciaz Zeta 1.4,900000,31573,Petrol,Hyderabad,2018
+609,Tata Nexon EV XZ Plus,1500000,4100,Electric,Mumbai,2022
+610,Mahindra Quanto C8,300000,100000,Diesel,Thiruvallur,2012
+611,Tata Tigor Buzz Petrol,490000,33100,Petrol,Ahmedabad,2018
+612,Maruti Suzuki Dzire VXi,665000,19000,Petrol,Thane,2018
+613,Honda City V,991000,9300,Petrol,Ahmedabad,2022
+614,Hyundai Grand i10 Nios Sportz,733000,18631,Petrol,Pune,2019
+615,Hyundai Tucson 2WD MT Diesel,761000,12030,Diesel,Delhi,2021
+616,Hyundai Elite i20 Asta 1.2,779000,9889,Petrol,Bangalore,2016
+617,Skoda Octavia 1.8 TSI Style,1950000,41000,Petrol,Chennai,2019
+618,Hyundai Verna SX Plus 1.6,1025000,69599,Diesel,Ahmedabad,2017
+619,Hyundai Grand i10 Sports Edition,376000,56322,Petrol,Delhi,2014
+620,Hyundai Santro Xing GL Plus,265000,24587,Petrol,Delhi,2013
+621,Hyundai Creta SX Plus 1.6,975000,43398,Petrol,Thane,2017
+622,BMW 3 Series 320d Highline,900000,40000,Diesel,Kolkata,2011
+623,Maruti Suzuki Wagon R 1.0,687000,18512,Petrol,Pune,2021
+624,Maruti Suzuki Alto 800 VXi,369000,13046,Petrol,Kolkata,2020
+625,Hyundai i10 1.1L iRDE Magna,390000,73700,Petrol,Ahmedabad,2014
+626,Honda WR-V VX MT Petrol,890000,6000,Petrol,Thane,2019
+627,Tata Harrier XTA Plus Dark,2500000,6861,Diesel,Hyderabad,2022
+628,Hyundai Elite i20 Magna 1.2,465000,53776,Petrol,Thane,2015
+629,Skoda Rapid Style 1.5 TDI,654000,61681,Diesel,Kolkata,2017
+630,Renault Kwid RXL,351000,13045,Petrol,Delhi,2019
+631,Maruti Suzuki Swift DZire ZDI,526000,98251,Diesel,Pune,2012
+632,Renault Kwid CLIMBER 1.0 [2017-2019],380000,52778,Petrol,Hyderabad,2018
+633,Hyundai Creta SX Plus 1.6,911000,45000,Petrol,Mumbai,2016
+634,Nissan Terrano XL (D),625000,72000,Diesel,Ahmedabad,2015
+635,MG Hector Sharp 1.5 Petrol,1975000,20999,Petrol,Bangalore,2021
+636,Maruti Suzuki Ritz VXI BS-IV,315000,42000,Petrol,Thane,2012
+637,Maruti Suzuki Vitara Brezza VXi,859000,72255,Petrol,Chennai,2020
+638,Hyundai Creta 1.6 S Petrol,1003000,48529,Petrol,Pune,2017
+639,Honda Jazz S Petrol,673000,55056,Petrol,Bangalore,2017
+640,Land Rover Range Rover Velar,7899000,31059,Petrol,Kolkata,2020
+641,Renault Duster 110 PS RxZ,570000,56816,Diesel,Thane,2014
+642,Maruti Suzuki Ertiga ZXi AT,1190000,12587,Petrol,Ahmedabad,2021
+643,Toyota Innova Crysta 2.8 GX,1850000,56967,Diesel,Hyderabad,2017
+644,Renault Kwid Neotech RXL,549000,5485,Petrol,Pune,2021
+645,Renault Captur Platine Mono Diesel,675000,51720,Diesel,Kolkata,2019
+646,Hyundai Santro Sportz AMT [2018-2020],518000,29944,Petrol,Pune,2018
+647,Hyundai Verna 1.6 VTVT SX,750000,16339,Petrol,Kolkata,2018
+648,Maruti Suzuki Vitara Brezza ZDi,985000,93500,Diesel,Hyderabad,2018
+649,Tata Nexon XMA Diesel,941000,20678,Diesel,Thane,2019
+650,Honda City S Petrol,695000,31605,Petrol,Thane,2017
+651,Hyundai Verna SX (O) 1.5,1383000,14512,Diesel,Hyderabad,2021
+652,Maruti Suzuki Alto 800 Lxi,319000,24993,Petrol,Delhi,2018
+653,Maruti Suzuki Wagon R 1.0,490000,53830,Petrol,Ahmedabad,2018
+654,Mahindra XUV300 1.5 W8 (O),1150000,72000,Diesel,Hyderabad,2018
+655,Toyota Innova Crysta 2.8 ZX,2250000,52907,Diesel,Chennai,2017
+656,Ford Figo Titanium 1.5 Ti-VCT,550000,49223,Petrol,Hyderabad,2016
+657,Toyota Corolla Altis G Petrol,885000,125000,Petrol,Delhi,2018
+658,Tata Tiago Revotron XZ Plus,639000,32210,Petrol,Bangalore,2018
+659,Honda WR-V VX MT Petrol,820000,27963,Petrol,Delhi,2018
+660,Volkswagen Tiguan Highline TDI,2400000,74000,Diesel,Hyderabad,2017
+661,Audi Q7 45 TDI Technology,6150000,40000,Diesel,Ahmedabad,2017
+662,Mahindra XUV500 W8,750000,147421,Diesel,Bangalore,2012
+663,BMW X1 sDrive20d xLine,3250000,36114,Diesel,Mumbai,2019
+664,Toyota Camry Hybrid,2143000,82000,Petrol,Delhi,2017
+665,Honda Amaze 1.2 SX i-VTEC,460000,65000,Petrol,Ambattur,2014
+666,Mercedes-Benz C-Class 250 CDI Avantagarde,950000,99941,Diesel,Ahmedabad,2012
+667,Ford EcoSport Titanium 1.5 TDCi,485000,74000,Diesel,Thane,2013
+668,Maruti Suzuki Swift VXi,370000,76256,Petrol,Kolkata,2015
+669,Fiat Punto Evo Dynamic 1.2,400000,36500,Petrol,Ambattur,2016
+670,Maruti Suzuki Ignis Alpha 1.2,525000,41240,Petrol,Mumbai,2017
+671,Jeep Compass Limited 1.4 Petrol,1692000,23409,Petrol,Pune,2019
+672,Mercedes-Benz E-Class E 220d Exclusive,7400000,11000,Diesel,Delhi,2022
+673,Mercedes-Benz C-Class 250 CDI Avantagarde,1395000,55910,Diesel,Bangalore,2013
+674,Hyundai Grand i10 Sports Edition,479000,38345,Petrol,Pune,2016
+675,Audi A6 Technology 45 TFSI,4800000,23931,Petrol,Ahmedabad,2020
+676,Mahindra XUV500 W7 [2018-2020],1350000,73342,Diesel,Mumbai,2020
+677,Honda Amaze 1.2 V CVT,851000,17500,Petrol,Ahmedabad,2021
+678,Kia Seltos GTX Plus 1.4,1491000,23113,Petrol,Bangalore,2019
+679,Mercedes-Benz GLE 250 d,4275000,47045,Diesel,Thane,2016
+680,Hyundai Grand i10 Magna 1.2,415000,32064,Petrol,Pune,2014
+681,Maruti Suzuki Dzire ZXi Plus,637000,76203,Petrol,Chennai,2017
+682,Hyundai Grand i10 Sports Edition,477000,27448,Petrol,Kolkata,2019
+683,Jeep Compass Limited (O) 1.4,2250000,5030,Petrol,Kolkata,2021
+684,Hyundai Santro Magna [2018-2020],510000,30858,Petrol,Hyderabad,2019
+685,Maruti Suzuki Swift Dzire VXI,550000,48000,Petrol,Thane,2016
+686,Hyundai i10 Sportz 1.2 AT,320000,36500,Petrol,Ahmedabad,2011
+687,Maruti Suzuki Celerio VXi CNG,524000,34039,CNG,Pune,2018
+688,Hyundai Elite i20 Magna Executive,536000,24062,Petrol,Kolkata,2018
+689,Mercedes-Benz C-Class C 220 CDI,3000000,64148,Diesel,Hyderabad,2015
+690,MG Hector Sharp 2.0 Diesel,1611000,46301,Diesel,Mumbai,2019
+691,Mahindra Thar LX Hard Top,1699000,3590,Petrol,Bangalore,2022
+692,Toyota Fortuner 3.0 4x2 AT,1990000,134361,Diesel,Hyderabad,2014
+693,Toyota Fortuner 4x2 AT,2649000,108512,Diesel,Ahmedabad,2016
+694,Hyundai Grand i10 Magna 1.2,778000,8423,CNG,Pune,2021
+695,Volkswagen Polo Comfortline 1.2L (P),345000,78800,Petrol,Thane,2013
+696,Maruti Suzuki Ciaz Sigma 1.4,745000,46023,Petrol,Mumbai,2018
+697,Hyundai Verna 1.6 VTVT SX,675000,47000,Petrol,Ahmedabad,2017
+698,Hyundai Elite i20 Asta 1.2,683000,18352,Petrol,Delhi,2017
+699,Honda Amaze 1.2 VX i-VTEC,460000,70000,Petrol,Thane,2015
+700,MG Astor Savvy 1.5 CVT,1475000,12000,Petrol,Delhi,2021
+701,Maruti Suzuki Vitara Brezza VDi,875000,36422,Diesel,Mumbai,2019
+702,Honda City 1.5 V MT,565000,86593,Petrol,Bangalore,2012
+703,Hyundai Eon Era +,250000,34000,Petrol,Thane,2013
+704,Ford EcoSport Titanium 1.5L Ti-VCT,685000,48504,Petrol,Mumbai,2016
+705,Maruti Suzuki Swift LXi,564000,12463,Petrol,Chennai,2020
+706,Maruti Suzuki Alto 800 Lxi,299000,54923,Petrol,Pune,2017
+707,Honda Brio S MT,305000,52000,Petrol,Thane,2013
+708,Mahindra XUV500 W10 AT,1499000,53075,Diesel,Bangalore,2017
+709,BMW X1 sDrive20d Expedition,2175000,21000,Diesel,Mumbai,2017
+710,Maruti Suzuki Wagon R 1.0,391000,18705,Petrol,Delhi,2017
+711,Maruti Suzuki Swift Dzire ZDI,690000,69000,Diesel,Ahmedabad,2017
+712,Maruti Suzuki Dzire ZDi Plus,770000,71250,Diesel,Hyderabad,2017
+713,Hyundai Creta Facelift 1.4 Turbo,1920000,18583,Petrol,Thane,2022
+714,Maruti Suzuki Vitara Brezza ZDi,950000,117859,Diesel,Hyderabad,2017
+715,Hyundai Elite i20 Magna 1.2,575000,67000,Petrol,Hyderabad,2015
+716,Maruti Suzuki Baleno Zeta 1.2,483000,57052,Petrol,Kolkata,2016
+717,Toyota Innova Crysta 2.8 ZX,1975000,75000,Diesel,Ahmedabad,2018
+718,Hyundai Elantra SX (O) 2.0,1090000,71395,Petrol,Mumbai,2016
+719,Maruti Suzuki Alto K10 VXi,389000,24550,Petrol,Pune,2016
+720,Volkswagen Ameo Comfortline 1.0L (P),590000,28000,Petrol,Ahmedabad,2019
+721,Maruti Suzuki Dzire ZXi,634000,8087,Petrol,Kolkata,2019
+722,Volkswagen Vento Highline Petrol,445000,88000,Petrol,Mumbai,2014
+723,Tata Nexon XMA Petrol,745000,26438,Petrol,Thane,2019
+724,Honda City V CVT Petrol,996000,71420,Petrol,Chennai,2018
+725,Maruti Suzuki Vitara Brezza ZXi,1117000,21052,Petrol,Pune,2020
+726,Audi Q7 4.2 TDI quattro,3200000,170000,Diesel,Bangalore,2014
+727,Honda City V CVT Petrol,885000,43417,Petrol,Mumbai,2017
+728,Maruti Suzuki Swift DZire VXI,325000,75100,Petrol,Delhi,2012
+729,Toyota Camry Hybrid [2015-2017],4850000,700,Petrol,Pune,2022
+730,Honda Brio S MT,450000,21996,Petrol,Ahmedabad,2016
+731,Tata Harrier XZA Plus Dual,2251000,30229,Diesel,Mumbai,2021
+732,Maruti Suzuki Alto 800 Lxi,299000,37796,Petrol,Pune,2016
+733,MG Hector Sharp 1.5 Petrol,1866000,32000,Hybrid,Pallikarnai,2022
+734,Maruti Suzuki Dzire ZXi Plus,880000,40904,Petrol,Hyderabad,2020
+735,Hyundai Grand i10 Magna 1.1,415000,43000,Diesel,Thane,2015
+736,Maruti Suzuki Wagon R 1.0,295000,80173,CNG,Mumbai,2012
+737,Maruti Suzuki Alto 800 Vxi,379000,18512,Petrol,Bangalore,2018
+738,Honda City V,625000,73000,Petrol,Ahmedabad,2016
+739,Maruti Suzuki Celerio VXi CNG,689000,1064,CNG,Pune,2022
+740,Hyundai Grand i10 Asta 1.2,410000,37000,Petrol,Thiruvallur,2017
+741,Hyundai Santro Sportz [2018-2020],486000,60600,Petrol,Chennai,2019
+742,Hyundai Elite i20 Sportz 1.2,495000,21344,Petrol,Mumbai,2016
+743,Hyundai Creta SX 1.6 AT,1285000,82899,Diesel,Mumbai,2018
+744,Maruti Suzuki Celerio X Zxi,450000,29192,Petrol,Kolkata,2018
+745,Maruti Suzuki Celerio VXi,364000,11363,Petrol,Kolkata,2015
+746,Maruti Suzuki Wagon R 1.0,250000,77050,CNG,Ahmedabad,2011
+747,Tata Tiago Revotron XZA,525000,24051,Petrol,Thane,2018
+748,Mahindra XUV500 W10,1375000,75811,Diesel,Bangalore,2016
+749,Tata Tiago Revotron XZ,465000,45412,Petrol,Mumbai,2017
+750,Toyota Innova Crysta 2.8 GX,1580000,115000,Diesel,Delhi,2018
+751,Maruti Suzuki Swift VDi,730000,90251,Diesel,Hyderabad,2018
+752,Maruti Suzuki Wagon R 1.0,359000,28518,Petrol,Kolkata,2016
+753,Datsun GO T [2018-2019],361000,33766,Petrol,Hyderabad,2018
+754,Ford Fiesta Exi 1.6 Duratec,175000,114000,Petrol,Pallikarnai,2009
+755,Volvo S90 D4 Inscription,4750000,30000,Diesel,Delhi,2020
+756,Maruti Suzuki Swift DZire VXI,428000,12902,Petrol,Kolkata,2014
+757,Maruti Suzuki Vitara Brezza ZDi,845000,62769,Diesel,Mumbai,2018
+758,Hyundai Grand i10 Sports Edition,349000,52242,Diesel,Kolkata,2015
+759,Honda Jazz ZX CVT,1024000,9838,Petrol,Pune,2021
+760,Renault Kwid Neotech RXL,475000,12000,Petrol,Mumbai,2021
+761,Honda BR-V V CVT Petrol,775000,76275,Petrol,Mumbai,2016
+762,Honda City V Petrol [2017-2019],765000,29500,Petrol,Thane,2017
+763,Tata Safari XZA Plus,2395000,22617,Diesel,Bangalore,2021
+764,Renault Triber RXZ,670000,25000,Petrol,Thiruvallur,2020
+765,Maruti Suzuki Wagon R 1.0,464000,13889,Petrol,Pune,2017
+766,BMW 7 Series 730Ld,6975000,22000,Diesel,Ahmedabad,2017
+767,Nissan Sunny XL D,575000,29208,Diesel,Ahmedabad,2017
+768,Volkswagen Vento Trendline Petrol,315000,62000,Petrol,Thane,2011
+769,Land Rover Range Rover Evoque,5300000,22000,Diesel,Bangalore,2018
+770,Hyundai Eon Era +,350000,26700,Petrol,Ahmedabad,2017
+771,Honda Jazz V Petrol,530000,41217,Petrol,Mumbai,2016
+772,Hyundai Creta SX Plus 1.6,750000,56747,Petrol,Thane,2015
+773,Maruti Suzuki Wagon R LXi,553000,51765,CNG,Delhi,2020
+774,Honda Amaze 1.2 VX AT,465000,54000,Petrol,Mumbai,2014
+775,Tata Harrier XZA Plus Dark,2250000,9535,Diesel,Ahmedabad,2021
+776,Hyundai Santro Sportz [2018-2020],485000,25000,Petrol,Ahmedabad,2019
+777,Maruti Suzuki Wagon R 1.0,400000,47000,CNG,Thane,2015
+778,Honda City VX CVT,750000,46399,Petrol,Mumbai,2015
+779,Maruti Suzuki Alto K10 LXi,370000,47377,CNG,Delhi,2019
+780,Hyundai Grand i10 Nios Sportz,669000,44300,Petrol,Bangalore,2019
+781,Toyota Innova Crysta 2.4 ZX,1975000,144286,Diesel,Hyderabad,2017
+782,Hyundai i10 Asta 1.2 AT,325000,46721,Petrol,Thane,2013
+783,Hyundai Elite i20 Asta 1.2,799000,21303,Petrol,Bangalore,2018
+784,Maruti Suzuki Ritz Vdi BS-IV,410000,80000,Diesel,Thane,2014
+785,Audi Q3 2.0 TDI quattro,1579000,73000,Diesel,Delhi,2015
+786,Chevrolet Beat LS Diesel,150000,84656,Diesel,Ambattur,2011
+787,Hyundai Elite i20 Asta 1.2,565000,18523,Petrol,Mumbai,2015
+788,Honda Amaze 1.5 S i-DTEC,560000,76018,Diesel,Hyderabad,2015
+789,Nissan Sunny XL CVT AT,495000,73056,Petrol,Bangalore,2013
+790,Hyundai Venue SX 1.4 (O),1300000,23221,Diesel,Thane,2021
+791,Honda Brio V MT,285000,71000,Petrol,Noida,2011
+792,Hyundai Elite i20 Sportz 1.2,723000,13825,Petrol,Pune,2019
+793,Tata Zest XM 75 PS,550000,101785,Diesel,Chennai,2015
+794,Maruti Suzuki Wagon R 1.0,410000,24000,CNG,Thane,2015
+795,Maruti Suzuki Celerio VXi (O),558000,77813,CNG,Pune,2019
+796,Maruti Suzuki Baleno Delta 1.2,618000,41617,Petrol,Delhi,2019
+797,BMW 3 Series 320d Luxury,1200000,41000,Diesel,Kolkata,2013
+798,Maruti Suzuki Wagon R 1.0,378000,55847,Petrol,Pune,2015
+799,Renault Duster RXZ 1.3 Turbo,1190000,16600,Petrol,Chennai,2020
+800,Honda Jazz V Petrol,599000,57340,Petrol,Ahmedabad,2019
+801,Hyundai i20 Active 1.2 SX,590000,45173,Petrol,Mumbai,2015
+802,Honda City VX CVT Petrol,999000,58019,Petrol,Bangalore,2017
+803,Hyundai Elite i20 Asta 1.2,565000,18523,Petrol,Mumbai,2015
+804,Hyundai Grand i10 Asta AT,499000,53150,Petrol,Thane,2015
+805,Tata Nexon XZA Plus,1099000,44999,Petrol,Bangalore,2020
+806,Hyundai Santro Sportz,540000,12996,Petrol,Bangalore,2021
+807,Tata Nexon XZ Plus Dual,913000,50043,Petrol,Pune,2018
+808,Maruti Suzuki Ciaz S 1.4,686000,21880,Petrol,Delhi,2018
+809,Volkswagen Polo Highline1.2L (D),550000,36486,Diesel,Hyderabad,2014
+810,Toyota Yaris J CVT [2018-2020],847000,18535,Petrol,Pune,2019
+811,Maruti Suzuki Swift VXi AMT,675000,37090,Petrol,Ahmedabad,2018
+812,Honda Jazz S MT [2015-2016],650000,26361,Petrol,Hyderabad,2018
+813,Honda City ZX CVT Petrol,811000,72973,Petrol,Kolkata,2017
+814,Toyota Etios VX,411000,121790,Petrol,Mumbai,2014
+815,Renault Kwid 1.0 RXT [2016-2019],270000,140000,Petrol,Thiruvallur,2018
+816,Hyundai Grand i10 Sportz 1.2,525000,39200,Petrol,Pune,2017
+817,Hyundai Grand i10 Sports Edition,550000,61391,Diesel,Hyderabad,2017
+818,Maruti Suzuki S-Cross Zeta 1.3,950000,87544,Diesel,Hyderabad,2018
+819,Honda Brio S MT,345000,32000,Petrol,Thane,2014
+820,Maruti Suzuki Baleno Delta 1.2,565000,66000,Petrol,Noida,2017
+821,Nissan Magnite XV Premium Dual,840000,13264,Petrol,Thane,2021
+822,Skoda Rapid Style 1.6 MPI,875000,31469,Petrol,Mumbai,2018
+823,Volkswagen Cross Polo 1.2 MPI,650000,71976,Petrol,Hyderabad,2017
+824,Honda City S,575000,59800,Petrol,Ahmedabad,2016
+825,Honda Amaze VX CVT 1.2,922000,5768,Petrol,Pune,2020
+826,Maruti Suzuki Swift ZXi,531000,55209,Petrol,Pune,2015
+827,Mercedes-Benz CLA 200 CDI Sport,2426000,59500,Diesel,Ahmedabad,2016
+828,Hyundai i10 Magna 1.1 iRDE2,400000,45000,Petrol ,Poonamallee,2016
+829,Nissan Terrano XL (D),769000,63839,Diesel,Bangalore,2016
+830,Jaguar XE Prestige,2975000,32434,Petrol,Bangalore,2017
+831,Maruti Suzuki Wagon R 1.0,375000,55264,Petrol,Thane,2016
+832,Hyundai Elite i20 Asta 1.2,545000,12906,Petrol,Kolkata,2017
+833,Maruti Suzuki Swift VXi AMT,765000,18236,Petrol,Thane,2021
+834,Maruti Suzuki S-Cross Zeta,1050000,6200,Petrol,Ahmedabad,2022
+835,Honda City SV,575000,80122,Petrol,Noida,2014
+836,Honda Jazz S Diesel [2015-2016],450000,46220,Diesel,Kolkata,2016
+837,Ford EcoSport Titanium 1.5L TDCi,799000,63767,Diesel,Bangalore,2016
+838,Audi A6 2.0 TDI Premium,1213000,69000,Diesel,Delhi,2013
+839,Maruti Suzuki Swift VDi,685000,81007,Diesel,Hyderabad,2018
+840,Audi Q5 3.0 TDI quattro,2800000,78457,Diesel,Hyderabad,2015
+841,Maruti Suzuki Vitara Brezza VXi,949000,41098,Petrol,Bangalore,2020
+842,Maruti Suzuki Celerio VXi,396000,50809,Petrol,Pune,2016
+843,Maruti Suzuki Vitara Brezza ZDi+,954000,59568,Diesel,Hyderabad,2019
+844,Skoda Laura Ambition 2.0 TDI,425000,140037,Diesel,Mumbai,2013
+845,Honda WR-V VX MT Diesel,645000,63036,Diesel,Kolkata,2017
+846,Maruti Suzuki Alto 800 LXi,451000,18362,CNG,Delhi,2021
+847,Hyundai Elantra 1.6 SX AT,931000,85520,Diesel,Pune,2015
+848,Honda Amaze 1.2 VX i-VTEC,500000,46000,Petrol,Mumbai,2016
+849,Land Rover Discovery Sport SE,4950000,38000,Diesel,Thane,2018
+850,Maruti Suzuki S-Cross Zeta,1095000,12712,Petrol,Hyderabad,2021
+851,Maruti Suzuki Ciaz Alpha 1.4,769000,35731,Petrol,Bangalore,2017
+852,Ford EcoSport Titanium 1.5L Ti-VCT,585000,39000,Petrol,Kolkata,2017
+853,Honda Jazz V AT Petrol,475000,32000,Petrol,Kolkata,2015
+854,Honda City ZX EXi,295000,119000,Petrol ,Ambattur,2007
+855,Maruti Suzuki Swift ZXi,652000,80457,Petrol,Hyderabad,2018
+856,Hyundai Elite i20 Asta 1.4,621000,91234,Diesel,Kolkata,2018
+857,Hyundai Grand i10 Asta 1.2,615000,49422,Petrol,Pune,2016
+858,Maruti Suzuki Wagon R 1.0,475000,33053,Petrol,Pune,2017
+859,Hyundai Aura SX 1.2 (O),730000,17385,Petrol,Pune,2020
+860,Mercedes-Benz AMG GLA35 4MATIC,6100000,1600,Petrol,Mumbai,2021
+861,Maruti Suzuki Dzire ZXi Plus,974000,10158,Petrol,Pune,2022
+862,Hyundai Creta SX Plus 1.6,1023000,56907,Diesel,Kolkata,2018
+863,Hyundai Elite i20 Asta 1.2,800000,18000,Petrol ,Thiruvallur,2019
+864,Kia Seltos GTX 1.4,1682000,12498,Petrol,Bangalore,2020
+865,Honda Brio S MT,419000,42265,Petrol,Bangalore,2013
+866,Maruti Suzuki Celerio VXi CNG,487000,81329,CNG,Delhi,2018
+867,Hyundai Grand i10 Magna 1.2,450000,53300,Petrol,Pune,2016
+868,Nissan Magnite XV Premium Dual,830000,20000,Petrol ,Pallikarnai,2021
+869,Renault Duster 110 PS RXS,1029000,59839,Diesel,Bangalore,2018
+870,Toyota Fortuner 2.8 4x2 AT,3200000,177734,Diesel,Hyderabad,2018
+871,Honda Brio S MT,282000,55200,Petrol,Delhi,2014
+872,Maruti Suzuki S-Presso VXi,452000,31651,Petrol,Kolkata,2020
+873,Hyundai Verna 1.6 VTVT SX,910000,25921,Petrol,Delhi,2018
+874,Tata Nexon XZ Plus (O),1150000,700,Petrol,Chennai,2022
+875,Maruti Suzuki Swift VXi AMT,704000,28151,Petrol,Delhi,2019
+876,Honda Brio V MT,351000,39276,Petrol,Mumbai,2014
+877,Audi A6 2.0 TDI Premium,1650000,75000,Diesel,Ahmedabad,2014
+878,Honda Amaze 1.2 VX MT,685000,25075,Petrol,Mumbai,2018
+879,Kia Seltos HTX 1.5 [2020-2021],1353000,10678,Petrol,Delhi,2020
+880,Ford EcoSport Titanium 1.5L Ti-VCT,575000,31250,Petrol,Mumbai,2015
+881,Maruti Suzuki Alto 800 LXi,451000,18362,CNG,Delhi,2021
+882,Maruti Suzuki Swift VXi,265000,38500,Petrol,Thane,2010
+883,Maruti Suzuki Wagon R 1.0,400000,25299,Petrol,Mumbai,2015
+884,Mercedes-Benz C-Class 250 CDI Avantagarde,950000,99941,Diesel,Ahmedabad,2012
+885,BMW 7 Series 730Ld Sedan,1250000,35000,Diesel,Ahmedabad,2009
+886,Maruti Suzuki Alto K10 VXi,338000,48448,Petrol,Delhi,2017
+887,Maruti Suzuki Ciaz Delta 1.4,687000,33823,Petrol,Delhi,2017
+888,Maruti Suzuki Swift VXi [2014-2017],571000,21388,Petrol,Kolkata,2019
+889,Mahindra TUV300 T8 AMT mHAWK100,645000,35239,Diesel,Mumbai,2015
+890,Volkswagen Polo GT TSI,825000,11106,Petrol,Kolkata,2021
+891,Kia Seltos HTX IVT 1.5,1275000,28133,Petrol,Kolkata,2020
+892,Maruti Suzuki Ciaz Alpha Hybrid,1076000,23097,Petrol,Pune,2021
+893,Maruti Suzuki Wagon R 1.0,376000,57348,Petrol,Pune,2016
+894,Mercedes-Benz CLA 200 D Urban,2975000,37329,Diesel,Bangalore,2018
+895,Ford EcoSport Titanium 1.5L Ti-VCT,719000,15443,Petrol,Delhi,2017
+896,Hyundai Eon Era +,340000,43000,Petrol,Noida,2018
+897,Hyundai Creta SX Plus 1.6,925000,39240,Petrol,Thane,2017
+898,Hyundai Santro Sportz CNG [2018-2020],545000,43784,CNG,Mumbai,2019
+899,Maruti Suzuki Vitara Brezza ZDi,925000,87803,Diesel,Hyderabad,2018
+900,Hyundai i20 Active 1.2 SX,645000,45000,Petrol,Thane,2015
+901,Toyota Etios VX,309000,35311,Petrol,Delhi,2011
+902,Mahindra Alturas G4 4WD AT,1899000,42347,Diesel,Kolkata,2018
+903,Maruti Suzuki Swift ZXi AMT,700000,68183,Petrol,Bangalore,2018
+904,Mercedes-Benz GLA 200 d Sport,3300000,41679,Diesel,Hyderabad,2018
+905,Hyundai Verna Fluidic 1.6 VTVT,460000,77394,Petrol,Thane,2013
+906,Honda Jazz VX CVT Petrol,699000,30610,Petrol,Ahmedabad,2019
+907,Toyota Urban Cruiser High Grade,1140000,6257,Petrol,Thane,2021
+908,Honda Amaze 1.2 VX MT,857000,7702,Petrol,Pune,2022
+909,Hyundai Creta SX 1.6 CRDI,1072000,75799,Diesel,Chennai,2017
+910,Datsun GO T (O),250000,47000,Petrol,Ahmedabad,2018
+911,Maruti Suzuki Ertiga Vxi CNG,650000,52000,CNG,Thane,2013
+912,Toyota Innova 2.5 GX BS,2031000,40372,Diesel,Delhi,2018
+913,Audi A8 L 3.0 TDI,2751000,45500,Diesel,Ahmedabad,2013
+914,Ford EcoSport Titanium 1.5 Ti-VCT,945000,43624,Petrol,Mumbai,2019
+915,Maruti Suzuki Swift VXi [2014-2017],595000,18548,Petrol,Thane,2018
+916,Ford Freestyle Trend Plus 1.2,610000,63000,Petrol,Poonamallee,2019
+917,Maruti Suzuki Vitara Brezza ZDi,885000,51439,Diesel,Mumbai,2017
+918,BMW X1 sDrive20d xLine,3275000,56307,Diesel,Bangalore,2018
+919,Maruti Suzuki Dzire VXi,641000,30481,Petrol,Pune,2018
+920,Hyundai Elite i20 Asta 1.2,789000,34058,Petrol,Bangalore,2018
+921,Honda Amaze 1.2 SX i-VTEC,519000,48285,Petrol,Bangalore,2015
+922,Ford EcoSport Titanium 1.5L TDCi,790000,60126,Diesel,Ahmedabad,2017
+923,BMW 5 Series 520d Luxury,3800000,61000,Diesel,Ahmedabad,2019
+924,Maruti Suzuki Celerio VXi CNG,489000,88603,CNG,Pune,2017
+925,Maruti Suzuki Alto 800 Lxi,209000,45643,Petrol,Kolkata,2013
+926,Tata Altroz XZ (O) Diesel,978000,10412,Diesel,Chennai,2021
+927,Hyundai Grand i10 Magna 1.2,570000,32335,Petrol,Bangalore,2019
+928,Mercedes-Benz S-Class 350 L,1456000,133000,Petrol,Ahmedabad,2011
+929,Hyundai Elantra 1.6 SX AT,625000,80000,Diesel,Delhi,2014
+930,Honda Jazz SV Petrol,599000,39173,Petrol,Bangalore,2015
+931,Hyundai i20 Sportz 1.4 CRDI,450000,91127,Diesel,Hyderabad,2013
+932,Hyundai Verna SX Plus 1.6,1325000,29373,Diesel,Pune,2019
+933,Kia Sonet HTX 1.0 iMT,1050000,23700,Petrol,Chennai,2020
+934,Honda City 1.5 S MT,399000,62550,Petrol,Thane,2013
+935,Hyundai Elite i20 Sportz 1.4,571000,66000,Diesel,Mumbai,2015
+936,Maruti Suzuki Wagon R 1.0,349000,89000,CNG,Thane,2014
+937,Hyundai Eon 1.0 Kappa Magna,295000,45100,Petrol,Hyderabad,2016
+938,Hyundai Grand i10 Sports Edition,461000,53734,Petrol,Pune,2016
+939,Hyundai i20 Active 1.2 SX,690000,74655,Petrol,Chennai,2016
+940,Toyota Innova 2.5 G2,650000,340000,Diesel,Pallikarnai,2009
+941,Toyota Corolla Altis G Petrol,1190000,54517,Petrol,Ahmedabad,2019
+942,Maruti Suzuki Alto 800 Lxi,335000,35000,Petrol,Ahmedabad,2019
+943,Maruti Suzuki Ciaz ZXi ,640000,36937,Petrol,Mumbai,2016
+944,Mercedes-Benz E-Class 280,450000,40206,Petrol,Kolkata,2007
+945,Hyundai Creta SX Plus 1.6,880000,48488,Petrol,Thane,2016
+946,Volkswagen Tiguan Highline TDI,2376000,72533,Diesel,Pune,2017
+947,Mercedes-Benz R-Class R350 4MATIC,2485000,44724,Petrol,Bangalore,2012
+948,Honda Amaze 1.5 E i-DTEC,475000,43000,Diesel,Kolkata,2017
+949,Hyundai Xcent SX 1.2,486000,94691,Petrol,Pune,2015
+950,Hyundai Verna Fluidic 1.6 VTVT,499000,71550,Petrol,Bangalore,2013
+951,Nissan Terrano XL D Plus,625000,77000,Diesel,Ahmedabad,2014
+952,Ford EcoSport Titanium 1.5 TDCi,630000,95240,Diesel,Hyderabad,2015
+953,Honda City SV CVT,595000,46200,Petrol,Mumbai,2014
+954,Maruti Suzuki Vitara Brezza VDi,779000,58481,Diesel,Pune,2018
+955,Honda Jazz VX CVT Petrol,811000,8652,Petrol,Delhi,2019
+956,Maruti Suzuki Alto 800 LXi,350000,30680,Petrol,Hyderabad,2017
+957,Maruti Suzuki Swift LXi,450000,34933,Petrol,Kolkata,2018
+958,Hyundai Elite i20 Asta 1.2,779000,42825,Petrol,Bangalore,2018
+959,Hyundai Creta 1.6 S Petrol,791000,39813,Petrol,Kolkata,2018
+960,Volkswagen Vento Highline Petrol AT,345000,50667,Petrol,Mumbai,2011
+961,Maruti Suzuki Vitara Brezza VXi,862000,29219,Petrol,Pune,2020
+962,Mercedes-Benz E-Class E350 CDI Avantgarde,1195000,63906,Diesel,Mumbai,2012
+963,Toyota Innova Crysta 2.8 ZX,2450000,35531,Diesel,Mumbai,2019
+964,Hyundai Santro Sportz CNG [2018-2020],545000,23404,CNG,Mumbai,2019
+965,Hyundai Grand i10 Magna 1.2,465000,22407,Petrol,Mumbai,2017
+966,Hyundai Grand i10 Asta 1.2,511000,22498,Petrol,Kolkata,2018
+967,Maruti Suzuki Wagon R 1.0,395000,68000,CNG,Thane,2015
+968,Mahindra Marazzo M6 8 STR,1045000,70163,Diesel,Hyderabad,2018
+969,Datsun redi-GO Gold Limited Edition,285000,48261,Petrol,Mumbai,2017
+970,Honda City V,990000,42700,Petrol,Ahmedabad,2019
+971,Renault Kwid 1.0 RXT AMT,545000,32000,Petrol,Mumbai,2020
+972,Ford EcoSport Titanium 1.5L Ti-VCT,759000,46900,Petrol,Bangalore,2018
+973,Maruti Suzuki Alto 800 Lxi,321000,20315,Petrol,Kolkata,2018
+974,Jeep Compass Limited (O) 2.0,1800000,66500,Diesel,Ambattur,2018
+975,Maruti Suzuki Vitara Brezza ZDi,745000,40579,Diesel,Delhi,2018
+976,Honda City 1.5 V MT,390000,72474,Petrol,Ahmedabad,2010
+977,Tata Nexon XZ Plus (S),1150000,1419,Petrol,Kolkata,2022
+978,Maruti Suzuki Alto 800 Lxi,320000,29799,Petrol,Ahmedabad,2016
+979,Maruti Suzuki Ciaz ZXi,675000,73402,Petrol,Pune,2017
+980,Maruti Suzuki Alto 800 Lxi,269000,70661,Petrol,Pune,2015
+981,Mahindra XUV500 W10,1150000,148803,Diesel,Hyderabad,2015
+982,Kia Sonet HTE 1.2 [2020-2021],790000,7500,Petrol,Ahmedabad,2021
+983,Maruti Suzuki Ertiga VXI,644000,53056,Petrol,Kolkata,2017
+984,Maruti Suzuki Eeco 5 STR,555000,69817,CNG,Pune,2020
+985,Audi A6 35 TDI Premium,1800000,38894,Diesel,Hyderabad,2013
+986,Maruti Suzuki Alto K10 VXi,234000,15685,Petrol,Pune,2012
+987,Jeep Compass Sport 1.4 Petrol,1530000,18000,Petrol,Hyderabad,2018
+988,Maruti Suzuki Wagon R 1.0,268000,76617,Petrol,Kolkata,2013
+989,Skoda Kodiaq Style 2.0 TDI,3325000,32407,Diesel,Bangalore,2018
+990,Land Rover Discovery Sport SE,4950000,38000,Diesel,Thane,2018
+991,Maruti Suzuki Swift ZXi,648000,21852,Petrol,Delhi,2018
+992,Mahindra KUV100 K4 Plus 6,395000,41000,Petrol,Noida,2017
+993,Kia Sonet GTX Plus 1.0,1275000,4000,Petrol,Ahmedabad,2022
+994,Hyundai Elite i20 Sportz 1.2,675000,31776,Petrol,Thane,2018
+995,Maruti Suzuki Swift DZire VXI,385000,76725,Petrol,Kolkata,2014
+996,Maruti Suzuki Dzire VXi,544000,25144,Petrol,Kolkata,2018
+997,Renault Duster 110 PS RXZ,1025000,63673,Diesel,Bangalore,2018
+998,Hyundai Grand i10 Sportz (O),534000,40558,Petrol,Chennai,2017
+999,Hyundai Creta 1.6 SX Plus,1125000,74469,Diesel,Bangalore,2015
+1000,Toyota Yaris G CVT [2018-2020],755000,67067,Petrol,Mumbai,2018
+1001,Volkswagen Vento Highline Petrol,325000,77000,Petrol,Noida,2011
+1002,Tata Nexon XZ Plus Dual,913000,50043,Petrol,Pune,2018
+1003,Hyundai Eon Era [2011-2012],220000,81000,Petrol,Ahmedabad,2011
+1004,Tata Harrier XT Plus,1895000,30830,Diesel,Thane,2020
+1005,Maruti Suzuki Swift VDi ABS,567000,83647,Diesel,Pune,2016
+1006,Tata Tiago Revotron XZ,569000,33640,Petrol,Bangalore,2018
+1007,Volkswagen Vento Comfortline Petrol AT,765000,60240,Petrol,Bangalore,2015
+1008,Ford EcoSport Titanium 1.5 TDCi,511000,62225,Diesel,Mumbai,2014
+1009,Audi A4 2.0 TDI Sline,1690000,48000,Diesel,Ahmedabad,2015
+1010,Honda BR-V V CVT Petrol,795000,61280,Petrol,Mumbai,2016
+1011,Maruti Suzuki Ertiga VDi,670000,92064,Diesel,Hyderabad,2014
+1012,Tata Altroz XZ Petrol,789000,9291,Petrol,Pune,2020
+1013,Maruti Suzuki Baleno Delta 1.3,625000,65000,Diesel,Pallikarnai,2018
+1014,Jeep Compass Limited (O) 1.4,1825000,28449,Petrol,Mumbai,2019
+1015,Toyota Yaris V CVT,990000,41079,Petrol,Pune,2019
+1016,Renault Kwid CLIMBER 1.0 AMT,555000,10690,Petrol,Mumbai,2020
+1017,Hyundai Creta 1.6 SX Plus,1175000,36313,Petrol,Mumbai,2019
+1018,Honda City SV CVT,590000,75258,Petrol,Mumbai,2015
+1019,Maruti Suzuki Swift ZXi AMT,750000,21523,Petrol,Hyderabad,2018
+1020,Hyundai Eon 1.0 Kappa Magna,310000,40000,Petrol,Thane,2016
+1021,Maruti Suzuki Wagon R 1.0,490000,57300,CNG,Ahmedabad,2018
+1022,BMW 7 Series 730Ld Sedan,1956000,77000,Diesel,Ahmedabad,2010
+1023,Maruti Suzuki Vitara Brezza ZDi+,1012000,20744,Diesel,Delhi,2019
+1024,Audi A3 35 TDI Technology,3050000,40910,Diesel,Bangalore,2020
+1025,Mercedes-Benz GLA 200 d Sport,2559000,25000,Diesel,Delhi,2017
+1026,Maruti Suzuki Ertiga VXI,936000,43162,Petrol,Hyderabad,2021
+1027,Honda Accord 2.4 Elegance MT,390000,82000,Petrol,Mumbai,2010
+1028,MG Hector Plus Sharp 1.5,1940000,24000,Petrol,Delhi,2021
+1029,Tata Indigo eCS LS CR4,200000,175000,Diesel,Poonamallee,2014
+1030,Hyundai Grand i10 Sports Edition,471000,21415,Petrol,Bangalore,2014
+1031,Maruti Suzuki Celerio ZXi AMT,445000,48549,Petrol,Mumbai,2016
+1032,BMW 5 Series 520d Luxury,2149000,69000,Diesel,Delhi,2015
+1033,Datsun redi-GO T(O) 1.0,345000,1391,Petrol,Mumbai,2019
+1034,Maruti Suzuki Wagon R 1.0,325000,42000,Petrol,Mumbai,2014
+1035,Renault Kwid RXT 1.0 AMT,525000,8097,Petrol,Noida,2022
+1036,Maruti Suzuki Swift LXi,408000,31511,Petrol,Delhi,2014
+1037,Skoda Rapid Ambition 1.6 MPI,351000,65000,Petrol,Mumbai,2013
+1038,Mercedes-Benz E-Class E 220 d,4450000,88508,Diesel,Hyderabad,2018
+1039,Mahindra Thar LX Convertible Diesel,1299000,36804,Diesel,Kolkata,2021
+1040,Hyundai Creta SX 1.6 CRDi,1490000,40000,Diesel,Hyderabad,2018
+1041,Skoda Rapid Ambition 1.6 TDI,745000,117048,Diesel,Hyderabad,2016
+1042,Maruti Suzuki Alto 800 LXi,350000,28200,Petrol,Ahmedabad,2021
+1043,Maruti Suzuki Swift VXi,499000,57742,Petrol,Bangalore,2014
+1044,Audi Q3 30 TDI Premium,2250000,94520,Diesel,Ahmedabad,2017
+1045,Mahindra XUV500 W8 [2015-2017],685000,88066,Diesel,Delhi,2015
+1046,Volkswagen Polo Highline1.2L (D),380000,78140,Diesel,Ahmedabad,2014
+1047,Tata Nexon XZA Plus Petrol,875000,29873,Petrol,Thane,2018
+1048,Hyundai Elite i20 Asta 1.4,880000,56415,Diesel,Hyderabad,2019
+1049,Honda BR-V S Petrol,942000,38258,Petrol,Delhi,2018
+1050,Volvo S60 Kinetic D4,1595000,118271,Diesel,Hyderabad,2016
+1051,Mahindra Bolero Power Plus ZLX,832000,29726,Diesel,Delhi,2019
+1052,Maruti Suzuki Vitara Brezza ZDi,865000,77000,Diesel,Hyderabad,2017
+1053,Mahindra XUV500 W11(O) [2018-2020],1395000,55218,Diesel,Delhi,2018
+1054,Maruti Suzuki XL6 Zeta MT,1045000,2390,Petrol,Mumbai,2021
+1055,Hyundai Grand i10 Sportz (O),491000,71975,Petrol,Hyderabad,2017
+1056,Tata Hexa XTA 4x2 7,1550000,70930,Diesel,Hyderabad,2018
+1057,Honda Amaze 1.2 S AT,625000,45751,Petrol,Ahmedabad,2017
+1058,Maruti Suzuki Wagon R 1.0,369000,32702,Petrol,Kolkata,2016
+1059,Honda Amaze 1.2 V MT,725000,45982,Petrol,Bangalore,2018
+1060,Jeep Compass Limited (O) 2.0,1745000,57624,Diesel,Hyderabad,2018
+1061,Maruti Suzuki Celerio VXi AMT,400000,67000,Petrol,Thiruvallur,2014
+1062,Renault Kwid CLIMBER 1.0 (O),480000,1245,Petrol,Kolkata,2021
+1063,Honda City SV,799000,56861,Petrol,Bangalore,2016
+1064,Maruti Suzuki Dzire ZXi,795000,33372,Petrol,Bangalore,2020
+1065,Tata Safari XZA Plus Gold,2400000,22360,Diesel,Thane,2021
+1066,Hyundai i20 Magna (O) 1.2,425000,74050,Petrol,Pune,2014
+1067,Hyundai Elite i20  Asta,895000,39389,Petrol,Bangalore,2018
+1068,Maruti Suzuki Alto K10 VXi,336000,44042,Petrol,Pune,2015
+1069,Mercedes-Benz C-Class C 220d Progressive,4600000,53841,Diesel,Hyderabad,2019
+1070,Mahindra XUV500 W11 AT,1590000,45724,Diesel,Ahmedabad,2018
+1071,Jeep Compass Model S (O),3700000,1600,Diesel,Hyderabad,2022
+1072,Hyundai Grand i10 Magna 1.2,500000,33583,Petrol,Kolkata,2019
+1073,Hyundai Venue S 1.0 AT,1045000,32727,Petrol,Mumbai,2020
+1074,Hyundai Verna 1.6 VTVT SX,868000,52858,Petrol,Delhi,2018
+1075,Maruti Suzuki Alto K10 VXi,295000,88989,Petrol,Chennai,2016
+1076,Skoda Rapid Style 1.6 MPI,1046000,10418,Petrol,Delhi,2021
+1077,Chevrolet Cruze LTZ,850000,65000,Diesel,Thane,2017
+1078,Ford EcoSport Titanium 1.5 Ti-VCT,945000,43624,Petrol,Mumbai,2019
+1079,Maruti Suzuki Baleno Alpha 1.2,689000,31968,Petrol,Delhi,2018
+1080,Hyundai Elite i20 Asta 1.2,851000,41236,Petrol,Mumbai,2019
+1081,Maruti Suzuki Baleno Zeta 1.2,585000,36101,Petrol,Mumbai,2017
+1082,Hyundai Creta SX Plus 1.6,1171000,44157,Diesel,Mumbai,2017
+1083,Volkswagen Polo GT TSI,592000,51644,Petrol,Pune,2014
+1084,Hyundai Venue SX 1.4 CRDi,983000,40655,Diesel,Delhi,2019
+1085,Honda Amaze 1.2 SX i-VTEC,469000,79749,Petrol,Pune,2015
+1086,Volkswagen Ameo Trendline 1.0L (P),465000,46000,Petrol,Noida,2018
+1087,Volkswagen Ameo Highline1.2L (P) [2016-2018],399000,40729,Petrol,Kolkata,2016
+1088,Hyundai Elite i20 Asta 1.2,658000,36349,Petrol,Bangalore,2015
+1089,Hyundai Grand i10 Magna 1.2,537000,23345,CNG,Pune,2019
+1090,Hyundai Elite i20 Magna 1.2,534000,33679,Petrol,Delhi,2016
+1091,Hyundai i10 1.1L iRDE Magna,295000,56000,Petrol,Thane,2014
+1092,Maruti Suzuki Celerio VXi,395000,66290,Petrol,Noida,2015
+1093,Maruti Suzuki Celerio ZXi (O),425000,41624,Petrol,Pune,2017
+1094,Hyundai Grand i10 Sportz 1.2,431000,46458,Petrol,Pune,2013
+1095,Audi A4 2.0 TDI (177bhp),1650000,116265,Diesel,Hyderabad,2013
+1096,Honda Amaze 1.2 S i-VTEC,400000,50821,Petrol,Delhi,2014
+1097,Mahindra XUV500 W8 [2015-2017],975000,87820,Diesel,Mumbai,2016
+1098,Renault Kwid RXT [2015-2019],425000,22785,Petrol,Thane,2019
+1099,Maruti Suzuki Wagon R 1.0,450000,70000,CNG,Thane,2018
+1100,Mercedes-Benz E-Class E 350 CDI,2700000,84169,Diesel,Hyderabad,2016
+1101,Maruti Suzuki Baleno Zeta 1.2,725000,12252,Petrol,Mumbai,2020
+1102,Hyundai i20 Asta (O) 1.2,910000,12420,Petrol,Pune,2021
+1103,Hyundai i10 Sportz 1.1 iRDE2,367000,50714,Petrol,Chennai,2014
+1104,Tata Tiago Revotron XZ,590000,16337,Petrol,Delhi,2021
+1105,Maruti Suzuki S-Cross Alpha 1.3,795000,52245,Diesel,Thane,2017
+1106,Hyundai Venue SX Plus 1.0,1097000,64317,Petrol,Pune,2020
+1107,Audi A6 2.0 TDI Premium,1550000,101850,Diesel,Ahmedabad,2014
+1108,Hyundai Santro Sportz [2018-2020],529000,43189,Petrol,Pune,2019
+1109,Audi A4 35 TDI Premium,2700000,82695,Diesel,Chennai,2016
+1110,Maruti Suzuki Wagon R LXi,687000,19225,CNG,Pune,2021
+1111,Maruti Suzuki Swift VXi [2014-2017],580000,63323,Petrol,Hyderabad,2016
+1112,Toyota Corolla Altis GL,1150000,71957,Diesel,Hyderabad,2015
+1113,Maruti Suzuki Ciaz Delta 1.5,849000,54031,Petrol,Hyderabad,2020
+1114,Maruti Suzuki S-Cross Delta 1.3,895000,53416,Diesel,Bangalore,2018
+1115,BMW 3 Series 320d Luxury,2785000,64229,Diesel,Bangalore,2016
+1116,Honda Brio EX MT,375000,81122,Petrol,Bangalore,2014
+1117,Maruti Suzuki Wagon R VXi,579000,50860,Petrol,Bangalore,2019
+1118,Skoda Kushaq Style 1.0L TSI,1450000,3000,Petrol,Kolkata,2022
+1119,Maruti Suzuki Swift VXi AMT,785000,32516,Petrol,Bangalore,2019
+1120,Maruti Suzuki Alto K10 VXi,430000,30305,Petrol,Ahmedabad,2018
+1121,Mahindra Bolero Power Plus SLE,571000,45090,Diesel,Kolkata,2017
+1122,BMW 3 Series GT 320d,3950000,51400,Diesel,Hyderabad,2019
+1123,Volkswagen Taigun GT Plus 1.5,1649000,9792,Petrol,Ahmedabad,2021
+1124,Toyota Innova Crysta 2.8 ZX,1631000,85182,Diesel,Delhi,2017
+1125,Hyundai Elantra 1.8 SX AT,685000,25000,Petrol,Pune,2014
+1126,Kia Seltos GTX (O) 1.4,1598000,14300,Petrol,Pune,2021
+1127,Honda City SV CVT,645000,52283,Petrol,Mumbai,2015
+1128,Tata Tiago NRG Petrol,843000,9578,Petrol,Pune,2022
+1129,Ford Freestyle Titanium Plus 1.2,600000,32000,Petrol,Ambattur,2020
+1130,Honda City ZX CVT Petrol,925000,43239,Petrol,Mumbai,2017
+1131,Maruti Suzuki Wagon R LXi,150000,150000,Petrol ,Ambattur,2007
+1132,Skoda Rapid Ambition 1.6 MPI,959000,54698,Petrol,Delhi,2020
+1133,Maruti Suzuki Alto 800 VXi,349000,19097,Petrol,Delhi,2020
+1134,Maruti Suzuki Swift VXi [2014-2017],629000,37497,Petrol,Bangalore,2018
+1135,Volkswagen Polo Highline1.2L (P),300000,76143,Petrol,Mumbai,2013
+1136,Honda City VX CVT Petrol,1145000,28340,Petrol,Bangalore,2017
+1137,Toyota Corolla Altis G CVT,1227000,75766,Petrol,Delhi,2017
+1138,Hyundai Verna Fluidic 1.6 CRDi,600000,106985,Diesel,Hyderabad,2014
+1139,Jeep Compass Limited Plus Petrol,2000000,11000,Petrol,Mumbai,2020
+1140,BMW X3 xDrive20d,1800000,74073,Diesel,Hyderabad,2012
+1141,Volkswagen Ameo Highline Plus 1.5L,660000,58549,Diesel,Chennai,2017
+1142,Volkswagen Taigun Topline 1.0 TSI,1599000,12093,Petrol,Bangalore,2021
+1143,Ford Figo Duratorq Diesel Titanium,299000,64983,Diesel,Mumbai,2013
+1144,Hyundai Elite i20 Asta 1.2,515000,36787,Petrol,Thane,2014
+1145,Jeep Compass Limited (O) 2.0,1126000,47631,Diesel,Kolkata,2017
+1146,Maruti Suzuki Ciaz Zeta 1.4,752000,28800,Petrol,Ahmedabad,2017
+1147,Maruti Suzuki Baleno Alpha 1.2,875000,43000,Petrol,Hyderabad,2019
+1148,Volkswagen Vento TSI,610000,55837,Petrol,Mumbai,2016
+1149,Hyundai Creta SX Plus 1.6,899000,41441,Petrol,Thane,2016
+1150,Volkswagen Polo Comfortline 1.2L (P),425000,49047,Petrol,Mumbai,2015
+1151,Hyundai Grand i10 Asta 1.2,428000,55888,Petrol,Hyderabad,2013
+1152,Hyundai Santro Sportz CNG [2018-2020],604000,32036,CNG,Delhi,2021
+1153,Maruti Suzuki Alto 800 Vxi,246000,71169,Petrol,Delhi,2014
+1154,Honda Civic ZX CVT Petrol,2070000,19600,Petrol,Pune,2019
+1155,Maruti Suzuki Ciaz Delta 1.3,600000,61456,Diesel,Delhi,2017
+1156,Maruti Suzuki Baleno Delta Dualjet,679000,28417,Petrol,Delhi,2020
+1157,Maruti Suzuki Baleno Sigma 1.3,699000,60132,Diesel,Bangalore,2018
+1158,Hyundai Elite i20 Sportz 1.2,610000,45571,Petrol,Mumbai,2017
+1159,Hyundai Eon 1.0 Kappa Magna,283000,34229,Petrol,Delhi,2014
+1160,Maruti Suzuki Wagon R 1.0,445000,38754,Petrol,Delhi,2018
+1161,Hyundai Verna 1.6 VTVT SX,965000,5564,Petrol,Mumbai,2019
+1162,Maruti Suzuki Alto K10 VXi,430000,58006,Petrol,Hyderabad,2019
+1163,Jeep Compass Limited Plus 2.0,2475000,11293,Diesel,Mumbai,2020
+1164,Volkswagen Polo Comfortline 1.2L (P),579000,51000,Petrol,Bangalore,2015
+1165,Hyundai Elite i20 Asta 1.4,770000,77505,Diesel,Chennai,2017
+1166,Volkswagen Polo GT TSI,925000,62690,Petrol,Bangalore,2018
+1167,Maruti Suzuki Alto 800 LXi,343000,6370,Petrol,Kolkata,2019
+1168,Maruti Suzuki Swift Dzire VXI,515000,59000,Petrol,Gurgaon,2017
+1169,Maruti Suzuki Swift ZXi AMT,725000,11874,Petrol,Thane,2019
+1170,Renault Kwid 1.0 RXL [2017-2019],285000,56856,Petrol,Delhi,2017
+1171,Maruti Suzuki Ignis Delta 1.2,474000,11824,Petrol,Pune,2018
+1172,Mahindra XUV500 W6,1125000,56877,Diesel,Bangalore,2016
+1173,Maruti Suzuki Wagon R 1.0,400000,45000,CNG,Thane,2015
+1174,Honda WR-V VX MT Petrol,625000,24459,Petrol,Kolkata,2017
+1175,Renault Kwid 1.0 RXT [2016-2019],314000,43335,Petrol,Pune,2016
+1176,Honda Jazz V Petrol,400000,54912,Petrol,Kolkata,2016
+1177,Maruti Suzuki Baleno Delta 1.2,665000,15116,Petrol,Mumbai,2019
+1178,Volvo V90 Cross Country D5,3600000,67713,Diesel,Ahmedabad,2018
+1179,Maruti Suzuki Baleno Delta 1.2,725000,45000,Petrol,Hyderabad,2020
+1180,Hyundai Eon Era +,245000,46101,Petrol,Kolkata,2018
+1181,Maruti Suzuki Dzire VXi AMT,769000,46232,Petrol,Bangalore,2018
+1182,Mercedes-Benz GLC 220d 4MATIC Progressive,6499000,6563,Diesel,Kolkata,2022
+1183,Land Rover Discovery Sport HSE,2699000,64801,Diesel,Kolkata,2016
+1184,Mercedes-Benz GLE 250 d,5355000,46023,Diesel,Bangalore,2018
+1185,Hyundai Verna Fluidic 1.6 VTVT,515000,74371,Petrol,Mumbai,2014
+1186,Hyundai Elite i20 Magna Plus,594000,58262,Diesel,Delhi,2018
+1187,Honda BR-V V CVT Petrol,790000,61225,Petrol,Mumbai,2016
+1188,Hyundai Xcent S 1.2 Special,482000,37882,Petrol,Pune,2015
+1189,Ford Endeavour Titanium 3.2 4x4,3300000,71773,Diesel,Hyderabad,2018
+1190,Hyundai i20 Magna 1.2,299000,35982,Petrol,Kolkata,2012
+1191,Honda Amaze 1.2 S i-VTEC,375000,46500,Petrol,Mumbai,2014
+1192,Mercedes-Benz E-Class E 350 CDI,2799000,24162,Diesel,Kolkata,2016
+1193,Datsun GO Plus T,250000,43000,Petrol,Ahmedabad,2015
+1194,Ford EcoSport Titanium 1.5 TDCi,465000,53000,Diesel,Kolkata,2015
+1195,Kia Sonet HTX 1.5 [2020-2021],950000,58063,Diesel,Kolkata,2021
+1196,Audi Q7 45 TDI Technology,6995000,37648,Diesel,Bangalore,2018
+1197,Maruti Suzuki Swift VDi,650000,82366,Diesel,Hyderabad,2017
+1198,Skoda Kodiaq Style 2.0 TDI,2500000,103885,Diesel,Hyderabad,2017
+1199,Hyundai Elite i20 Magna 1.2,575000,67000,Petrol,Hyderabad,2015
+1200,Volkswagen Jetta Trendline 2.0L TDI,295000,63389,Diesel,Kolkata,2011
+1201,Maruti Suzuki Ritz Vxi BS-IV,465000,88000,Petrol,Hyderabad,2015
+1202,Audi A3 40 TFSI Premium,2450000,43290,Petrol,Pune,2018
+1203,Maruti Suzuki Baleno Zeta,621000,29093,Petrol,Kolkata,2018
+1204,Hyundai i10 Magna 1.1 LPG,350000,73380,LPG,Hyderabad,2013
+1205,Honda Jazz VX Petrol,550000,48210,Petrol,Thane,2017
+1206,Hyundai Verna Fluidic 1.6 VTVT,669000,14296,Petrol,Bangalore,2014
+1207,Ford EcoSport Titanium 1.5L TDCi,650000,59511,Diesel,Kolkata,2018
+1208,Toyota Fortuner 2.8 4x4 AT,4199000,6373,Diesel,Kolkata,2021
+1209,Toyota Innova Crysta 2.4 ZX,2200000,88000,Diesel,Hyderabad,2018
+1210,Kia Seltos HTX 1.5 [2020-2021],1275000,42000,Petrol,Ahmedabad,2020
+1211,Renault Duster 110 PS RxL,775000,94931,Diesel,Bangalore,2015
+1212,MG Hector Shine 1.5 Petrol,1800000,5900,Petrol,Kolkata,2021
+1213,Land Rover Discovery Sport HSE,4307000,38144,Diesel,Ahmedabad,2019
+1214,Toyota Innova Crysta 2.4 ZX,2700000,48989,Diesel,Thane,2020
+1215,Maruti Suzuki Swift VXi [2014-2017],595000,15205,Petrol,Thane,2018
+1216,Mercedes-Benz GLS 350 d,6300000,59348,Diesel,Mumbai,2017
+1217,Maruti Suzuki Wagon R 1.0,382000,33941,Petrol,Kolkata,2018
+1218,Maruti Suzuki Wagon R 1.0,415000,19812,CNG,Pune,2015
+1219,Volkswagen Polo Highline Plus 1.2(,485000,55800,Petrol,Gurgaon,2018
+1220,Hyundai Grand i10 Magna 1.2,482000,35010,Petrol,Delhi,2017
+1221,Kia Seltos GTX Plus 1.4,1690000,11000,Petrol,Chennai,2020
+1222,Maruti Suzuki Baleno Delta 1.2,570000,28000,Petrol,Thane,2017
+1223,Renault Kwid 1.0 RXT [2016-2019],304000,53728,Petrol,Delhi,2018
+1224,Tata Harrier XZ,1675000,28000,Diesel,Mumbai,2020
+1225,Maruti Suzuki Alto K10 VXi,255000,66000,Petrol,Hyderabad,2012
+1226,Maruti Suzuki Ertiga ZXi AT,1090000,32881,Petrol,Ahmedabad,2019
+1227,Volkswagen Vento Trendline Petrol,350000,101740,Petrol,Hyderabad,2010
+1228,BMW X1 sDrive20d,835000,47000,Diesel,Thane,2011
+1229,Maruti Suzuki Vitara Brezza ZDi,813000,82559,Diesel,Chennai,2018
+1230,Kia Seltos HTK 1.5 [2020-2021],1850000,20881,Petrol,Hyderabad,2021
+1231,Toyota Corolla H2 1.8E,200000,140000,Petrol,Pallikarnai,2004
+1232,Maruti Suzuki S-Cross Alpha 1.3,625000,48159,Diesel,Kolkata,2018
+1233,Mercedes-Benz B-Class B180 CDI,1350000,64300,Diesel,Ahmedabad,2014
+1234,Kia Seltos GTX Plus AT,1851000,32244,Diesel,Mumbai,2020
+1235,Ford EcoSport Titanium + 1.5L,950000,52547,Petrol,Ahmedabad,2019
+1236,Maruti Suzuki Swift VXi,325000,71861,Petrol,Bangalore,2009
+1237,Hyundai Grand i10 Magna 1.2,469000,24251,Petrol,Bangalore,2013
+1238,Mercedes-Benz S-Class 350 CDI Long,4660000,32500,Diesel,Mumbai,2014
+1239,Maruti Suzuki Swift VDi,600000,82500,Diesel ,Poonamallee,2017
+1240,Audi A3 40 TFSI Premium,1500000,69727,Petrol,Ahmedabad,2015
+1241,Hyundai Elite i20 Sportz 1.2,526000,54822,Petrol,Pune,2015
+1242,Ford Aspire Titanium Plus 1.5,425000,167000,Diesel,Ahmedabad,2016
+1243,Skoda Kushaq Style 1.5L TSI,1925000,23402,Petrol,Bangalore,2021
+1244,Hyundai Xcent S 1.2,395000,36000,Petrol,Kolkata,2018
+1245,Maruti Suzuki S-Presso VXi,431000,53958,Petrol,Kolkata,2020
+1246,Maruti Suzuki Baleno Zeta Automatic,690000,690000,Petrol,Thane,2018
+1247,Hyundai i20 Sportz 1.2 (O),430000,50546,Petrol,Delhi,2014
+1248,Maruti Suzuki Celerio VXi AMT,479000,59175,Petrol,Bangalore,2015
+1249,Audi A3 35 TDI Premium,2950000,17300,Diesel,Bangalore,2018
+1250,Maruti Suzuki Ritz Vxi BS-IV,425000,88000,Petrol,Hyderabad,2014
+1251,Toyota Yaris G MT [2018-2020],785000,28103,Petrol,Delhi,2019
+1252,Honda Jazz V Petrol,520000,73061,Petrol,Hyderabad,2015
+1253,Toyota Innova 2.5 G 7,725000,101330,Diesel,Pune,2012
+1254,Maruti Suzuki Baleno Zeta 1.2,942000,7773,Petrol,Pune,2021
+1255,Land Rover Range Rover Velar,8500000,29000,Petrol,Faridabad,2020
+1256,Maruti Suzuki Alto 800 VXi,401000,1953,Petrol,Delhi,2021
+1257,Hyundai Elite i20 Asta 1.2,767000,18490,Petrol,Chennai,2019
+1258,Hyundai Grand i10 Sportz U2,550000,60093,Diesel,Thane,2018
+1259,Maruti Suzuki Swift VXi [2014-2017],543000,46282,Petrol,Kolkata,2019
+1260,Volkswagen Vento Highline Petrol,700000,93682,Petrol,Hyderabad,2015
+1261,Maruti Suzuki Swift VDi,490000,84316,Diesel,Ahmedabad,2015
+1262,Kia Seltos HTX Plus AT,1700000,20175,Diesel,Hyderabad,2020
+1263,Hyundai Elite i20 Asta 1.2,739000,19266,Petrol,Hyderabad,2017
+1264,Maruti Suzuki Alto 800 Vxi,322000,26802,Petrol,Bangalore,2016
+1265,Hyundai Elite i20 Asta 1.2,717000,20454,Petrol,Chennai,2018
+1266,Toyota Corolla Altis G CVT,1227000,75766,Petrol,Delhi,2017
+1267,Honda City 1.5 V MT,365000,80000,Petrol,Thane,2012
+1268,Renault Kwid 1.0 RXT Opt,451000,2421,Petrol,Pune,2019
+1269,Hyundai Creta SX Plus 1.6,911000,53946,Petrol,Mumbai,2016
+1270,Hyundai Xcent S 1.2 (O),435000,74000,Petrol,Thane,2015
+1271,Hyundai Verna 1.6 VTVT SX,775000,22911,Petrol,Thane,2018
+1272,Hyundai Creta SX 1.6 AT,1450000,59994,Diesel,Hyderabad,2018
+1273,Maruti Suzuki Baleno Delta 1.2,498000,48702,Petrol,Delhi,2016
+1274,Honda City V,1060000,12382,Petrol,Pune,2019
+1275,Hyundai Grand i10 Asta 1.2,629000,12930,Petrol,Bangalore,2016
+1276,Jeep Compass Limited Plus 2.0,2475000,11293,Diesel,Mumbai,2020
+1277,Maruti Suzuki Ciaz Alpha Hybrid,995000,20440,Petrol,Hyderabad,2019
+1278,Maruti Suzuki Swift ZXi,570000,43000,Petrol,Thane,2017
+1279,Maruti Suzuki Celerio VXi CNG,468000,81091,CNG,Delhi,2018
+1280,Hyundai Grand i10 Magna 1.1,450000,67621,Diesel,Hyderabad,2014
+1281,Hyundai Verna 1.6 VTVT SX,650000,38494,Petrol,Mumbai,2016
+1282,Maruti Suzuki Celerio VXi (O),547000,42348,CNG,Pune,2020
+1283,Maruti Suzuki Celerio VXi CNG,527000,93275,CNG,Pune,2019
+1284,Maruti Suzuki Alto K10 VXi,367000,44199,Petrol,Kolkata,2018
+1285,Audi A3 35 TFSI Premium,2180000,77590,Petrol,Delhi,2018
+1286,Audi A3 35 TDI Premium,4299000,15678,Diesel,Kolkata,2019
+1287,Maruti Suzuki Celerio VXi CNG,440000,52000,CNG,Thane,2016
+1288,Maruti Suzuki Ertiga VXI CNG,1140000,28678,CNG,Thane,2021
+1289,Maruti Suzuki Ritz Vxi (ABS),357000,40877,Petrol,Pune,2013
+1290,Honda Jazz V Petrol,557000,44464,Petrol,Chennai,2016
+1291,Mahindra Bolero Power Plus ZLX,725000,57994,Diesel,Hyderabad,2017
+1292,Hyundai Elite i20 Asta 1.2,657000,54982,Petrol,Bangalore,2017
+1293,Datsun GO T (O),250000,40000,Petrol,Ahmedabad,2018
+1294,Maruti Suzuki A-Star Vxi,199000,54000,Petrol,Thane,2010
+1295,Audi Q5 2.0 TDI quattro,1500000,56173,Diesel,Hyderabad,2012
+1296,Renault Duster RXS CVT,899000,36700,Petrol,Bangalore,2019
+1297,Volkswagen Taigun Topline 1.0 TSI,1895000,2377,Petrol,Hyderabad,2022
+1298,Volvo S60 D5 2.4 L,1800000,83893,Diesel,Hyderabad,2016
+1299,Hyundai Verna Fluidic 1.6 VTVT,425000,96000,Petrol,Noida,2011
+1300,Renault Kwid RXL [2015-2019],339000,64346,Petrol,Bangalore,2016
+1301,BMW 3 Series 320d Luxury,1550000,104264,Diesel,Hyderabad,2013
+1302,Hyundai Santro Magna [2018-2020],441000,15447,Petrol,Kolkata,2020
+1303,MG Hector Sharp 1.5 DCT,1599000,29979,Petrol,Bangalore,2019
+1304,Skoda Octavia 1.8 TSI L&K,1699000,45661,Petrol,Thane,2018
+1305,MG ZS EV Exclusive [2020-2021],1919000,57946,Electric,Bangalore,2020
+1306,Renault Kwid 1.0 RXL [2017-2019],369000,43361,Petrol,Bangalore,2017
+1307,Honda City V CVT Petrol,862000,18711,Petrol,Delhi,2017
+1308,Tata Nexon XZ,850000,29700,Petrol,Chennai,2020
+1309,Isuzu D-Max V-Cross 4x4,1895000,64377,Diesel,Bangalore,2018
+1310,Maruti Suzuki Ciaz Delta 1.3,597000,57498,Diesel,Delhi,2017
+1311,Toyota Etios GD,550000,169100,Diesel,Ambattur,2015
+1312,Maruti Suzuki Swift ZXi,479000,24389,Petrol,Delhi,2016
+1313,Tata Harrier XZ [2019-2020],1620000,21077,Diesel,Thane,2019
+1314,Tata Nexon EV XZ Plus,1475000,21065,Electric,Thane,2022
+1315,Honda Jazz ZX CVT,1024000,9838,Petrol,Pune,2021
+1316,Hyundai Venue SX 1.0 (O),1175000,24410,Petrol,Hyderabad,2020
+1317,Hyundai Elite i20 Asta 1.2,715000,14000,Petrol,Thane,2018
+1318,Maruti Suzuki Ciaz S 1.4,686000,21880,Petrol,Delhi,2018
+1319,Maruti Suzuki Swift VDi ABS,645000,69939,Diesel,Bangalore,2016
+1320,Volkswagen Polo Trendline 1.2L (P),609000,25501,Petrol,Bangalore,2017
+1321,Hyundai Creta 1.6 S Petrol,828000,78623,Petrol,Delhi,2016
+1322,Kia Seltos GTK 1.4 Dual,1105000,25483,Petrol,Kolkata,2019
+1323,Maruti Suzuki Ciaz Alpha 1.4,735000,46993,Petrol,Thane,2017
+1324,Maruti Suzuki Alto 800 LXi,366000,4697,Petrol,Delhi,2020
+1325,Maruti Suzuki Wagon R 1.0,430000,53000,Petrol,Ahmedabad,2016
+1326,Maruti Suzuki Ciaz Alpha Hybrid,812000,61867,Petrol,Delhi,2019
+1327,Maruti Suzuki S-Cross Zeta 1.3,950000,28016,Diesel,Hyderabad,2018
+1328,Ford EcoSport Titanium 1.5L TDCi,790000,71400,Diesel,Ahmedabad,2017
+1329,Ford Endeavour Titanium Plus 2.2,3595000,27635,Diesel,Bangalore,2019
+1330,Jeep Compass Limited 1.4 Petrol,1285000,48179,Petrol,Mumbai,2018
+1331,Renault Captur RXL Petrol,779000,99938,Petrol,Bangalore,2018
+1332,Hyundai Grand i10 Sports Edition,566000,12842,Petrol,Kolkata,2019
+1333,Toyota Yaris J MT,1027000,8465,Petrol,Delhi,2021
+1334,Renault Triber RXL [2019-2020],539000,30040,Petrol,Kolkata,2019
+1335,Maruti Suzuki Swift VXi AMT,725000,45745,Petrol,Hyderabad,2020
+1336,Audi A6 35 TDI Matrix,3175000,62410,Diesel,Bangalore,2016
+1337,Hyundai Grand i10 Asta 1.2,540000,29135,Petrol,Thane,2017
+1338,Hyundai Verna 1.6 VTVT SX,992000,8000,Petrol,Delhi,2019
+1339,Volkswagen Vento Highline Plus 1.2,839000,40000,Petrol,Ahmedabad,2018
+1340,Maruti Suzuki Wagon R 1.0,400000,48502,Petrol,Faridabad,2017
+1341,Datsun redi-GO T(O) 1.0,465000,10655,Petrol,Chennai,2021
+1342,Ford Fiesta Classic SXi 1.4,185000,55000,Diesel,Kolkata,2011
+1343,Mahindra Alturas G4 4WD AT,2145000,40180,Diesel,Kolkata,2019
+1344,Hyundai Grand i10 Nios Sportz,729000,33863,Petrol,Bangalore,2021
+1345,Maruti Suzuki Ritz Vxi (ABS),357000,40877,Petrol,Pune,2013
+1346,Honda City VX CVT,785000,61123,Petrol,Noida,2016
+1347,Volvo XC60 Kinetic,2600000,82807,Diesel,Hyderabad,2016
+1348,Hyundai Alcazar Prestige (O) 6,1875000,2293,Petrol,Ahmedabad,2021
+1349,Renault Kwid 1.0 RXT [2016-2019],449000,28213,Petrol,Bangalore,2018
+1350,Maruti Suzuki Swift VXi [2014-2017],699000,15400,Petrol,Bangalore,2018
+1351,BMW 3 Series 320d Sport,1150000,38000,Diesel,Kolkata,2013
+1352,Hyundai Grand i10 Sports Edition,491000,63148,Petrol,Bangalore,2015
+1353,Mahindra Bolero Power Plus ZLX,650000,91752,Diesel,Hyderabad,2016
+1354,Maruti Suzuki Ertiga ZXi,595000,67590,Petrol,Mumbai,2014
+1355,Maruti Suzuki Swift DZire ZXI,495000,66784,Petrol,Thane,2015
+1356,Hyundai Grand i10 Magna 1.2,385000,73000,Petrol,Noida,2014
+1357,Ford Endeavour Titanium Plus 2.2,3595000,27000,Diesel,Bangalore,2019
+1358,Maruti Suzuki Alto 800 Lxi,330000,21857,Petrol,Pune,2018
+1359,Maruti Suzuki Alto LXi BS-III,200000,60506,Petrol,Hyderabad,2009
+1360,Hyundai Santro Sportz CNG [2018-2020],499000,39598,CNG,Mumbai,2020
+1361,Maruti Suzuki Ciaz ZDi+ SHVS,499000,48196,Diesel,Kolkata,2016
+1362,Hyundai Creta SX Plus 1.6,813000,27433,Petrol,Kolkata,2016
+1363,Honda Jazz V Petrol,545000,60857,Petrol,Mumbai,2017
+1364,Land Rover Discovery Sport HSE,3299000,46328,Diesel,Kolkata,2017
+1365,Mercedes-Benz GLA 200 CDI Sport,1650000,75000,Diesel,Faridabad,2015
+1366,Hyundai Verna SX Plus 1.6,1200000,41197,Diesel,Thane,2019
+1367,Volkswagen Ameo Comfortline 1.2L (P),550000,40000,Petrol,Ahmedabad,2017
+1368,Datsun GO Plus T,325000,24921,Petrol,Thane,2016
+1369,Toyota Yaris G CVT [2018-2020],804000,14839,Petrol,Pune,2018
+1370,Maruti Suzuki Celerio VXi AMT,448000,80306,Petrol,Pune,2017
+1371,Honda City VX CVT,750000,49419,Petrol,Thane,2016
+1372,Honda Jazz V AT Petrol,650000,29206,Petrol,Ahmedabad,2017
+1373,Hyundai Creta 1.6 SX Plus,1445000,37499,Petrol,Mumbai,2019
+1374,Hyundai Grand i10 Asta AT,535000,41017,Petrol,Mumbai,2015
+1375,Mercedes-Benz CLS 350,2900000,47000,Petrol,Ahmedabad,2014
+1376,Ford EcoSport Titanium 1.5L Ti-VCT,901000,15386,Petrol,Kolkata,2020
+1377,Toyota Innova 2.5 G BS,1435000,45530,Diesel,Bangalore,2015
+1378,Hyundai i10 Sportz 1.2 Kappa2,365000,57000,Petrol,Ahmedabad,2014
+1379,Maruti Suzuki Celerio VXi (O),558000,89495,CNG,Pune,2019
+1380,Maruti Suzuki Celerio ZXi AMT,470000,51722,Petrol,Hyderabad,2016
+1381,BMW 5 Series 520d M,5750000,45700,Diesel,Ahmedabad,2020
+1382,Honda WR-V VX MT Diesel,775000,46945,Diesel,Delhi,2018
+1383,Ford EcoSport Titanium 1.5L TDCi,702000,27117,Diesel,Delhi,2017
+1384,Jeep Compass Limited 1.4 Petrol,1650000,63000,Petrol,Hyderabad,2017
+1385,Mercedes-Benz C-Class C 220d Progressive,3250000,40378,Diesel,Bangalore,2018
+1386,Maruti Suzuki Ertiga ZDI SHVS,790000,110399,Diesel,Hyderabad,2015
+1387,Maruti Suzuki S-Cross Zeta 1.3,650000,45000,Diesel,Thane,2015
+1388,Kia Sonet GTX Plus 1.5,1260000,40089,Diesel,Mumbai,2020
+1389,Volkswagen Polo Comfortline 1.5L (D),730000,46354,Diesel,Hyderabad,2018
+1390,Hyundai Santro Magna [2018-2020],409000,4441,Petrol,Kolkata,2019
+1391,Maruti Suzuki Baleno Zeta,615000,36146,Petrol,Mumbai,2017
+1392,Hyundai Venue SX Plus 1.0,1161000,16768,Petrol,Pune,2020
+1393,Honda City V,999000,21691,Petrol,Bangalore,2019
+1394,Kia Seltos GTX Plus AT,1445000,67420,Diesel,Kolkata,2020
+1395,Hyundai i20 Sportz (AT) 1.4,499000,41999,Petrol,Bangalore,2013
+1396,Maruti Suzuki Baleno Alpha Automatic,675000,62000,Petrol,Ahmedabad,2018
+1397,Tata Nexon XZ,975000,3200,Petrol,Chennai,2021
+1398,Maruti Suzuki Wagon R 1.0,387000,47747,CNG,Pune,2014
+1399,Hyundai i20 Asta 1.0 Turbo,975000,14746,Petrol,Ahmedabad,2021
+1400,Audi A3 35 TDI Technology,1650000,78597,Diesel,Ahmedabad,2014
+1401,Honda Amaze 1.2 VX i-VTEC,409000,82075,Petrol,Pune,2013
+1402,Honda City SV,650000,45000,Petrol,Ambattur,2015
+1403,Hyundai i10 1.1L iRDE Magna,350000,55000,Petrol,Ahmedabad,2015
+1404,Maruti Suzuki Ertiga VXi,956000,19900,Petrol,Gurgaon,2020
+1405,Honda Amaze 1.2 S CVT,525000,36000,Petrol,Ahmedabad,2016
+1406,Nissan Micra XL (O) [2013-2016],400000,57000,Petrol,Ambattur,2013
+1407,Maruti Suzuki Alto 800 Vxi,223000,27233,Petrol,Kolkata,2014
+1408,Toyota Innova Crysta GX 2.4,2299000,21396,Diesel,Bangalore,2019
+1409,Tata Nexon EV XZ Plus,1550000,48400,Electric,Bangalore,2020
+1410,Hyundai Venue S Plus 1.2,831000,7432,Petrol,Chennai,2020
+1411,Maruti Suzuki Wagon R 1.0,375000,68695,CNG,Mumbai,2014
+1412,Renault Kwid Neotech RXL 1.0,460000,13150,Petrol,Ambattur,2021
+1413,Hyundai Elite i20 Era 1.2,440000,36000,Petrol,Kolkata,2017
+1414,Skoda Rapid 1.5 TDI CR,620000,109335,Diesel,Hyderabad,2015
+1415,Kia Seltos GTX Plus 1.4,1551000,10400,Petrol,Ahmedabad,2022
+1416,Tata Altroz XZ Plus Petrol,849000,11178,Petrol,Bangalore,2021
+1417,Maruti Suzuki Wagon R 1.0,235000,66000,Petrol,Noida,2012
+1418,Honda Amaze 1.2 E i-VTEC,465000,33046,Petrol,Mumbai,2016
+1419,Hyundai i20 Sportz 1.2,365000,64000,Petrol,Noida,2013
+1420,Mahindra Marazzo M4 8 STR,1149000,20473,Diesel,Bangalore,2019
+1421,Honda City VX CVT,775000,62000,Petrol,Ahmedabad,2015
+1422,Maruti Suzuki Alto 800 LXi,500000,37228,CNG,Pune,2021
+1423,Toyota Camry Hybrid [2015-2017],4850000,700,Petrol,Pune,2022
+1424,Hyundai Santro Sportz [2018-2020],529000,43189,Petrol,Pune,2019
+1425,Audi Q3 35 TDI Premium,1513000,65000,Diesel,Ahmedabad,2015
+1426,Ford Figo Duratec Petrol ZXI,249000,71000,Petrol,Thane,2014
+1427,Maruti Suzuki Swift ZDi AMT,800000,60161,Diesel,Thane,2019
+1428,Maruti Suzuki Ciaz Delta 1.3,597000,57498,Diesel,Delhi,2017
+1429,Tata Nexon XZ Plus Diesel,960000,37845,Diesel,Thane,2019
+1430,Mahindra KUV100 K2 D 6,425000,20338,Diesel,Ahmedabad,2017
+1431,Skoda Octavia 1.8 TSI Ambition,1523000,38842,Petrol,Pune,2016
+1432,Maruti Suzuki Celerio VXi,394000,76775,Petrol,Pune,2016
+1433,Maruti Suzuki Dzire VXi AMT,729000,39439,Petrol,Bangalore,2018
+1434,Maruti Suzuki Swift VXi ABS,520000,81869,Petrol,Chennai,2017
+1435,Ford EcoSport Titanium 1.5L TDCi,790000,56204,Diesel,Ahmedabad,2017
+1436,Honda BR-V S Petrol,775000,49889,Petrol,Mumbai,2018
+1437,Maruti Suzuki S-Presso VXi,475000,7942,Petrol,Thane,2021
+1438,Jaguar XF 2.2 Diesel Luxury,2300000,83358,Diesel,Hyderabad,2013
+1439,Hyundai i20 Active 1.2 S,493000,50307,Petrol,Kolkata,2016
+1440,Audi Q3 35 TDI Premium,1799000,21894,Diesel,Kolkata,2016
+1441,Ford EcoSport Titanium 1.5 TDCi,490000,52613,Diesel,Kolkata,2015
+1442,Maruti Suzuki Baleno Delta 1.2,651000,59468,Petrol,Mumbai,2018
+1443,Hyundai Eon 1.0 Kappa Magna,360000,16205,Petrol,Pune,2015
+1444,Maruti Suzuki Celerio ZXi (O),425000,41624,Petrol,Pune,2017
+1445,Maruti Suzuki Ertiga VDi,730000,120000,Diesel,Hyderabad,2015
+1446,Hyundai Creta SX 1.6 AT,1350000,33815,Petrol,Ahmedabad,2018
+1447,Renault Duster 110 PS RxZ,999000,41591,Diesel,Bangalore,2017
+1448,Renault Duster 110 PS RXL,795000,82000,Diesel,Hyderabad,2018
+1449,Maruti Suzuki Alto K10 VXi,345000,44288,Petrol,Delhi,2019
+1450,Maruti Suzuki S-Presso VXi,455000,7082,Petrol,Kolkata,2020
+1451,Mahindra Scorpio S2,929000,36624,Diesel,Bangalore,2015
+1452,Maruti Suzuki Ritz Zxi BS-IV,390000,51000,Petrol,Hyderabad,2014
+1453,Ford Aspire Titanium 1.2 Ti-VCT,550000,24954,Petrol,Ahmedabad,2017
+1454,Jeep Compass Longitude (O) 2.0,1224000,54441,Diesel,Pune,2017
+1455,Maruti Suzuki Alto K10 VXi,199000,34579,Petrol,Pune,2012
+1456,Maruti Suzuki Wagon R 1.0,615000,23000,CNG,Thane,2020
+1457,Hyundai Creta 1.6 SX Plus,1350000,35000,Petrol,Mumbai,2018
+1458,Mercedes-Benz AMG A35 4MATIC,5200000,1700,Petrol,Pune,2021
+1459,Volkswagen Ameo Highline Plus 1.5L,515000,30000,Diesel,Kolkata,2016
+1460,Maruti Suzuki Ciaz Alpha Hybrid,1063000,11140,Petrol,Pune,2020
+1461,Tata Safari XZA Plus,2349000,19075,Diesel,Bangalore,2021
+1462,Mercedes-Benz E-Class E250 CDI Avantgarde,1790000,114686,Diesel,Mumbai,2014
+1463,Ford Figo Titanium 1.5 Ti-VCT,650000,38603,Petrol,Hyderabad,2019
+1464,Maruti Suzuki SX4 ZXI MT,245000,67860,Petrol,Thane,2010
+1465,Maruti Suzuki Alto K10 VXi,336000,40510,Petrol,Delhi,2018
+1466,Hyundai Elite i20 Magna Executive,519000,19905,Petrol,Kolkata,2017
+1467,Jaguar XE Prestige,2400000,21000,Petrol,Kolkata,2017
+1468,Hyundai Eon D-Lite +,329000,28104,Petrol,Bangalore,2014
+1469,Mercedes-Benz C-Class C 300d AMG,4900000,23400,Diesel,Pune,2020
+1470,Hyundai Elite i20 Asta 1.2,775000,32000,Petrol,Chennai,2019
+1471,Hyundai Creta SX Plus 1.6,790000,58289,Petrol,Thane,2015
+1472,Hyundai Venue SX Plus 1.0,1145000,11457,Petrol,Bangalore,2019
+1473,Tata Nexon EV Prime XZ,1525000,5000,Electric,Mumbai,2022
+1474,Honda Amaze 1.2 VX i-VTEC,650000,73699,Petrol,Chennai,2016
+1475,Hyundai Elite i20 Sportz 1.2,525000,68766,Petrol,Mumbai,2015
+1476,Honda WR-V VX MT Petrol,695000,30902,Petrol,Mumbai,2017
+1477,Honda City VX CVT,735000,66684,Petrol,Mumbai,2015
+1478,Toyota Urban Cruiser Premium Grade,985000,8134,Petrol,Thane,2021
+1479,Hyundai Venue SX (O) 1.0,964000,24432,Petrol,Kolkata,2021
+1480,Hyundai i10 Magna 1.2 Kappa2,286000,58734,Petrol,Pune,2011
+1481,Hyundai i10 Magna 1.2 Kappa2,325000,15780,Petrol,Thane,2013
+1482,Datsun GO T,265000,44760,Petrol,Mumbai,2014
+1483,Hyundai Creta S 1.5 Petrol,1320000,17000,Petrol,Thane,2021
+1484,Hyundai Creta 1.6 SX (O),970000,117295,Diesel,Hyderabad,2015
+1485,Hyundai Eon D-Lite,250000,62000,Petrol,Poonamallee,2014
+1486,Hyundai Creta 1.4 S,1175000,43300,Diesel,Ahmedabad,2019
+1487,Honda Amaze 1.2 V CVT,775000,15899,Petrol,Ahmedabad,2020
+1488,Mahindra Alturas G4 4WD AT,2250000,76187,Diesel,Kolkata,2020
+1489,Hyundai Elite i20 Asta 1.2,521000,59194,Petrol,Mumbai,2015
+1490,Kia Seltos HTX 1.5 Dual,1667000,13841,Petrol,Pune,2021
+1491,Maruti Suzuki Swift LXi Special,700000,11000,Petrol,Chennai,2019
+1492,Hyundai Creta 1.6 SX Plus,1225000,24128,Petrol,Thane,2018
+1493,Volkswagen Vento Highline Diesel AT,814000,96710,Diesel,Pune,2017
+1494,Mahindra Thar LX Hard Top,1625000,38500,Diesel,Hyderabad,2020
+1495,Honda WR-V S MT Petrol,625000,23798,Petrol,Ahmedabad,2017
+1496,Tata Altroz XT Petrol,737000,5918,Petrol,Chennai,2021
+1497,Hyundai Santro Sportz AMT,606000,5231,Petrol,Pune,2020
+1498,Skoda Laura Elegance 2.0 TDI,595000,78000,Diesel,Thane,2013
+1499,Hyundai Creta SX 1.6 AT,1290000,60038,Petrol,Ahmedabad,2019
+1500,Maruti Suzuki Ciaz Delta 1.4,740000,48279,Petrol,Mumbai,2017
+1501,Nissan Micra Active XL,325000,56000,Petrol,Ahmedabad,2017
+1502,Hyundai Grand i10 Magna 1.2,509000,45907,Petrol,Bangalore,2017
+1503,Hyundai i20 Asta 1.0 Turbo,995000,8566,Petrol,Thane,2021
+1504,Skoda Octavia 2.0 TDI CR,1521000,97050,Diesel,Pune,2017
+1505,Maruti Suzuki Swift ZXi,695000,50000,Petrol,Thane,2021
+1506,Toyota Corolla Altis VL AT,1200000,86000,Petrol,Ahmedabad,2018
+1507,BMW X1 sDrive20d xLine,3275000,67337,Diesel,Bangalore,2018
+1508,Ford Endeavour Titanium Plus 3.2,3125000,59000,Diesel,Faridabad,2019
+1509,Land Rover Range Rover Evoque,5999000,45195,Diesel,Kolkata,2021
+1510,Ford Endeavour Titanium 3.2 4x4,2700000,71000,Diesel,Ahmedabad,2018
+1511,Skoda Rapid Style 1.5 TDI,825000,123000,Diesel,Hyderabad,2017
+1512,Maruti Suzuki Baleno Delta 1.2,607000,24695,Petrol,Delhi,2019
+1513,Maruti Suzuki Celerio VXi,385000,62228,Petrol,Noida,2015
+1514,Honda City V Diesel,650000,80000,Diesel,Hyderabad,2015
+1515,Maruti Suzuki Swift VXi,375000,22500,Petrol,Thane,2013
+1516,Ford Classic 1.4 TDCi CLXi,330000,106587,Diesel,Hyderabad,2013
+1517,Land Rover Freelander 2 HSE,950000,75000,Diesel,Kolkata,2012
+1518,Ford Endeavour Titanium 2.2 4x2,2995000,28466,Diesel,Mumbai,2018
+1519,Hyundai Santa Fe 2WD MT,1025000,87642,Diesel,Thane,2015
+1520,Toyota Etios Liva GD,540000,65243,Diesel,Bangalore,2013
+1521,Volkswagen Polo Comfortline 1.2L (P),520000,90381,Petrol,Hyderabad,2015
+1522,Honda WR-V VX MT Diesel,853000,84439,Diesel,Chennai,2018
+1523,Renault Kwid CLIMBER 1.0 AMT,485000,20916,Petrol,Mumbai,2019
+1524,Audi A6 2.0 TFSi Technology,7200000,20000,Petrol,Bangalore,2021
+1525,Maruti Suzuki S-Presso VXi Plus,476000,70,Petrol,Delhi,2021
+1526,Mahindra XUV500 W11 AT,2049000,45350,Diesel,Bangalore,2020
+1527,Toyota Innova Crysta 2.8 ZX,2225000,36283,Diesel,Mumbai,2018
+1528,Maruti Suzuki Dzire ZXi Plus,745000,26450,Petrol,Pune,2019
+1529,Maruti Suzuki Ertiga ZXi,645000,62285,Petrol,Hyderabad,2013
+1530,Mahindra Thar LX 4-STR Hard,1795000,5438,Petrol,Bangalore,2021
+1531,Toyota Corolla Altis VL AT,1002000,88105,Petrol,Delhi,2016
+1532,Honda City SV,556000,78529,Petrol,Delhi,2015
+1533,Honda Jazz S MT [2015-2016],675000,33000,Petrol,Hyderabad,2018
+1534,Audi Q5 30 TDI Premium,1750000,133000,Diesel,Ahmedabad,2015
+1535,Maruti Suzuki Ciaz Delta 1.4,749000,53197,Petrol,Bangalore,2017
+1536,Maruti Suzuki S-Cross Zeta 1.3,775000,15629,Diesel,Mumbai,2017
+1537,Volkswagen Vento Highline Diesel AT,625000,95860,Diesel,Hyderabad,2014
+1538,Maruti Suzuki Dzire VXi AMT,729000,39439,Petrol,Bangalore,2018
+1539,Hyundai Verna EX 1.6 CRDi,879000,91495,Diesel,Pune,2017
+1540,Toyota Innova Crysta 2.8 GX,1369000,177700,Diesel,Gurgaon,2017
+1541,Maruti Suzuki Baleno Zeta,621000,29093,Petrol,Kolkata,2018
+1542,Ford EcoSport Titanium 1.5L Ti-VCT,859000,74280,Petrol,Pune,2018
+1543,Hyundai Grand i10 Sportz 1.2,430000,22676,Petrol,Delhi,2015
+1544,Honda City 1.5 V MT,325000,77000,Petrol,Noida,2010
+1545,Skoda Superb Style TSI AT,1699000,38818,Petrol,Thane,2017
+1546,Hyundai Elantra 1.6 SX MT,565000,66666,Diesel,Mumbai,2013
+1547,Maruti Suzuki Alto LXi BS-III,285000,62000,Petrol,Hyderabad,2011
+1548,Hyundai i10 1.1L iRDE Magna,325000,63000,Petrol,Ahmedabad,2014
+1549,Hyundai Grand i10 Asta AT,524000,58184,Petrol,Pune,2016
+1550,Ford EcoSport Trend 1.5L TDCi,350000,80600,Diesel,Gurgaon,2015
+1551,Volkswagen Vento Highline Petrol,850000,40912,Petrol,Ahmedabad,2019
+1552,Maruti Suzuki S-Presso VXi Plus,460000,9323,Petrol,Kolkata,2020
+1553,Mahindra Marazzo M2 8 STR,1500000,5300,Diesel,Poonamallee,2022
+1554,Honda Jazz ZX,808000,5870,Petrol,Kolkata,2021
+1555,Honda City VX CVT,675000,66608,Petrol,Thane,2015
+1556,Hyundai Elite i20 Asta 1.2,789000,41068,Petrol,Bangalore,2018
+1557,Maruti Suzuki Ciaz Alpha 1.4,825000,40532,Petrol,Bangalore,2017
+1558,Honda City VX CVT,725000,48146,Petrol,Mumbai,2015
+1559,Kia Seltos HTK Plus AT,1545000,27710,Diesel,Mumbai,2020
+1560,Maruti Suzuki Baleno Delta,580000,49000,Petrol,Pallikarnai,2019
+1561,Hyundai Xcent S 1.2 (O),425000,11628,Petrol,Kolkata,2015
+1562,Maruti Suzuki Alto K10 VXi,181000,63250,Petrol,Delhi,2012
+1563,Mahindra Thar LX Convertible Diesel,1800000,4600,Diesel,Hyderabad,2022
+1564,Toyota Innova Crysta 2.8 ZX,2450000,35531,Diesel,Mumbai,2019
+1565,Maruti Suzuki Ciaz Zeta 1.4,1087000,19586,Petrol,Pune,2019
+1566,Maruti Suzuki Alto K10 VXi,373000,17815,Petrol,Delhi,2019
+1567,Skoda Kodiaq Style 2.0 TDI,2875000,51000,Diesel,Hyderabad,2018
+1568,MG Hector Sharp 1.5 DCT,1599000,29988,Petrol,Bangalore,2020
+1569,Nissan Terrano XL (D),570000,121000,Diesel,Ahmedabad,2014
+1570,Maruti Suzuki Baleno Delta 1.2,585000,39852,Petrol,Delhi,2018
+1571,Renault Kwid Neotech RXL,435000,12850,Petrol,Mumbai,2020
+1572,Hyundai Grand i10 Sportz 1.2,581000,31500,Petrol,Chennai,2018
+1573,Maruti Suzuki Alto 800 Lxi,205000,35965,Petrol,Kolkata,2014
+1574,Kia Sonet HTX Plus 1.0,1006000,18169,Petrol,Pune,2020
+1575,Maruti Suzuki Celerio VXi,357000,24063,Petrol,Kolkata,2015
+1576,Mahindra Scorpio 2021 S7 140,1285000,19000,Diesel,Delhi,2020
+1577,Hyundai Elite i20 Sportz 1.2,830000,35811,Petrol,Hyderabad,2020
+1578,Mercedes-Benz CLA 200 CDI Sport,2675000,7000,Diesel,Kolkata,2018
+1579,Honda City SV Diesel,790000,60000,Diesel,Ahmedabad,2018
+1580,Skoda Rapid 1.6 MPI Ambition,695000,67269,Petrol,Mumbai,2017
+1581,Maruti Suzuki Wagon R 1.0,640000,40664,CNG,Mumbai,2021
+1582,Toyota Fortuner 3.0 MT,1075000,113000,Diesel,Mumbai,2011
+1583,Maruti Suzuki Alto 800 Vxi,341000,20786,Petrol,Chennai,2018
+1584,MG Hector Sharp Hybrid 1.5,1450000,35000,Hybrid,Delhi,2020
+1585,BMW 5 Series 520d M,3295000,53971,Diesel,Thane,2017
+1586,Toyota Fortuner 4X4 AT 2.8,3950000,53834,Diesel,Kolkata,2021
+1587,Tata Nexon XZ Plus (O),1067000,30356,Petrol,Chennai,2020
+1588,Maruti Suzuki Ciaz Delta 1.5,910000,76000,Diesel,Hyderabad,2019
+1589,Hyundai Santro Xing GLS,260000,79800,Petrol,Ambattur,2013
+1590,Maruti Suzuki Alto 800 Vxi,402000,4958,Petrol,Delhi,2021
+1591,Hyundai Creta 1.6 SX Plus,1175000,70000,Petrol,Ahmedabad,2019
+1592,Hyundai Santro Magna [2018-2020],562000,24669,Petrol,Pune,2020
+1593,Land Rover Range Rover Evoque,2250000,89000,Diesel,Ahmedabad,2014
+1594,Hyundai Grand i10 Magna 1.2,385000,42228,Petrol,Delhi,2014
+1595,Hyundai Creta E Plus 1.6,939000,40544,Petrol,Bangalore,2016
+1596,Maruti Suzuki Vitara Brezza ZXI,1125000,19608,Petrol,Bangalore,2020
+1597,Maruti Suzuki Celerio VXi AMT,395000,41058,Petrol,Delhi,2016
+1598,BMW 3 Series 320d Luxury,1090000,65000,Diesel,Ahmedabad,2013
+1599,Maruti Suzuki Ciaz Sigma 1.4,635000,38773,Petrol,Mumbai,2017
+1600,Mercedes-Benz E-Class E 220 d,4437000,49700,Diesel,Ahmedabad,2018
+1601,Tata Nexon XZA Plus Petrol,866000,31585,Petrol,Pune,2018
+1602,Maruti Suzuki Wagon R 1.0,360000,86866,Petrol,Kolkata,2015
+1603,Skoda Superb L&K TDI AT,1995000,56341,Diesel,Mumbai,2017
+1604,Honda City V,669000,53206,Petrol,Bangalore,2015
+1605,Hyundai Grand i10 Magna 1.2,475000,18000,Petrol,Ahmedabad,2017
+1606,Hyundai Elite i20 Asta 1.4,685000,63379,Diesel,Mumbai,2016
+1607,Honda City VX CVT,750000,48900,Petrol,Ahmedabad,2015
+1608,Hyundai Creta 1.6 S Petrol,856000,41951,Petrol,Delhi,2016
+1609,Tata Safari XZ Plus,1945000,22889,Diesel,Kolkata,2021
+1610,Kia Seltos HTK 1.5 [2020-2021],1143000,19970,Petrol,Pune,2019
+1611,Maruti Suzuki Alto 800 Vxi,350000,44706,Petrol,Hyderabad,2018
+1612,Honda City ZX VTEC,180000,83920,Petrol,Pune,2008
+1613,Audi A4 Technology 40 TFSI,3950000,45760,Petrol,Ahmedabad,2021
+1614,Hyundai Verna SX Plus 1.6,890000,56040,Diesel,Mumbai,2017
+1615,Maruti Suzuki S-Presso VXi Plus,476000,64,Petrol,Delhi,2021
+1616,Maruti Suzuki Dzire ZXi AMT,690000,51500,Petrol,Ahmedabad,2019
+1617,Honda City Anniversary Edition Petrol,1130000,36040,Petrol,Pune,2018
+1618,Maruti Suzuki Alto K10 VXi,199000,34579,Petrol,Pune,2012
+1619,Hyundai Elite i20 Asta 1.2,461000,40875,Petrol,Kolkata,2015
+1620,Hyundai i20 Active 1.2 SX,673000,31622,Petrol,Hyderabad,2017
+1621,Ford EcoSport Titanium 1.5L TDCi,899000,36600,Diesel,Bangalore,2017
+1622,Audi A6 2.0 TDI Premium,1350000,29000,Diesel,Kolkata,2013
+1623,Skoda Rapid Ambition 1.6 TDI,980000,41443,Diesel,Hyderabad,2019
+1624,Ford EcoSport Titanium 1.5L Ti-VCT,625000,62926,Petrol,Mumbai,2016
+1625,Maruti Suzuki Wagon R 1.0,384000,55486,Petrol,Kolkata,2017
+1626,Hyundai Grand i10 Nios Sportz,625000,36053,Petrol,Ahmedabad,2020
+1627,Honda Jazz V Petrol,770000,17922,Petrol,Pune,2019
+1628,Kia Seltos HTK Plus 1.5,1685000,8963,Petrol,Thane,2022
+1629,Honda City V,891000,20143,Petrol,Bangalore,2018
+1630,Maruti Suzuki Swift DZire VXI,475000,66000,Petrol,Thane,2013
+1631,Honda City V,835000,40547,Petrol,Mumbai,2018
+1632,Honda City VX,680000,80815,Petrol,Mumbai,2016
+1633,Maruti Suzuki Swift VXi,606000,24858,Petrol,Bangalore,2017
+1634,Isuzu MU-X 4x2,1791000,96095,Diesel,Thane,2017
+1635,Maruti Suzuki Wagon R 1.0,323000,54095,Petrol,Pune,2014
+1636,MINI Cooper Countryman Cooper S,2000000,69446,Petrol,Hyderabad,2014
+1637,Maruti Suzuki Alto K10 VXi,210000,127000,Petrol,Kolkata,2012
+1638,Hyundai Creta SX 1.5 Petrol,1700000,12500,Petrol ,Poonamallee,2020
+1639,Maruti Suzuki Dzire ZXi Plus,799000,59597,Petrol,Bangalore,2018
+1640,Maruti Suzuki Wagon R VXi,535000,18855,Petrol,Thane,2019
+1641,Maruti Suzuki Swift VXi AMT,745000,41528,Petrol,Bangalore,2018
+1642,Maruti Suzuki Swift LXi,551000,35166,Petrol,Hyderabad,2019
+1643,Fiat Abarth Punto T-Jet 1.4,897000,26762,Petrol,Bangalore,2015
+1644,Audi Q5 2.0 TDI quattro,2288000,58670,Diesel,Ahmedabad,2014
+1645,Hyundai Grand i10 Asta 1.2,575000,29964,Petrol,Mumbai,2017
+1646,Land Rover Range Rover Evoque,7700000,5600,Petrol,Thane,2021
+1647,Maruti Suzuki Alto 800 Lxi,289000,20572,Petrol,Delhi,2017
+1648,Tata Tiago Revotron XT [2016-2019],453000,44296,Petrol,Chennai,2018
+1649,Mahindra KUV100 NXT K8 6,700000,12000,Petrol,Hyderabad,2020
+1650,Maruti Suzuki Alto 800 Vxi,291000,39262,Petrol,Pune,2017
+1651,Hyundai Santro Xing GL,142000,46733,Petrol,Kolkata,2010
+1652,Volkswagen Polo Highline1.2L (P),699000,39200,Petrol,Bangalore,2016
+1653,Hyundai Creta 1.6 SX Plus,964000,67981,Petrol,Pune,2016
+1654,Honda City ZX Petrol [2019-2019],1249000,66729,Petrol,Bangalore,2020
+1655,Mercedes-Benz CLA 200 Petrol Sport,2550000,13137,Petrol,Mumbai,2017
+1656,Volkswagen Polo Highline1.2L (P),300000,47000,Petrol,Kolkata,2013
+1657,Volvo XC90 D5 AWD,4500000,45000,Diesel,Kolkata,2018
+1658,Mahindra XUV300 1.5 W8 (O),1299000,36770,Diesel,Bangalore,2019
+1659,Isuzu D-Max V-Cross 4x4,1695000,67970,Diesel,Bangalore,2017
+1660,Honda City SV CVT,658000,46910,Petrol,Pune,2015
+1661,Honda Jazz S AT [2015-2016],685000,34231,Petrol,Bangalore,2015
+1662,Tata Safari XZA Plus 6S,2395000,13594,Diesel,Bangalore,2021
+1663,Hyundai Venue SX 1.5 CRDi,925000,43000,Diesel,Ahmedabad,2020
+1664,Honda City VX CVT,735000,82953,Petrol,Chennai,2016
+1665,Tata Safari Storme 2.2 VX,575000,65000,Diesel,Kolkata,2014
+1666,Audi A4 2.0 TDI (177bhp),1490000,86830,Diesel,Hyderabad,2013
+1667,Hyundai Creta S 1.5 Diesel,1600000,72305,Diesel,Hyderabad,2021
+1668,Honda City V Diesel,680000,55201,Diesel,Hyderabad,2015
+1669,Maruti Suzuki Ciaz ZXI+,731000,37799,Petrol,Thane,2017
+1670,Maruti Suzuki Wagon R 1.0,295000,24628,Petrol,Bangalore,2011
+1671,Honda WR-V SV MT Petrol,775000,24000,Petrol,Ahmedabad,2020
+1672,Maruti Suzuki S-Cross Alpha 1.3,1150000,34514,Diesel,Hyderabad,2019
+1673,Mahindra XUV500 W10,1050000,89000,Diesel,Thane,2016
+1674,Toyota Innova Crysta 2.8 ZX,1900000,108810,Diesel,Ahmedabad,2018
+1675,Maruti Suzuki Wagon R 1.0,556000,3810,Petrol,Delhi,2021
+1676,Jeep Compass Longitude (O) 2.0,1540000,43922,Diesel,Thane,2019
+1677,Maruti Suzuki Celerio VXi (O),615000,36560,CNG,Thane,2020
+1678,Hyundai i10 Sportz 1.2 Kappa2,455000,48137,Petrol,Hyderabad,2014
+1679,Honda City V CVT Petrol,795000,44415,Petrol,Thane,2017
+1680,Jeep Compass Limited Plus Diesel,1799000,64683,Diesel,Bangalore,2019
+1681,Honda Amaze 1.2 S AT,395000,38885,Petrol,Mumbai,2014
+1682,Maruti Suzuki Baleno Alpha 1.2,711000,69886,Petrol,Mumbai,2019
+1683,Toyota Land Cruiser LC 200,7000000,152000,Diesel,Pune,2011
+1684,Hyundai Verna Fluidic 1.6 VTVT,1011000,31726,Petrol,Pune,2018
+1685,Maruti Suzuki S-Presso VXi Plus,440000,75258,Petrol,Hyderabad,2020
+1686,Honda City 1.5 V MT,325000,77000,Petrol,Noida,2010
+1687,Maruti Suzuki Swift VXi,411000,34551,Petrol,Delhi,2015
+1688,Hyundai Creta 1.6 SX Plus,1157000,53459,Diesel,Hyderabad,2017
+1689,Maruti Suzuki S-Cross Zeta AT,914000,11729,Petrol,Kolkata,2020
+1690,Hyundai i20 Sportz 1.5 MT,950000,11000,Diesel,Ahmedabad,2022
+1691,Maruti Suzuki Swift ZXi,410000,75000,Petrol,Noida,2014
+1692,Toyota Urban Cruiser High Grade,1256000,15412,Petrol,Pune,2022
+1693,Honda City V CVT Petrol,793000,70233,Petrol,Delhi,2017
+1694,Honda Brio S MT,345000,53000,Petrol,Ahmedabad,2013
+1695,Skoda Rapid Ambition 1.6 MPI,525000,60000,Petrol,Hyderabad,2014
+1696,Maruti Suzuki Swift VXi,557000,54489,Petrol,Chennai,2017
+1697,Chevrolet Tavera Neo 3 LS-,795000,95000,Diesel,Thane,2016
+1698,Toyota Corolla Altis VL AT,1275000,25000,Petrol,Mumbai,2017
+1699,Nissan Kicks XV Premium Turbo,1265000,31387,Petrol,Hyderabad,2020
+1700,Maruti Suzuki Celerio VXi CNG,610000,23225,CNG,Thane,2020
+1701,Hyundai Grand i10 Magna 1.2,494000,35705,Petrol,Delhi,2017
+1702,Honda City VX Diesel,680000,41000,Diesel,Kolkata,2015
+1703,Maruti Suzuki Alto K10 VXi,336000,44042,Petrol,Pune,2015
+1704,Audi Q7 45 TDI Premium,5200000,48000,Diesel,Pune,2017
+1705,Maruti Suzuki Alto 800 Lxi,299000,72171,Petrol,Bangalore,2014
+1706,Renault Triber RXZ [2019-2020],670000,20555,Petrol,Pune,2020
+1707,Maruti Suzuki Swift VXi [2014-2017],650000,3168,Petrol,Kolkata,2019
+1708,Tata Tiago Revotron XT [2016-2019],475000,47751,Petrol,Noida,2018
+1709,Maruti Suzuki Alto K10 LXi,201000,52151,Petrol,Delhi,2010
+1710,Hyundai Venue SX 1.4 CRDi,983000,40655,Diesel,Delhi,2019
+1711,Maruti Suzuki Swift VDi,427000,82914,Diesel,Kolkata,2017
+1712,Volkswagen Vento Highline Diesel,470000,83501,Diesel,Hyderabad,2013
+1713,Hyundai Elite i20 Asta 1.2,549000,61900,Petrol,Gurgaon,2015
+1714,Hyundai Creta SX Plus 1.6,1093000,37630,Diesel,Kolkata,2018
+1715,Hyundai Verna SX 1.5 VTVT,1179000,63994,Petrol,Bangalore,2020
+1716,Maruti Suzuki S-Cross Alpha 1.3,875000,58000,Diesel,Thane,2018
+1717,Honda City VX,950000,25000,Petrol,Pallikarnai,2017
+1718,Honda City V Petrol [2017-2019],745000,33246,Petrol,Mumbai,2017
+1719,Ford EcoSport Titanium 1.5L TDCi,825000,42071,Diesel,Bangalore,2016
+1720,Jaguar XE Prestige Diesel,3299000,29999,Diesel,Bangalore,2017
+1721,Renault Kwid RXT [2015-2019],315000,15507,Petrol,Thane,2017
+1722,Maruti Suzuki Dzire ZDi AMT,764000,15805,Diesel,Bangalore,2018
+1723,Maruti Suzuki Celerio VXi AMT,385000,63931,Petrol,Noida,2014
+1724,Maruti Suzuki Wagon R 1.0,550000,31295,Petrol,Hyderabad,2019
+1725,Hyundai Creta SX Plus 1.6,1025000,130000,Diesel,Ahmedabad,2017
+1726,Maruti Suzuki S-Cross Zeta AT,1156000,9400,Petrol,Ahmedabad,2021
+1727,Hyundai Creta SX Plus 1.6,855000,39000,Petrol,Thane,2015
+1728,Maruti Suzuki Baleno Delta 1.2,582000,24749,Petrol,Kolkata,2018
+1729,Maruti Suzuki Vitara Brezza ZXi,1275000,21986,Petrol,Bangalore,2020
+1730,BMW 5 Series GT 535d,1500000,81000,Diesel,Ahmedabad,2012
+1731,Volkswagen Vento Highline 1.0L TSI,1200000,37230,Petrol,Hyderabad,2021
+1732,Hyundai Verna EX 1.6 VTVT,525000,35856,Petrol,Delhi,2014
+1733,Skoda Yeti Ambiente,600000,137849,Diesel,Hyderabad,2011
+1734,Renault Kwid 1.0 RXT Opt,452000,19927,Petrol,Bangalore,2019
+1735,Nissan Sunny XL,249000,56000,Petrol,Kolkata,2012
+1736,BMW 5 Series 520d M,3300000,41296,Diesel,Mumbai,2017
+1737,Honda Amaze 1.2 SX i-VTEC,445000,63882,Petrol,Mumbai,2016
+1738,Honda Brio V MT,351000,39276,Petrol,Mumbai,2014
+1739,Hyundai Creta S 1.5 Petrol,1325000,16000,Petrol,Thane,2021
+1740,Maruti Suzuki Baleno Zeta 1.2,483000,57052,Petrol,Kolkata,2016
+1741,Maruti Suzuki Vitara Brezza ZDi,1022000,50802,Diesel,Pune,2019
+1742,Hyundai i20 Magna 1.2,375000,45195,Petrol,Mumbai,2014
+1743,Maruti Suzuki Wagon R 1.0,420000,86955,CNG,Pune,2018
+1744,Kia Sonet GTX Plus 1.0,1104000,20879,Petrol,Kolkata,2020
+1745,Hyundai Elite i20 Sportz 1.2,595000,5000,Petrol,Thane,2016
+1746,Maruti Suzuki Wagon R 1.0,299000,44480,Petrol,Kolkata,2014
+1747,Hyundai Santro Sportz CNG [2018-2020],529000,39717,CNG,Pune,2018
+1748,Mahindra TUV300 T8,623000,32549,Diesel,Kolkata,2017
+1749,Skoda Laura Ambition 2.0 TDI,425000,140037,Diesel,Mumbai,2013
+1750,Mahindra Thar LX Hard Top,1575000,10900,Petrol,Ahmedabad,2020
+1751,Audi Q3 35 TDI quattro,1490000,90000,Diesel,Ahmedabad,2015
+1752,Maruti Suzuki XL6 Alpha MT,990000,38598,Petrol,Thane,2020
+1753,Toyota Innova Crysta GX 2.4,2150000,12039,Diesel,Ahmedabad,2020
+1754,Tata Tigor EV XZ Plus,1135000,17294,Electric,Thane,2021
+1755,Skoda Superb Elegance 1.8 TSI,800000,135000,Petrol,Thiruvallur,2010
+1756,Maruti Suzuki Swift VXi [2014-2017],695000,46027,Petrol,Hyderabad,2019
+1757,Renault Duster RXL Petrol,480000,46525,Petrol,Pune,2014
+1758,Tata Harrier XZ [2019-2020],1551000,24500,Diesel,Ahmedabad,2019
+1759,Honda City VX CVT,775000,48793,Petrol,Thane,2016
+1760,Hyundai i10 Sportz 1.2 Kappa2,325000,85500,Petrol,Thane,2014
+1761,Maruti Suzuki Swift VXi ABS,689000,34088,Petrol,Bangalore,2017
+1762,Maruti Suzuki Baleno Delta 1.2,719000,19921,Petrol,Pune,2019
+1763,Honda Brio V MT,239000,75000,Petrol,Ahmedabad,2012
+1764,Maruti Suzuki Alto K10 VXi,260000,99203,Petrol,Hyderabad,2012
+1765,Jeep Compass Limited 2.0 Diesel,1350000,57000,Diesel,Ahmedabad,2019
+1766,Hyundai Grand i10 Magna 1.0,475000,34810,LPG,Bangalore,2015
+1767,Maruti Suzuki Ciaz Alpha Hybrid,845000,35829,Petrol,Mumbai,2018
+1768,Audi A4 2.0 TDI (143bhp),1350000,89332,Diesel,Ahmedabad,2013
+1769,Audi Q7 45 TDI Technology,5400000,22000,Diesel,Kolkata,2019
+1770,Maruti Suzuki Vitara Brezza ZDi+,821000,59706,Diesel,Mumbai,2016
+1771,BMW X1 sDrive20d,800000,75000,Diesel,Ahmedabad,2011
+1772,Hyundai Elite i20 Magna Plus,594000,58262,Diesel,Delhi,2018
+1773,Kia Sonet HTK Plus 1.5,1550000,9914,Diesel,Thane,2021
+1774,Hyundai Grand i10 Asta 1.2,496000,81298,Petrol,Pune,2015
+1775,BMW X1 sDrive20d xLine,3785000,29221,Diesel,Bangalore,2019
+1776,Hyundai Creta E Plus 1.6,829000,34766,Petrol,Mumbai,2017
+1777,Maruti Suzuki Wagon R 1.0,341000,20138,Petrol,Hyderabad,2014
+1778,Honda WR-V VX MT Petrol,649000,47000,Petrol,Kolkata,2017
+1779,Hyundai Grand i10 Sportz 1.2,659000,27113,Petrol,Bangalore,2019
+1780,Maruti Suzuki Wagon R ZXI,699000,7506,Petrol,Bangalore,2020
+1781,Toyota Innova Crysta 2.8 GX,1890000,48969,Diesel,Thane,2018
+1782,Honda Amaze 1.2 S MT,585000,77200,Petrol,Thane,2018
+1783,Hyundai Grand i10 Asta 1.2,541000,34258,Petrol,Mumbai,2016
+1784,Hyundai Elite i20 Asta 1.2,446000,54136,Petrol,Kolkata,2015
+1785,Hyundai Elite i20 Magna Executive,675000,28000,Petrol,Ahmedabad,2017
+1786,Volkswagen Vento Comfortline Diesel AT,550000,56000,Diesel,Thane,2014
+1787,MG Hector Plus Sharp 1.5,1700000,19000,Petrol,Kolkata,2021
+1788,Maruti Suzuki Wagon R 1.0,467000,84065,Petrol,Pune,2018
+1789,Maruti Suzuki Ertiga VXi AT,1045000,37523,Petrol,Mumbai,2019
+1790,Maruti Suzuki Wagon R 1.0,406000,64942,CNG,Delhi,2017
+1791,Maruti Suzuki Vitara Brezza ZDi,875000,82000,Diesel,Ahmedabad,2018
+1792,Hyundai i20 Magna 1.2,259000,41123,Petrol,Delhi,2011
+1793,Chevrolet Cruze LTZ AT,690000,72000,Diesel,Ahmedabad,2015
+1794,Maruti Suzuki Ritz Zxi BS-IV,321000,65247,Petrol,Delhi,2014
+1795,Honda Brio VX AT,575000,56861,Petrol,Ahmedabad,2017
+1796,Hyundai Grand i10 Sportz 1.2,545000,41100,Petrol,Ahmedabad,2018
+1797,Maruti Suzuki Wagon R 1.0,299000,56932,Petrol,Kolkata,2014
+1798,Toyota Camry Hybrid,1890000,20000,Petrol,Kolkata,2017
+1799,Honda City VX CVT,1450000,4275,Petrol,Thane,2021
+1800,Hyundai Elite i20 Sportz 1.2,591000,20281,Petrol,Mumbai,2017
+1801,Maruti Suzuki Baleno Delta 1.2,568000,46310,Petrol,Kolkata,2019
+1802,Maruti Suzuki Ritz Vxi BS-IV,250000,60000,Petrol,Kolkata,2014
+1803,Tata Nexon XT [2017-2019],690000,16449,Petrol,Kolkata,2018
+1804,Jeep Compass Limited Plus Petrol,1875000,27000,Petrol,Mumbai,2019
+1805,Tata Tigor Revotron XZ,709000,15122,Petrol,Chennai,2021
+1806,Hyundai Grand i10 Sports Edition,569000,5221,Petrol,Bangalore,2015
+1807,Hyundai Grand i10 Asta AT,595000,35000,Petrol,Thane,2016
+1808,Toyota Corolla Altis G AT,1025000,67800,Petrol,Pallikarnai,2015
+1809,Hyundai Creta E Plus 1.6,1050000,34841,Petrol,Hyderabad,2018
+1810,Maruti Suzuki Ciaz S 1.4,715000,22217,Petrol,Ahmedabad,2017
+1811,Tata Tiago XZ Plus,679000,17817,Petrol,Bangalore,2020
+1812,Kia Seltos HTX 1.5 [2020-2021],1545000,13969,Petrol,Bangalore,2020
+1813,Hyundai i20 Asta (O) 1.2,960000,13626,Petrol,Thane,2021
+1814,Maruti Suzuki Wagon R 1.0,332000,31316,Petrol,Kolkata,2014
+1815,Maruti Suzuki Dzire VDi,725000,7050,Diesel,Thane,2018
+1816,Honda City 1.5 S MT,395000,74000,Petrol,Mumbai,2012
+1817,Hyundai Elite i20 Asta 1.2,801000,24737,Petrol,Delhi,2019
+1818,Maruti Suzuki Vitara Brezza VDi,945000,29147,Diesel,Hyderabad,2019
+1819,Hyundai Creta E Plus 1.4,970000,48976,Diesel,Pune,2017
+1820,Hyundai Creta SX Plus 1.6,925000,39240,Petrol,Thane,2017
+1821,Maruti Suzuki Alto 800 Lxi,281000,70153,Petrol,Kolkata,2018
+1822,Hyundai Elite i20 Magna Executive,675000,16398,Petrol,Thane,2019
+1823,Honda Amaze 1.2 S i-VTEC,390000,65636,Petrol,Pune,2014
+1824,Hyundai Elite i20 Asta 1.2,575000,30000,Petrol,Kolkata,2017
+1825,Hyundai i10 Magna 1.2 Kappa2,245000,26916,Petrol,Thane,2012
+1826,Hyundai Grand i10 Magna 1.2,540000,34000,Petrol,Thane,2019
+1827,Hyundai Venue SX (O) 1.5,1150000,16100,Diesel,Ambattur,2021
+1828,Honda City SV CVT,650000,36623,Petrol,Thane,2015
+1829,Maruti Suzuki Eeco 5 STR,645000,1374,CNG,Mumbai,2021
+1830,Honda City ZX CVT Petrol,1590000,12372,Petrol,Hyderabad,2021
+1831,Maruti Suzuki Ciaz Alpha Hybrid,850000,10200,Petrol,Kolkata,2020
+1832,Maruti Suzuki S-Presso VXi Plus,465000,28224,Petrol,Mumbai,2020
+1833,Maruti Suzuki Wagon R 1.0,451000,45116,CNG,Pune,2017
+1834,Mercedes-Benz CLA 200 Petrol Sport,2590000,37000,Petrol,Ahmedabad,2018
+1835,MG Hector Sharp 1.5 Petrol,1875000,14000,Petrol,Mumbai,2021
+1836,Honda City V CVT Petrol,730000,59053,Petrol,Ahmedabad,2017
+1837,Audi A4 2.0 TDI (143,1500000,73562,Diesel,Hyderabad,2012
+1838,Mercedes-Benz GLE 350 d,3850000,75176,Diesel,Hyderabad,2015
+1839,Toyota Corolla Altis VL AT,1394000,34316,Petrol,Kolkata,2018
+1840,Hyundai Elite i20 Asta 1.2,779000,42825,Petrol,Bangalore,2018
+1841,Toyota Innova Crysta ZX 2.4,2975000,23439,Diesel,Thane,2021
+1842,Jeep Grand Cherokee SRT [2016-2020],5300000,47300,Petrol,Kolkata,2017
+1843,MG ZS EV Exclusive [2020-2021],1919000,57946,Electric,Bangalore,2020
+1844,Mahindra Marazzo M6 Plus 8,1485000,36700,Diesel,Chennai,2021
+1845,Maruti Suzuki Wagon R 1.0,411000,19021,Petrol,Kolkata,2018
+1846,Toyota Etios Liva GD,540000,65243,Diesel,Bangalore,2013
+1847,Kia Seltos GTX Plus AT,1850000,68700,Diesel,Hyderabad,2020
+1848,MG Hector Sharp 2.0 Diesel,1699000,28679,Diesel,Bangalore,2019
+1849,Tata Nexon XM,929000,27499,Petrol,Chennai,2020
+1850,Maruti Suzuki Vitara Brezza VDi,700000,86908,Diesel,Thane,2016
+1851,Volkswagen Passat 1.8L TSI,335000,55460,Petrol,Kolkata,2010
+1852,Ford EcoSport Titanium 1.5L Ti-VCT,679000,54310,Petrol,Mumbai,2017
+1853,Honda City ZX CVT Petrol,1009000,58165,Petrol,Pune,2017
+1854,Mercedes-Benz GLE 300d 4MATIC LWB,8600000,34000,Diesel,Pune,2020
+1855,Kia Sonet GTX Plus 1.0,1250000,12800,Petrol,Ahmedabad,2022
+1856,Hyundai Accent Executive,270000,57704,Petrol,Hyderabad,2011
+1857,Honda City ZX CVT Petrol,1606000,6116,Petrol,Pune,2022
+1858,Honda Brio S MT,295000,81000,Petrol,Noida,2013
+1859,MG Astor Sharp 1.5 MT,1549000,2200,Petrol,Bangalore,2022
+1860,Mahindra Marazzo M2 8 STR,1136000,9238,Diesel,Kolkata,2021
+1861,Hyundai Verna Fluidic 1.6 VTVT,391000,84344,Petrol,Delhi,2013
+1862,Tata Harrier XZ [2019-2020],1695000,47082,Diesel,Bangalore,2019
+1863,Hyundai i20 Asta 1.2,430000,41429,Petrol,Pune,2012
+1864,Hyundai Xcent SX 1.1 CRDi,500000,73000,Diesel ,Thiruvallur,2015
+1865,Maruti Suzuki Swift VDi,610000,62000,Diesel,Thane,2017
+1866,Ford EcoSport Trend 1.5 TDCi,451000,74529,Diesel,Kolkata,2014
+1867,Skoda Rapid TSI Style AT,1125000,46807,Petrol,Bangalore,2020
+1868,Hyundai Grand i10 Sportz (O),570000,25971,Petrol,Thane,2017
+1869,Maruti Suzuki Dzire VXi,611000,43100,Petrol,Ahmedabad,2018
+1870,MG Gloster Savvy 6 STR,4285000,20264,Diesel,Thane,2021
+1871,Maruti Suzuki Ciaz ZXi ,650000,75000,Petrol,Thane,2016
+1872,Honda City V,815000,20580,Petrol,Kolkata,2019
+1873,Hyundai Creta 1.6 S Petrol,1167000,28596,Petrol,Delhi,2019
+1874,Honda Amaze 1.2 SX i-VTEC,509000,48333,Petrol,Bangalore,2014
+1875,Mahindra XUV500 W6 AT,950000,74000,Diesel,Ahmedabad,2017
+1876,Toyota Corolla H2 1.8E,200000,140000,Petrol,Pallikarnai,2005
+1877,Maruti Suzuki Vitara Brezza VDi,740000,42000,Diesel,Thane,2016
+1878,Honda Jazz V AT Petrol,590000,26786,Petrol,Mumbai,2016
+1879,Maruti Suzuki Celerio VXi,443000,36415,Petrol,Pune,2016
+1880,Mercedes-Benz GLE 250 d,5400000,42000,Diesel,Pune,2018
+1881,Honda City ZX CVT Petrol,1511000,7747,Petrol,Mumbai,2021
+1882,Maruti Suzuki Swift ZXi,734000,18619,Petrol,Pune,2019
+1883,Mercedes-Benz GLE 350 d,4700000,55000,Diesel,Ahmedabad,2017
+1884,Hyundai i10 Sportz 1.2 AT,345000,36000,Petrol,Mumbai,2012
+1885,Renault Kwid 1.0 RXT [2016-2019],475000,2066,Petrol,Mumbai,2020
+1886,Audi Q2 Premium Plus I,3050000,10700,Petrol,Ahmedabad,2020
+1887,Maruti Suzuki Dzire VXi AMT,660000,48000,Petrol,Thane,2018
+1888,Maruti Suzuki Baleno Delta 1.2,498000,48702,Petrol,Delhi,2016
+1889,Honda City V,675000,87693,Petrol,Pune,2016
+1890,Tata Nexon XMA (S),1025000,14836,Petrol,Ahmedabad,2021
+1891,Tata Harrier Kaziranga XZA Plus,2290000,16000,Diesel,Ahmedabad,2022
+1892,Hyundai Elite i20 Asta 1.2,721000,53864,Petrol,Bangalore,2018
+1893,Hyundai Elite i20 Sportz 1.2,839000,14546,Petrol,Bangalore,2019
+1894,Honda Amaze 1.2 VX i-VTEC,505000,87150,Petrol,Pune,2017
+1895,Maruti Suzuki Celerio VXi CNG,525000,50889,CNG,Pune,2018
+1896,Toyota Etios G,275000,70000,Petrol,Noida,2011
+1897,Audi A4 35 TDI Premium,3275000,47555,Diesel,Bangalore,2018
+1898,Datsun redi-GO T [2016-2019],270000,63225,Petrol,Hyderabad,2016
+1899,Mahindra KUV100 NXT K6 Plus,492000,60132,Petrol,Kolkata,2020
+1900,BMW 5 Series 520d Luxury,2099000,42465,Diesel,Kolkata,2016
+1901,Mercedes-Benz C-Class 220 BlueEfficiency,1095000,64304,Diesel,Kolkata,2013
+1902,Audi A6 35 TDI Matrix,2400000,79059,Diesel,Ahmedabad,2016
+1903,Hyundai Grand i10 Nios Sportz,725000,18590,CNG,Thane,2021
+1904,Hyundai Creta 1.6 SX Plus,875000,75000,Diesel,Delhi,2016
+1905,Jeep Compass Longitude 2.0 Diesel,1499000,70400,Diesel,Bangalore,2017
+1906,Honda City V Petrol [2017-2019],760000,79938,Petrol,Thane,2017
+1907,Mahindra XUV300 1.5 W8 (O),1300000,70000,Diesel,Hyderabad,2019
+1908,MG Gloster Savvy 6 STR,4199000,24600,Diesel,Bangalore,2020
+1909,Maruti Suzuki Baleno Alpha 1.2,524000,56800,Petrol,Delhi,2016
+1910,Maruti Suzuki Vitara Brezza VDi,825000,48174,Diesel,Thane,2018
+1911,Volkswagen Polo GT TSI,925000,52000,Petrol,Hyderabad,2019
+1912,Renault Captur RXT Petrol Dual,690000,34000,Petrol,Mumbai,2018
+1913,BMW X1 sDrive20d M Sport,3900000,16000,Diesel,Hyderabad,2019
+1914,Maruti Suzuki Ritz Vdi BS-IV,345000,92000,Diesel,Hyderabad,2012
+1915,Maruti Suzuki Alto 800 Lxi,269000,70661,Petrol,Pune,2015
+1916,Hyundai Verna SX 1.5 VTVT,1150000,11000,Petrol,Kolkata,2021
+1917,Maruti Suzuki Swift DZire ZDI,550000,89000,Diesel,Chennai,2014
+1918,Ford Endeavour Titanium 3.2 4x4,3143000,45000,Diesel,Delhi,2018
+1919,Mercedes-Benz GLA 200 Sport,2175000,53000,Petrol,Mumbai,2017
+1920,Nissan Terrano XL (D),575000,85000,Diesel,Mumbai,2015
+1921,Maruti Suzuki Swift VXi,334000,46000,Petrol,Ahmedabad,2012
+1922,Maruti Suzuki Dzire VXi,675000,45000,Petrol,Kolkata,2021
+1923,Jeep Compass Limited (O) 1.4,1341000,48381,Petrol,Thane,2018
+1924,Hyundai Grand i10 Magna 1.2,482000,20225,Petrol,Delhi,2018
+1925,Toyota Corolla Altis VL AT,1650000,25914,Petrol,Pune,2018
+1926,Mercedes-Benz GLE 250 d,5500000,50012,Diesel,Ahmedabad,2018
+1927,MG Hector Smart 1.5 DCT,1499000,9700,Petrol,Bangalore,2019
+1928,Kia Seltos GTX Plus AT,1865000,8000,Petrol,Mumbai,2021
+1929,Hyundai Elite i20 Asta 1.2,620000,47452,Petrol,Ahmedabad,2016
+1930,Honda Jazz V Petrol,595000,10861,Petrol,Hyderabad,2016
+1931,Maruti Suzuki SX4 VXI CNG,171000,76000,CNG,Delhi,2010
+1932,Maruti Suzuki A-Star VXI,295000,15000,Petrol,Ambattur,2013
+1933,Mahindra Marazzo M6 Plus 7,1137000,10616,Diesel,Kolkata,2020
+1934,Hyundai i20 Asta (O) 1.0,1195000,10530,Petrol,Bangalore,2021
+1935,Honda Civic 1.8S MT,349000,62500,Petrol,Thane,2012
+1936,Kia Seltos GTX Plus 1.4,1995000,7358,Petrol,Bangalore,2021
+1937,Citroen C5 Aircross Shine,3500000,27000,Diesel,Hyderabad,2021
+1938,Honda City 1.5 V MT,310000,95000,Petrol,Mumbai,2010
+1939,Hyundai Grand i10 Magna 1.2,415000,36234,Petrol,Kolkata,2018
+1940,Maruti Suzuki Alto 800 LXi,389000,54765,CNG,Pune,2019
+1941,Hyundai Grand i10 Magna 1.2,465000,58000,Petrol,Thane,2017
+1942,Hyundai Santro Sportz AMT [2018-2020],589000,13772,Petrol,Bangalore,2018
+1943,Hyundai Grand i10 Magna 1.2,778000,8423,CNG,Pune,2021
+1944,Ford Endeavour Titanium 3.2 4x4,3150000,47000,Diesel,Mumbai,2018
+1945,Hyundai Verna 1.6 CRDI SX,1090000,45000,Diesel,Ahmedabad,2019
+1946,Mahindra Scorpio VLX 2WD Airbag,615000,127000,Diesel,Hyderabad,2014
+1947,Honda City V,615000,21946,Petrol,Thane,2015
+1948,Hyundai Elite i20 Asta 1.4,551000,91,Diesel,Ahmedabad,2015
+1949,Ford EcoSport Titanium 1.5 TDCi,434000,59685,Diesel,Kolkata,2013
+1950,Skoda Superb L&K TSI AT,3490000,14500,Petrol,Pune,2021
+1951,Maruti Suzuki Ertiga ZDI +,1080000,65917,Diesel,Hyderabad,2018
+1952,Maruti Suzuki Wagon R VXi,425000,34124,Petrol,Kolkata,2018
+1953,Maruti Suzuki Celerio VXi [2019-2020],486000,25834,Petrol,Delhi,2019
+1954,Maruti Suzuki Alto K10 LXi,236000,58073,Petrol,Delhi,2014
+1955,Maruti Suzuki Wagon R 1.0,357000,52002,Petrol,Bangalore,2013
+1956,Hyundai Tucson GLS 4WD AT,1990000,17852,Diesel,Ahmedabad,2018
+1957,Volkswagen Tiguan Highline TDI,2495000,41797,Diesel,Thane,2018
+1958,Jaguar XF 2.2 Diesel Luxury,1950000,36000,Diesel,Kolkata,2014
+1959,Honda Amaze 1.2 S i-VTEC,521000,37206,Petrol,Pune,2016
+1960,Maruti Suzuki Wagon R 1.0,335000,106900,CNG,Thane,2013
+1961,Hyundai Elite i20 Asta 1.2,640000,46000,Petrol,Thane,2017
+1962,BMW X4 xDrive20d M Sport,6250000,13600,Diesel,Ahmedabad,2020
+1963,Maruti Suzuki Vitara Brezza VDi,735000,69812,Diesel,Delhi,2018
+1964,Maruti Suzuki Vitara Brezza VDi,801000,33747,Diesel,Delhi,2019
+1965,Hyundai Grand i10 Magna 1.2,360000,36122,Petrol,Kolkata,2015
+1966,Maruti Suzuki Wagon R 1.0,475000,38447,Petrol,Thane,2019
+1967,Hyundai Elite i20 Sportz 1.2,635000,18000,Petrol,Thane,2017
+1968,Hyundai i10 Magna 1.2 Kappa2,295000,63000,Petrol,Mumbai,2013
+1969,Hyundai Grand i10 Nios Magna,712000,24736,Petrol,Pune,2020
+1970,Ford Endeavour Titanium 3.2 4x4,3189000,25160,Diesel,Delhi,2018
+1971,Audi Q3 35 TDI Premium,2150000,76840,Diesel,Hyderabad,2016
+1972,BMW X1 sDrive20i xLine,4190000,19000,Petrol,Pune,2021
+1973,Maruti Suzuki Wagon R 1.0,450000,56000,Petrol,Thane,2015
+1974,Hyundai i10 1.1L iRDE Magna,359000,26250,Petrol,Delhi,2015
+1975,Hyundai i10 Magna,250000,43278,Petrol,Hyderabad,2008
+1976,Hyundai Creta 1.6 SX Plus,1275000,58676,Petrol,Mumbai,2018
+1977,Maruti Suzuki Dzire VXi,641000,30663,Petrol,Chennai,2019
+1978,Maruti Suzuki Swift DZire VXI,415000,71138,Petrol,Thane,2013
+1979,Ford EcoSport Titanium + 1.5L,1085000,17002,Petrol,Bangalore,2019
+1980,Skoda Yeti Active 2.0 TDI,349000,86000,Diesel,Ahmedabad,2012
+1981,Hyundai Santro Xing XG AT,300000,74000,Petrol,Pallikarnai,2007
+1982,Maruti Suzuki Alto K10 VXi,234000,15685,Petrol,Pune,2012
+1983,Tata Tiago XE,400000,100088,Petrol,Ambattur,2022
+1984,Mercedes-Benz GL 350 CDI,4700000,69000,Diesel,Hyderabad,2015
+1985,Honda City E,530000,69000,Petrol,Pallikarnai,2014
+1986,Maruti Suzuki Baleno Alpha 1.2,690000,40244,Petrol,Mumbai,2018
+1987,Ford EcoSport Titanium 1.5L Ti-VCT,829000,35724,Petrol,Bangalore,2017
+1988,Hyundai Tucson 2WD MT Diesel,761000,12030,Diesel,Delhi,2021
+1989,Maruti Suzuki Ciaz Sigma 1.4,697000,43152,Petrol,Pune,2017
+1990,Hyundai Creta SX Plus 1.6,1195000,120000,Diesel,Hyderabad,2017
+1991,MG Hector Sharp 1.5 DCT,1800000,21105,Petrol,Hyderabad,2021
+1992,Honda Brio S MT,439000,46089,Petrol,Bangalore,2014
+1993,Maruti Suzuki Eeco 5 STR,492000,18568,Petrol,Chennai,2020
+1994,Hyundai Grand i10 Magna 1.2,539000,57847,Petrol,Bangalore,2018
+1995,Volkswagen Vento Highline Diesel AT,635000,58436,Diesel,Mumbai,2015
+1996,Maruti Suzuki Swift VXi,490000,52000,Petrol,Ahmedabad,2015
+1997,Volkswagen Vento Highline Plus 1.0L,1350000,30788,Petrol,Hyderabad,2021
+1998,Honda Amaze 1.5 S i-DTEC,450000,90354,Diesel,Hyderabad,2014
+1999,Kia Seltos HTE 1.5,1075000,11870,Petrol,Chennai,2021
+2000,Toyota Corolla Altis 1.8 G,345000,149500,CNG,Thane,2010
+2001,Hyundai Xcent S 1.2 (O),475000,44000,Petrol,Ahmedabad,2015
+2002,Hyundai Santa Fe 2WD MT,1625000,55545,Diesel,Bangalore,2015
+2003,Tata Tiago Revotron XT [2016-2019],445000,57000,Petrol,Noida,2018
+2004,Skoda Rapid Style 1.5 TDI,825000,123000,Diesel,Hyderabad,2017
+2005,Maruti Suzuki Celerio VXi AMT,445000,24595,Petrol,Mumbai,2016
+2006,Maruti Suzuki Ritz Zxi BS-IV,325000,49000,Petrol,Mumbai,2012
+2007,Tata Safari XZA Plus Adventure,2400000,16600,Diesel,Hyderabad,2021
+2008,Maruti Suzuki Ciaz Alpha 1.4,923000,30830,Petrol,Pune,2018
+2009,Maruti Suzuki Wagon R 1.0,465000,72000,CNG,Thane,2017
+2010,Audi A4 2.0 TDI (177bhp),1650000,89070,Diesel,Ahmedabad,2014
+2011,Mahindra XUV300 1.2 W6 [2019-2019],724000,15777,Petrol,Kolkata,2021
+2012,Skoda Kodiaq Style 2.0 TDI,2975000,25000,Diesel,Mumbai,2017
+2013,Hyundai Creta SX Plus 1.6,1023000,56907,Diesel,Kolkata,2018
+2014,Toyota Innova Crysta ZX 2.4,3100000,33500,Diesel,Hyderabad,2021
+2015,Maruti Suzuki Alto 800 Lxi,298000,24456,Petrol,Pune,2016
+2016,Volkswagen Vento Highline Diesel AT,790000,48000,Diesel,Ahmedabad,2016
+2017,Hyundai Grand i10 Nios Sportz,709000,21187,CNG,Pune,2021
+2018,Hyundai Elite i20 Magna 1.2,395000,58326,Petrol,Delhi,2014
+2019,Maruti Suzuki Eeco 5 STR,433000,12566,Petrol,Chennai,2019
+2020,Maruti Suzuki Celerio ZXi,398000,49821,Petrol,Delhi,2015
+2021,Hyundai Grand i10 Sportz (O),395000,25028,Petrol,Mumbai,2013
+2022,Mahindra KUV100 NXT K2 6,451000,41604,Petrol,Ahmedabad,2018
+2023,Maruti Suzuki Wagon R 1.0,255000,80386,Petrol,Pune,2011
+2024,Mercedes-Benz E-Class E 220 d,6000000,17500,Diesel,Ahmedabad,2020
+2025,Maruti Suzuki Ciaz Alpha 1.3,870000,27095,Diesel,Kolkata,2019
+2026,Honda City VX Diesel,885000,34178,Diesel,Kolkata,2018
+2027,Mahindra XUV500 W10,975000,37000,Diesel,Kolkata,2016
+2028,Hyundai Elantra 1.6 SX (O),1300000,85930,Diesel,Hyderabad,2017
+2029,Hyundai Grand i10 Sportz 1.2,530000,35373,Petrol,Hyderabad,2017
+2030,Hyundai Elite i20 Asta 1.2,446000,54136,Petrol,Kolkata,2015
+2031,BMW 5 Series 530i M,6800000,9664,Petrol,Mumbai,2022
+2032,Honda Jazz VX Petrol,532000,34640,Petrol,Kolkata,2018
+2033,Renault Duster RXL Petrol,699000,50244,Petrol,Bangalore,2017
+2034,Honda WR-V VX MT Petrol,785000,29099,Petrol,Mumbai,2018
+2035,Volkswagen Polo GT TSI,695000,27239,Petrol,Thane,2016
+2036,Hyundai i10 Sportz 1.1 iRDE2,245000,41000,Petrol,Kolkata,2014
+2037,Datsun GO+ T (O) W/VDC,498000,15755,Petrol,Kolkata,2019
+2038,Audi A4 2.0 TDI (177bhp),1395000,57566,Diesel,Thane,2015
+2039,Maruti Suzuki Alto 800 Lxi,239000,65315,Petrol,Hyderabad,2012
+2040,Maruti Suzuki Alto K10 VXi,379000,74200,Petrol,Bangalore,2016
+2041,Hyundai Elite i20 Magna Executive,690000,45000,Petrol,Ahmedabad,2018
+2042,Skoda Slavia Style 1.0L TSI,1658000,6098,Petrol,Chennai,2022
+2043,Hyundai i10 1.1L iRDE Magna,425000,46150,Petrol,Ahmedabad,2016
+2044,BMW X1 sDrive20d Expedition,2250000,68714,Diesel,Hyderabad,2016
+2045,Honda Amaze 1.2 S i-VTEC,430000,61000,Petrol,Ahmedabad,2013
+2046,BMW X1 sDrive20d xLine,4475000,7100,Diesel,Chennai,2021
+2047,Mercedes-Benz S-Class S 350 CDI,6900000,18000,Diesel,Ahmedabad,2017
+2048,Maruti Suzuki Swift VXi AMT,795000,21800,Petrol,Bangalore,2020
+2049,Hyundai Santro Sportz,589000,47873,Petrol,Pune,2020
+2050,Maruti Suzuki Wagon R 1.0,475000,84827,Petrol,Chennai,2018
+2051,Tata Tiago Revotron XZA [2017-2019],475000,34867,Petrol,Mumbai,2017
+2052,Volvo V40 D3 R-Design,1675000,47000,Diesel,Mumbai,2018
+2053,Renault Kwid 1.0 RXT AMT,456000,53447,Petrol,Chennai,2019
+2054,Bentley Continental GT Coupe,7000000,19506,Petrol,Hyderabad,2008
+2055,Hyundai Grand i10 Magna 1.2,394000,67844,Petrol,Pune,2014
+2056,Renault Kwid 1.0 RXL [2017-2019],335000,32000,Petrol,Thane,2017
+2057,Honda Amaze 1.2 S AT,649000,15075,Petrol,Bangalore,2016
+2058,Hyundai Elite i20 Asta 1.2,650000,100000,Petrol,Hyderabad,2016
+2059,Honda Brio VX AT,435000,46314,Petrol,Mumbai,2014
+2060,Maruti Suzuki Baleno Zeta 1.3,730000,58238,Diesel,Hyderabad,2017
+2061,Ford Figo Trend 1.2 Ti-VCT,430000,44000,Petrol,Ahmedabad,2017
+2062,Skoda Rapid Style 1.6 MPI,666000,45834,Petrol,Pune,2016
+2063,MG Gloster Savvy 6 STR,3900000,22000,Diesel,Hyderabad,2020
+2064,Ford Aspire Trend Plus CNG,677000,47781,CNG,Pune,2019
+2065,Honda WR-V VX MT Petrol,735000,51425,Petrol,Ahmedabad,2018
+2066,Jaguar XE Prestige Diesel,3775000,9090,Diesel,Bangalore,2018
+2067,Tata Nexon EV XZ Plus,1875000,7000,Electric,Ahmedabad,2022
+2068,Honda Amaze 1.2 VX i-VTEC,439000,44114,Petrol,Pune,2013
+2069,Honda Jazz SV Petrol,495000,52000,Petrol,Noida,2015
+2070,Tata Safari XZA New,2615000,6625,Diesel,Pune,2022
+2071,Renault Duster 110 PS RXZ,895000,62732,Diesel,Thane,2018
+2072,Toyota Innova Crysta 2.8 ZX,2400000,121842,Diesel,Hyderabad,2018
+2073,Skoda Rapid Ambition 1.6 MPI,899000,57702,Petrol,Bangalore,2018
+2074,Hyundai Verna Fluidic 1.6 VTVT,649000,40493,Petrol,Bangalore,2015
+2075,Maruti Suzuki Swift VDi,750000,65000,Diesel,Hyderabad,2018
+2076,Ford EcoSport Ambiente 1.5L Ti-VCT,625000,30723,Petrol,Noida,2017
+2077,Hyundai i20 Sportz 1.2 (O),889000,15608,Petrol,Bangalore,2020
+2078,Renault Triber RXZ [2019-2020],765000,19000,Petrol,Mumbai,2021
+2079,Hyundai Grand i10 Sports Edition,349000,52242,Diesel,Kolkata,2015
+2080,Tata Harrier XZ [2019-2020],1550000,45163,Diesel,Ahmedabad,2019
+2081,Tata Altroz XT Petrol,706000,33530,Petrol,Chennai,2020
+2082,Renault Duster RXL Petrol,789000,60444,Petrol,Bangalore,2017
+2083,Hyundai Elite i20 Magna Executive,538000,27189,Petrol,Kolkata,2018
+2084,Maruti Suzuki Ertiga Vxi CNG,715000,112000,CNG,Thane,2014
+2085,Toyota Corolla Altis VL AT,1295000,65100,Petrol,Thane,2018
+2086,Maruti Suzuki Dzire VXi AMT,647000,21477,Petrol,Delhi,2019
+2087,Honda City V,879000,14437,Petrol,Delhi,2018
+2088,Maruti Suzuki Alto LXi BS-III,180000,67181,Petrol,Hyderabad,2008
+2089,Honda City V CVT Petrol,935000,31482,Petrol,Thane,2018
+2090,Maruti Suzuki Dzire VXi,550000,27563,Petrol,Kolkata,2018
+2091,Land Rover Discovery Sport SE,6400000,8500,Petrol,Ahmedabad,2021
+2092,Honda Jazz V Petrol,425000,37210,Petrol,Kolkata,2016
+2093,Hyundai Grand i10 Sports Edition,450000,66250,Petrol,Ahmedabad,2014
+2094,Ford Figo Titanium1.5 TDCi,360000,42158,Diesel,Kolkata,2015
+2095,MINI Cooper Countryman Cooper D,2200000,68862,Diesel,Hyderabad,2013
+2096,Hyundai Verna 1.6 VTVT SX,838000,37622,Petrol,Chennai,2018
+2097,Maruti Suzuki Ciaz VXi+ AT,675000,64726,Petrol,Mumbai,2017
+2098,Hyundai Verna 1.6 VTVT SX,876000,29150,Petrol,Pune,2017
